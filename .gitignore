@@ -179,3 +179,99 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# =============================================================================
+# GeoStroke Project Specific - Large Files and Data
+# =============================================================================
+
+# Large raster datasets (these should be downloaded separately)
+*.tif
+*.tiff
+*.geotiff
+*.img
+*.hdf5
+*.h5
+*.nc
+*.netcdf
+
+# Very large pickle files (>100MB) - specific patterns for the largest isochrones
+# These patterns target the files over 100MB while preserving smaller cache files
+poly50_all_CTs_emergency.pkl
+poly55_all_CTs_emergency.pkl
+poly60_all_CTs_emergency.pkl
+poly60_all_CTs.pkl
+poly55_all_CTs.pkl
+
+# Pattern for very large emergency CT isochrones (these tend to be >100MB)
+poly*_all_CTs_emergency.pkl
+
+# Very large notebook outputs (notebooks with embedded large outputs)
+*_large_output.ipynb
+*_with_maps.ipynb
+
+# Generated result files that are too large
+Results/Dual_All_Scenarios/
+Results/Counties/*/Isochrones_*.png
+Results/States/*/Isochrones_*.png
+Graphs/*.eps
+Graphs/*.tiff
+
+# OpenRouteService local data
+graphs/
+elevation_cache/
+ors-data/
+osm_data/
+
+# Large compressed archives
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
+*.rar
+# Exception: small example data archives are OK
+!examples/*.zip
+!sample_data/*.zip
+
+# Large Excel files with detailed results
+*_detailed_*.xlsx
+*_comprehensive_*.xlsx
+Results/**/pop_results_*.xlsx
+
+# Large PDF reports
+*_supplement.pdf
+*_detailed.pdf
+Counties_*_detailed.pdf
+
+# Temporary large files
+temp_large/
+scratch/
+tmp_analysis/
+
+# macOS specific large files
+.DS_Store
+*.dmg
+
+# Large video/animation files
+*.mp4
+*.avi
+*.mov
+*.gif
+
+# Database files
+*.db
+*.sqlite
+*.mdb
+
+# R data files (if any R integration)
+*.RData
+*.rda
+
+# Large JSON files
+*_comprehensive.json
+*_detailed.json
+county_population_coverage_detailed.json
+
+# Backup directories that might contain large files
+backup/
+old_results/
+archive/
