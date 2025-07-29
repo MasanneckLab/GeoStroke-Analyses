@@ -322,22 +322,10 @@ export ORS_BASE_URL="http://localhost:8080/ors"
 ## Large File Management
 
 This repository includes automated protection against committing files larger than 100MB to prevent repository bloat and ensure smooth collaboration.
+You should be aware of this as not all isochornes could thus be pushed to the repository and might need to be recalculated. Those excluded are mentioned in the .gitignore.
 
-### 🛡️ Protection System
+Additionally, there is a small script to check for large files before commiting to GitHub, which you might find useful:
 
-#### Pre-commit Hook
-- **Automatic checking**: Every commit is scanned for files >100MB
-- **Immediate feedback**: Large files are detected before they enter the repository
-- **Helpful guidance**: Clear instructions on how to handle large files
-
-#### Smart .gitignore
-- **Targeted exclusions**: Specifically excludes the largest analysis files
-- **Preserves useful cache**: Keeps smaller .pkl files (~20-40MB) that aid development
-- **Pattern-based**: Uses intelligent patterns to catch large file categories
-
-### 🔧 Using the System
-
-#### Check for Large Files
 ```bash
 # Run the helper script to identify files >100MB
 ./check_large_files.sh
