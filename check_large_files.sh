@@ -39,8 +39,6 @@ else
 fi
 
 echo ""
-echo "💡 Tips:"
 echo "- Add large data files to .gitignore"
 echo "- Use 'git rm --cached <file>' to remove large files from staging"
-echo "- Consider Git LFS for large files that need version control"
 echo "- Check .gitignore to see what's already excluded" 

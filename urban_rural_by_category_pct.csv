@@ -1,0 +1,7 @@
+benefit_category,other,rural,urban
+High (30+ min),0.1,93.4,6.4
+Medium (20-30 min),0.1,93.9,5.9
+Low (10-20 min),0.2,91.5,8.3
+Only CT reachable within 60 min,0.8,98.0,1.2
+Neither reachable within 60 min,12.7,84.5,2.9
+Likely irrelevant (<10 min),0.2,86.3,13.5
