@@ -319,6 +319,67 @@ export GEOSTROKE_RESULTS="/path/to/results"
 export ORS_BASE_URL="http://localhost:8080/ors"
 ```
 
+## Large File Management
+
+This repository includes automated protection against committing files larger than 100MB to prevent repository bloat and ensure smooth collaboration.
+
+### 🛡️ Protection System
+
+#### Pre-commit Hook
+- **Automatic checking**: Every commit is scanned for files >100MB
+- **Immediate feedback**: Large files are detected before they enter the repository
+- **Helpful guidance**: Clear instructions on how to handle large files
+
+#### Smart .gitignore
+- **Targeted exclusions**: Specifically excludes the largest analysis files
+- **Preserves useful cache**: Keeps smaller .pkl files (~20-40MB) that aid development
+- **Pattern-based**: Uses intelligent patterns to catch large file categories
+
+### 🔧 Using the System
+
+#### Check for Large Files
+```bash
+# Run the helper script to identify files >100MB
+./check_large_files.sh
+```
+
+#### If You Encounter Large Files
+```bash
+# Remove large files from staging
+git reset HEAD <large-file>
+
+# Add to .gitignore if it shouldn't be tracked
+echo "large-file-pattern" >> .gitignore
+
+# Check current status
+git status
+```
+
+### 📋 What's Excluded
+
+#### Large Data Files (>100MB)
+- `poly*_all_CTs_emergency.pkl` - Large emergency CT isochrones
+- `poly60_all_CTs.pkl`, `poly55_all_CTs.pkl` - Largest CT hospital isochrones
+- `*.tif`, `*.tiff` - Raster datasets (e.g., GHS-POP ~10GB)
+
+#### Results and Outputs
+- Large visualization files (`*.eps`, `*.tiff`)
+- Comprehensive Excel reports (`*_detailed_*.xlsx`)
+- Generated PDF supplements
+
+#### What's Preserved
+- ✅ Smaller cache files (<100MB) - Essential for development
+- ✅ Source code and notebooks
+- ✅ Configuration files
+- ✅ Smaller result summaries
+
+### 💡 Tips
+
+- **Use the check script**: Run `./check_large_files.sh` before major commits
+- **Leverage caching**: Most large files are cached results that can be regenerated
+- **External storage**: Store very large datasets (like GHS-POP) separately and download as needed
+- **Git LFS option**: For large files that must be version-controlled, consider Git LFS
+
 ## Results
 
 ### Generated Outputs
