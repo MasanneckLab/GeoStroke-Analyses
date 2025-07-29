@@ -1,0 +1,2034 @@
+{
+  "Rheinland-Pfalz": {
+    "Landkreis Donnersbergkreis": {
+      "image": "Isochrones_Landkreis_Donnersbergkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Donnersbergkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Worms": {
+      "image": "Isochrones_Kreisfreie_Stadt_Worms_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Worms_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Mainz": {
+      "image": "Isochrones_Kreisfreie_Stadt_Mainz_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Mainz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Eifelkreis Bitburg-Prüm": {
+      "image": "Isochrones_Landkreis_Eifelkreis_Bitburg-Prüm_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Eifelkreis_Bitburg-Prüm_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Mayen-Koblenz": {
+      "image": "Isochrones_Landkreis_Mayen-Koblenz_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Mayen-Koblenz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Kusel": {
+      "image": "Isochrones_Landkreis_Kusel_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Kusel_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Südwestpfalz": {
+      "image": "Isochrones_Landkreis_Südwestpfalz_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Südwestpfalz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Neuwied": {
+      "image": "Isochrones_Landkreis_Neuwied_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Neuwied_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Mainz-Bingen": {
+      "image": "Isochrones_Landkreis_Mainz-Bingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Mainz-Bingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Kaiserslautern": {
+      "image": "Isochrones_Landkreis_Kaiserslautern_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Kaiserslautern_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Neustadt an der Weinstraße": {
+      "image": "Isochrones_Kreisfreie_Stadt_Neustadt_an_der_Weinstraße_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Neustadt_an_der_Weinstraße_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Birkenfeld": {
+      "image": "Isochrones_Landkreis_Birkenfeld_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Birkenfeld_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Landau in der Pfalz": {
+      "image": "Isochrones_Kreisfreie_Stadt_Landau_in_der_Pfalz_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Landau_in_der_Pfalz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Koblenz": {
+      "image": "Isochrones_Kreisfreie_Stadt_Koblenz_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Koblenz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Südliche Weinstraße": {
+      "image": "Isochrones_Landkreis_Südliche_Weinstraße_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Südliche_Weinstraße_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Frankenthal (Pfalz)": {
+      "image": "Isochrones_Kreisfreie_Stadt_Frankenthal_(Pfalz)_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Frankenthal_(Pfalz)_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rhein-Lahn-Kreis": {
+      "image": "Isochrones_Landkreis_Rhein-Lahn-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rhein-Lahn-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Bernkastel-Wittlich": {
+      "image": "Isochrones_Landkreis_Bernkastel-Wittlich_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Bernkastel-Wittlich_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Bad Kreuznach": {
+      "image": "Isochrones_Landkreis_Bad_Kreuznach_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Bad_Kreuznach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rhein-Pfalz-Kreis": {
+      "image": "Isochrones_Landkreis_Rhein-Pfalz-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rhein-Pfalz-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Zweibrücken": {
+      "image": "Isochrones_Kreisfreie_Stadt_Zweibrücken_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Zweibrücken_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Ludwigshafen am Rhein": {
+      "image": "Isochrones_Kreisfreie_Stadt_Ludwigshafen_am_Rhein_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Ludwigshafen_am_Rhein_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ahrweiler": {
+      "image": "Isochrones_Landkreis_Ahrweiler_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ahrweiler_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Cochem-Zell": {
+      "image": "Isochrones_Landkreis_Cochem-Zell_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Cochem-Zell_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Altenkirchen (Westerwald)": {
+      "image": "Isochrones_Landkreis_Altenkirchen_(Westerwald)_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Altenkirchen_(Westerwald)_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rhein-Hunsrück-Kreis": {
+      "image": "Isochrones_Landkreis_Rhein-Hunsrück-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rhein-Hunsrück-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Trier-Saarburg": {
+      "image": "Isochrones_Landkreis_Trier-Saarburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Trier-Saarburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Speyer": {
+      "image": "Isochrones_Kreisfreie_Stadt_Speyer_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Speyer_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Pirmasens": {
+      "image": "Isochrones_Kreisfreie_Stadt_Pirmasens_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Pirmasens_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Alzey-Worms": {
+      "image": "Isochrones_Landkreis_Alzey-Worms_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Alzey-Worms_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Germersheim": {
+      "image": "Isochrones_Landkreis_Germersheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Germersheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Vulkaneifel": {
+      "image": "Isochrones_Landkreis_Vulkaneifel_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Vulkaneifel_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Westerwaldkreis": {
+      "image": "Isochrones_Landkreis_Westerwaldkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Westerwaldkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Kaiserslautern": {
+      "image": "Isochrones_Kreisfreie_Stadt_Kaiserslautern_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Kaiserslautern_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Bad Dürkheim": {
+      "image": "Isochrones_Landkreis_Bad_Dürkheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Bad_Dürkheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Trier": {
+      "image": "Isochrones_Kreisfreie_Stadt_Trier_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Trier_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Sachsen": {
+    "Landkreis Zwickau": {
+      "image": "Isochrones_Landkreis_Zwickau_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Zwickau_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Sächsische Schweiz-Osterzgebirge": {
+      "image": "Isochrones_Landkreis_Sächsische_Schweiz-Osterzgebirge_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Sächsische_Schweiz-Osterzgebirge_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Chemnitz": {
+      "image": "Isochrones_Kreisfreie_Stadt_Chemnitz_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Chemnitz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Leipzig": {
+      "image": "Isochrones_Landkreis_Leipzig_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Leipzig_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Vogtlandkreis": {
+      "image": "Isochrones_Landkreis_Vogtlandkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Vogtlandkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Görlitz": {
+      "image": "Isochrones_Landkreis_Görlitz_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Görlitz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Dresden": {
+      "image": "Isochrones_Kreisfreie_Stadt_Dresden_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Dresden_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Leipzig": {
+      "image": "Isochrones_Kreisfreie_Stadt_Leipzig_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Leipzig_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Nordsachsen": {
+      "image": "Isochrones_Landkreis_Nordsachsen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Nordsachsen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Mittelsachsen": {
+      "image": "Isochrones_Landkreis_Mittelsachsen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Mittelsachsen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Bautzen": {
+      "image": "Isochrones_Landkreis_Bautzen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Bautzen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Erzgebirgskreis": {
+      "image": "Isochrones_Landkreis_Erzgebirgskreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Erzgebirgskreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Meißen": {
+      "image": "Isochrones_Landkreis_Meißen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Meißen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Thüringen": {
+    "Landkreis Saale-Holzland-Kreis": {
+      "image": "Isochrones_Landkreis_Saale-Holzland-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Saale-Holzland-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Erfurt": {
+      "image": "Isochrones_Kreisfreie_Stadt_Erfurt_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Erfurt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Hildburghausen": {
+      "image": "Isochrones_Landkreis_Hildburghausen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Hildburghausen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Greiz": {
+      "image": "Isochrones_Landkreis_Greiz_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Greiz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Gotha": {
+      "image": "Isochrones_Landkreis_Gotha_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Gotha_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Weimarer Land": {
+      "image": "Isochrones_Landkreis_Weimarer_Land_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Weimarer_Land_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Schmalkalden-Meiningen": {
+      "image": "Isochrones_Landkreis_Schmalkalden-Meiningen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Schmalkalden-Meiningen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Sonneberg": {
+      "image": "Isochrones_Landkreis_Sonneberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Sonneberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Gera": {
+      "image": "Isochrones_Kreisfreie_Stadt_Gera_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Gera_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Eichsfeld": {
+      "image": "Isochrones_Landkreis_Eichsfeld_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Eichsfeld_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Weimar": {
+      "image": "Isochrones_Kreisfreie_Stadt_Weimar_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Weimar_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Sömmerda": {
+      "image": "Isochrones_Landkreis_Sömmerda_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Sömmerda_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Saalfeld-Rudolstadt": {
+      "image": "Isochrones_Landkreis_Saalfeld-Rudolstadt_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Saalfeld-Rudolstadt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Jena": {
+      "image": "Isochrones_Kreisfreie_Stadt_Jena_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Jena_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Suhl": {
+      "image": "Isochrones_Kreisfreie_Stadt_Suhl_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Suhl_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ilm-Kreis": {
+      "image": "Isochrones_Landkreis_Ilm-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ilm-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Kyffhäuserkreis": {
+      "image": "Isochrones_Landkreis_Kyffhäuserkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Kyffhäuserkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Wartburgkreis": {
+      "image": "Isochrones_Landkreis_Wartburgkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Wartburgkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Saale-Orla-Kreis": {
+      "image": "Isochrones_Landkreis_Saale-Orla-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Saale-Orla-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Nordhausen": {
+      "image": "Isochrones_Landkreis_Nordhausen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Nordhausen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Altenburger Land": {
+      "image": "Isochrones_Landkreis_Altenburger_Land_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Altenburger_Land_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Unstrut-Hainich-Kreis": {
+      "image": "Isochrones_Landkreis_Unstrut-Hainich-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Unstrut-Hainich-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Hessen": {
+    "Landkreis Main-Taunus-Kreis": {
+      "image": "Isochrones_Landkreis_Main-Taunus-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Main-Taunus-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rheingau-Taunus-Kreis": {
+      "image": "Isochrones_Landkreis_Rheingau-Taunus-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rheingau-Taunus-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Wetteraukreis": {
+      "image": "Isochrones_Landkreis_Wetteraukreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Wetteraukreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Bergstraße": {
+      "image": "Isochrones_Landkreis_Bergstraße_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Bergstraße_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Offenbach am Main": {
+      "image": "Isochrones_Kreisfreie_Stadt_Offenbach_am_Main_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Offenbach_am_Main_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Wiesbaden": {
+      "image": "Isochrones_Kreisfreie_Stadt_Wiesbaden_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Wiesbaden_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Odenwaldkreis": {
+      "image": "Isochrones_Landkreis_Odenwaldkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Odenwaldkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Werra-Meißner-Kreis": {
+      "image": "Isochrones_Landkreis_Werra-Meißner-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Werra-Meißner-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Main-Kinzig-Kreis": {
+      "image": "Isochrones_Landkreis_Main-Kinzig-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Main-Kinzig-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Gießen": {
+      "image": "Isochrones_Landkreis_Gießen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Gießen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Frankfurt am Main": {
+      "image": "Isochrones_Kreisfreie_Stadt_Frankfurt_am_Main_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Frankfurt_am_Main_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Hochtaunuskreis": {
+      "image": "Isochrones_Landkreis_Hochtaunuskreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Hochtaunuskreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Fulda": {
+      "image": "Isochrones_Landkreis_Fulda_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Fulda_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Hersfeld-Rotenburg": {
+      "image": "Isochrones_Landkreis_Hersfeld-Rotenburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Hersfeld-Rotenburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Darmstadt": {
+      "image": "Isochrones_Kreisfreie_Stadt_Darmstadt_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Darmstadt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Groß-Gerau": {
+      "image": "Isochrones_Landkreis_Groß-Gerau_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Groß-Gerau_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Kassel": {
+      "image": "Isochrones_Kreisfreie_Stadt_Kassel_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Kassel_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Lahn-Dill-Kreis": {
+      "image": "Isochrones_Landkreis_Lahn-Dill-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Lahn-Dill-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Marburg-Biedenkopf": {
+      "image": "Isochrones_Landkreis_Marburg-Biedenkopf_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Marburg-Biedenkopf_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Darmstadt-Dieburg": {
+      "image": "Isochrones_Landkreis_Darmstadt-Dieburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Darmstadt-Dieburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Limburg-Weilburg": {
+      "image": "Isochrones_Landkreis_Limburg-Weilburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Limburg-Weilburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Waldeck-Frankenberg": {
+      "image": "Isochrones_Landkreis_Waldeck-Frankenberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Waldeck-Frankenberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Kassel": {
+      "image": "Isochrones_Landkreis_Kassel_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Kassel_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Offenbach": {
+      "image": "Isochrones_Landkreis_Offenbach_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Offenbach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Schwalm-Eder-Kreis": {
+      "image": "Isochrones_Landkreis_Schwalm-Eder-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Schwalm-Eder-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Vogelsbergkreis": {
+      "image": "Isochrones_Landkreis_Vogelsbergkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Vogelsbergkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Saarland": {
+    "Landkreis Regionalverband Saarbrücken": {
+      "image": "Isochrones_Landkreis_Regionalverband_Saarbrücken_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Regionalverband_Saarbrücken_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Saarlouis": {
+      "image": "Isochrones_Landkreis_Saarlouis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Saarlouis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis St. Wendel": {
+      "image": "Isochrones_Landkreis_St._Wendel_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_St._Wendel_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Saarpfalz-Kreis": {
+      "image": "Isochrones_Landkreis_Saarpfalz-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Saarpfalz-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Neunkirchen": {
+      "image": "Isochrones_Landkreis_Neunkirchen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Neunkirchen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Merzig-Wadern": {
+      "image": "Isochrones_Landkreis_Merzig-Wadern_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Merzig-Wadern_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Niedersachsen": {
+    "Landkreis Wolfenbüttel": {
+      "image": "Isochrones_Landkreis_Wolfenbüttel_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Wolfenbüttel_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Emsland": {
+      "image": "Isochrones_Landkreis_Emsland_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Emsland_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Peine": {
+      "image": "Isochrones_Landkreis_Peine_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Peine_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Delmenhorst": {
+      "image": "Isochrones_Kreisfreie_Stadt_Delmenhorst_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Delmenhorst_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Salzgitter": {
+      "image": "Isochrones_Kreisfreie_Stadt_Salzgitter_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Salzgitter_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Uelzen": {
+      "image": "Isochrones_Landkreis_Uelzen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Uelzen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Osnabrück": {
+      "image": "Isochrones_Landkreis_Osnabrück_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Osnabrück_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Oldenburg (Oldb)": {
+      "image": "Isochrones_Kreisfreie_Stadt_Oldenburg_(Oldb)_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Oldenburg_(Oldb)_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Heidekreis": {
+      "image": "Isochrones_Landkreis_Heidekreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Heidekreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Göttingen": {
+      "image": "Isochrones_Landkreis_Göttingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Göttingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Vechta": {
+      "image": "Isochrones_Landkreis_Vechta_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Vechta_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Stade": {
+      "image": "Isochrones_Landkreis_Stade_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Stade_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Diepholz": {
+      "image": "Isochrones_Landkreis_Diepholz_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Diepholz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Lüchow-Dannenberg": {
+      "image": "Isochrones_Landkreis_Lüchow-Dannenberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Lüchow-Dannenberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Wilhelmshaven": {
+      "image": "Isochrones_Kreisfreie_Stadt_Wilhelmshaven_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Wilhelmshaven_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Gifhorn": {
+      "image": "Isochrones_Landkreis_Gifhorn_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Gifhorn_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Verden": {
+      "image": "Isochrones_Landkreis_Verden_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Verden_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Cloppenburg": {
+      "image": "Isochrones_Landkreis_Cloppenburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Cloppenburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Leer": {
+      "image": "Isochrones_Landkreis_Leer_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Leer_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Osnabrück": {
+      "image": "Isochrones_Kreisfreie_Stadt_Osnabrück_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Osnabrück_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Emden": {
+      "image": "Isochrones_Kreisfreie_Stadt_Emden_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Emden_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Hildesheim": {
+      "image": "Isochrones_Landkreis_Hildesheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Hildesheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Grafschaft Bentheim": {
+      "image": "Isochrones_Landkreis_Grafschaft_Bentheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Grafschaft_Bentheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Holzminden": {
+      "image": "Isochrones_Landkreis_Holzminden_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Holzminden_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Wolfsburg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Wolfsburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Wolfsburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Celle": {
+      "image": "Isochrones_Landkreis_Celle_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Celle_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Braunschweig": {
+      "image": "Isochrones_Kreisfreie_Stadt_Braunschweig_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Braunschweig_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Wesermarsch": {
+      "image": "Isochrones_Landkreis_Wesermarsch_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Wesermarsch_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ammerland": {
+      "image": "Isochrones_Landkreis_Ammerland_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ammerland_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Hameln-Pyrmont": {
+      "image": "Isochrones_Landkreis_Hameln-Pyrmont_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Hameln-Pyrmont_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Oldenburg": {
+      "image": "Isochrones_Landkreis_Oldenburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Oldenburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Aurich": {
+      "image": "Isochrones_Landkreis_Aurich_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Aurich_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Northeim": {
+      "image": "Isochrones_Landkreis_Northeim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Northeim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Goslar": {
+      "image": "Isochrones_Landkreis_Goslar_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Goslar_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Harburg": {
+      "image": "Isochrones_Landkreis_Harburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Harburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Friesland": {
+      "image": "Isochrones_Landkreis_Friesland_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Friesland_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Region Hannover": {
+      "image": "Isochrones_Landkreis_Region_Hannover_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Region_Hannover_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Osterholz": {
+      "image": "Isochrones_Landkreis_Osterholz_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Osterholz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Schaumburg": {
+      "image": "Isochrones_Landkreis_Schaumburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Schaumburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Helmstedt": {
+      "image": "Isochrones_Landkreis_Helmstedt_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Helmstedt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rotenburg (Wümme)": {
+      "image": "Isochrones_Landkreis_Rotenburg_(Wümme)_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rotenburg_(Wümme)_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Nienburg (Weser)": {
+      "image": "Isochrones_Landkreis_Nienburg_(Weser)_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Nienburg_(Weser)_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Wittmund": {
+      "image": "Isochrones_Landkreis_Wittmund_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Wittmund_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Lüneburg": {
+      "image": "Isochrones_Landkreis_Lüneburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Lüneburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Cuxhaven": {
+      "image": "Isochrones_Landkreis_Cuxhaven_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Cuxhaven_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Baden-Württemberg": {
+    "Landkreis Breisgau-Hochschwarzwald": {
+      "image": "Isochrones_Landkreis_Breisgau-Hochschwarzwald_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Breisgau-Hochschwarzwald_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Stadtkreis Ulm": {
+      "image": "Isochrones_Stadtkreis_Ulm_CT_vs_Stroke.png",
+      "excel": "pop_results_Stadtkreis_Ulm_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Stadtkreis Mannheim": {
+      "image": "Isochrones_Stadtkreis_Mannheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Stadtkreis_Mannheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Böblingen": {
+      "image": "Isochrones_Landkreis_Böblingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Böblingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Zollernalbkreis": {
+      "image": "Isochrones_Landkreis_Zollernalbkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Zollernalbkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Tübingen": {
+      "image": "Isochrones_Landkreis_Tübingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Tübingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Sigmaringen": {
+      "image": "Isochrones_Landkreis_Sigmaringen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Sigmaringen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Heidenheim": {
+      "image": "Isochrones_Landkreis_Heidenheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Heidenheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Stadtkreis Heidelberg": {
+      "image": "Isochrones_Stadtkreis_Heidelberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Stadtkreis_Heidelberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Tuttlingen": {
+      "image": "Isochrones_Landkreis_Tuttlingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Tuttlingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ludwigsburg": {
+      "image": "Isochrones_Landkreis_Ludwigsburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ludwigsburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Esslingen": {
+      "image": "Isochrones_Landkreis_Esslingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Esslingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Calw": {
+      "image": "Isochrones_Landkreis_Calw_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Calw_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ortenaukreis": {
+      "image": "Isochrones_Landkreis_Ortenaukreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ortenaukreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Alb-Donau-Kreis": {
+      "image": "Isochrones_Landkreis_Alb-Donau-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Alb-Donau-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Bodenseekreis": {
+      "image": "Isochrones_Landkreis_Bodenseekreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Bodenseekreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rottweil": {
+      "image": "Isochrones_Landkreis_Rottweil_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rottweil_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Stadtkreis Freiburg im Breisgau": {
+      "image": "Isochrones_Stadtkreis_Freiburg_im_Breisgau_CT_vs_Stroke.png",
+      "excel": "pop_results_Stadtkreis_Freiburg_im_Breisgau_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Göppingen": {
+      "image": "Isochrones_Landkreis_Göppingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Göppingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Heilbronn": {
+      "image": "Isochrones_Landkreis_Heilbronn_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Heilbronn_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Biberach": {
+      "image": "Isochrones_Landkreis_Biberach_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Biberach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Karlsruhe": {
+      "image": "Isochrones_Landkreis_Karlsruhe_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Karlsruhe_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Freudenstadt": {
+      "image": "Isochrones_Landkreis_Freudenstadt_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Freudenstadt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Reutlingen": {
+      "image": "Isochrones_Landkreis_Reutlingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Reutlingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Konstanz": {
+      "image": "Isochrones_Landkreis_Konstanz_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Konstanz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Schwäbisch Hall": {
+      "image": "Isochrones_Landkreis_Schwäbisch_Hall_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Schwäbisch_Hall_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Stadtkreis Stuttgart": {
+      "image": "Isochrones_Stadtkreis_Stuttgart_CT_vs_Stroke.png",
+      "excel": "pop_results_Stadtkreis_Stuttgart_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Waldshut": {
+      "image": "Isochrones_Landkreis_Waldshut_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Waldshut_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Stadtkreis Pforzheim": {
+      "image": "Isochrones_Stadtkreis_Pforzheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Stadtkreis_Pforzheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rastatt": {
+      "image": "Isochrones_Landkreis_Rastatt_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rastatt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Schwarzwald-Baar-Kreis": {
+      "image": "Isochrones_Landkreis_Schwarzwald-Baar-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Schwarzwald-Baar-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rems-Murr-Kreis": {
+      "image": "Isochrones_Landkreis_Rems-Murr-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rems-Murr-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Main-Tauber-Kreis": {
+      "image": "Isochrones_Landkreis_Main-Tauber-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Main-Tauber-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Lörrach": {
+      "image": "Isochrones_Landkreis_Lörrach_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Lörrach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Neckar-Odenwald-Kreis": {
+      "image": "Isochrones_Landkreis_Neckar-Odenwald-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Neckar-Odenwald-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rhein-Neckar-Kreis": {
+      "image": "Isochrones_Landkreis_Rhein-Neckar-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rhein-Neckar-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Stadtkreis Heilbronn": {
+      "image": "Isochrones_Stadtkreis_Heilbronn_CT_vs_Stroke.png",
+      "excel": "pop_results_Stadtkreis_Heilbronn_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ostalbkreis": {
+      "image": "Isochrones_Landkreis_Ostalbkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ostalbkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Stadtkreis Karlsruhe": {
+      "image": "Isochrones_Stadtkreis_Karlsruhe_CT_vs_Stroke.png",
+      "excel": "pop_results_Stadtkreis_Karlsruhe_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Hohenlohekreis": {
+      "image": "Isochrones_Landkreis_Hohenlohekreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Hohenlohekreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Enzkreis": {
+      "image": "Isochrones_Landkreis_Enzkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Enzkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ravensburg": {
+      "image": "Isochrones_Landkreis_Ravensburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ravensburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Emmendingen": {
+      "image": "Isochrones_Landkreis_Emmendingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Emmendingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Stadtkreis Baden-Baden": {
+      "image": "Isochrones_Stadtkreis_Baden-Baden_CT_vs_Stroke.png",
+      "excel": "pop_results_Stadtkreis_Baden-Baden_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Brandenburg": {
+    "Landkreis Märkisch-Oderland": {
+      "image": "Isochrones_Landkreis_Märkisch-Oderland_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Märkisch-Oderland_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Oder-Spree": {
+      "image": "Isochrones_Landkreis_Oder-Spree_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Oder-Spree_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Oberhavel": {
+      "image": "Isochrones_Landkreis_Oberhavel_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Oberhavel_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Uckermark": {
+      "image": "Isochrones_Landkreis_Uckermark_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Uckermark_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Barnim": {
+      "image": "Isochrones_Landkreis_Barnim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Barnim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ostprignitz-Ruppin": {
+      "image": "Isochrones_Landkreis_Ostprignitz-Ruppin_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ostprignitz-Ruppin_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Havelland": {
+      "image": "Isochrones_Landkreis_Havelland_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Havelland_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Prignitz": {
+      "image": "Isochrones_Landkreis_Prignitz_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Prignitz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Oberspreewald-Lausitz": {
+      "image": "Isochrones_Landkreis_Oberspreewald-Lausitz_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Oberspreewald-Lausitz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Teltow-Fläming": {
+      "image": "Isochrones_Landkreis_Teltow-Fläming_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Teltow-Fläming_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Spree-Neiße": {
+      "image": "Isochrones_Landkreis_Spree-Neiße_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Spree-Neiße_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Dahme-Spreewald": {
+      "image": "Isochrones_Landkreis_Dahme-Spreewald_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Dahme-Spreewald_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Brandenburg an der Havel": {
+      "image": "Isochrones_Kreisfreie_Stadt_Brandenburg_an_der_Havel_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Brandenburg_an_der_Havel_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Elbe-Elster": {
+      "image": "Isochrones_Landkreis_Elbe-Elster_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Elbe-Elster_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Cottbus": {
+      "image": "Isochrones_Kreisfreie_Stadt_Cottbus_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Cottbus_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Potsdam-Mittelmark": {
+      "image": "Isochrones_Landkreis_Potsdam-Mittelmark_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Potsdam-Mittelmark_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Potsdam": {
+      "image": "Isochrones_Kreisfreie_Stadt_Potsdam_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Potsdam_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Frankfurt (Oder)": {
+      "image": "Isochrones_Kreisfreie_Stadt_Frankfurt_(Oder)_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Frankfurt_(Oder)_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Hamburg": {
+    "Kreisfreie Stadt Hamburg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Hamburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Hamburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Mecklenburg-Vorpommern": {
+    "Landkreis Rostock": {
+      "image": "Isochrones_Landkreis_Rostock_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rostock_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Vorpommern-Rügen": {
+      "image": "Isochrones_Landkreis_Vorpommern-Rügen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Vorpommern-Rügen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Vorpommern-Greifswald": {
+      "image": "Isochrones_Landkreis_Vorpommern-Greifswald_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Vorpommern-Greifswald_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Schwerin": {
+      "image": "Isochrones_Kreisfreie_Stadt_Schwerin_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Schwerin_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Mecklenburgische Seenplatte": {
+      "image": "Isochrones_Landkreis_Mecklenburgische_Seenplatte_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Mecklenburgische_Seenplatte_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Rostock": {
+      "image": "Isochrones_Kreisfreie_Stadt_Rostock_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Rostock_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Nordwestmecklenburg": {
+      "image": "Isochrones_Landkreis_Nordwestmecklenburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Nordwestmecklenburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ludwigslust-Parchim": {
+      "image": "Isochrones_Landkreis_Ludwigslust-Parchim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ludwigslust-Parchim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Sachsen-Anhalt": {
+    "Kreisfreie Stadt Magdeburg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Magdeburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Magdeburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Börde": {
+      "image": "Isochrones_Landkreis_Börde_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Börde_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Saalekreis": {
+      "image": "Isochrones_Landkreis_Saalekreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Saalekreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Halle (Saale)": {
+      "image": "Isochrones_Kreisfreie_Stadt_Halle_(Saale)_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Halle_(Saale)_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Wittenberg": {
+      "image": "Isochrones_Landkreis_Wittenberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Wittenberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Mansfeld-Südharz": {
+      "image": "Isochrones_Landkreis_Mansfeld-Südharz_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Mansfeld-Südharz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Salzlandkreis": {
+      "image": "Isochrones_Landkreis_Salzlandkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Salzlandkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Dessau-Roßlau": {
+      "image": "Isochrones_Kreisfreie_Stadt_Dessau-Roßlau_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Dessau-Roßlau_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Stendal": {
+      "image": "Isochrones_Landkreis_Stendal_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Stendal_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Burgenlandkreis": {
+      "image": "Isochrones_Landkreis_Burgenlandkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Burgenlandkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Altmarkkreis Salzwedel": {
+      "image": "Isochrones_Landkreis_Altmarkkreis_Salzwedel_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Altmarkkreis_Salzwedel_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Harz": {
+      "image": "Isochrones_Landkreis_Harz_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Harz_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Anhalt-Bitterfeld": {
+      "image": "Isochrones_Landkreis_Anhalt-Bitterfeld_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Anhalt-Bitterfeld_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Jerichower Land": {
+      "image": "Isochrones_Landkreis_Jerichower_Land_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Jerichower_Land_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Berlin": {
+    "Kreisfreie Stadt Berlin": {
+      "image": "Isochrones_Kreisfreie_Stadt_Berlin_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Berlin_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Nordrhein-Westfalen": {
+    "Kreisfreie Stadt Mönchengladbach": {
+      "image": "Isochrones_Kreisfreie_Stadt_Mönchengladbach_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Mönchengladbach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Hochsauerlandkreis": {
+      "image": "Isochrones_Kreis_Hochsauerlandkreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Hochsauerlandkreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Unna": {
+      "image": "Isochrones_Kreis_Unna_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Unna_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Rhein-Kreis Neuss": {
+      "image": "Isochrones_Kreis_Rhein-Kreis_Neuss_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Rhein-Kreis_Neuss_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Herford": {
+      "image": "Isochrones_Kreis_Herford_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Herford_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Kleve": {
+      "image": "Isochrones_Kreis_Kleve_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Kleve_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Siegen-Wittgenstein": {
+      "image": "Isochrones_Kreis_Siegen-Wittgenstein_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Siegen-Wittgenstein_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Essen": {
+      "image": "Isochrones_Kreisfreie_Stadt_Essen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Essen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Wuppertal": {
+      "image": "Isochrones_Kreisfreie_Stadt_Wuppertal_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Wuppertal_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Münster": {
+      "image": "Isochrones_Kreisfreie_Stadt_Münster_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Münster_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Märkischer Kreis": {
+      "image": "Isochrones_Kreis_Märkischer_Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Märkischer_Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Lippe": {
+      "image": "Isochrones_Kreis_Lippe_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Lippe_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Minden-Lübbecke": {
+      "image": "Isochrones_Kreis_Minden-Lübbecke_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Minden-Lübbecke_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Remscheid": {
+      "image": "Isochrones_Kreisfreie_Stadt_Remscheid_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Remscheid_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Oberhausen": {
+      "image": "Isochrones_Kreisfreie_Stadt_Oberhausen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Oberhausen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Rhein-Erft-Kreis": {
+      "image": "Isochrones_Kreis_Rhein-Erft-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Rhein-Erft-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Düsseldorf": {
+      "image": "Isochrones_Kreisfreie_Stadt_Düsseldorf_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Düsseldorf_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Bochum": {
+      "image": "Isochrones_Kreisfreie_Stadt_Bochum_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Bochum_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Bonn": {
+      "image": "Isochrones_Kreisfreie_Stadt_Bonn_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Bonn_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Höxter": {
+      "image": "Isochrones_Kreis_Höxter_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Höxter_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Wesel": {
+      "image": "Isochrones_Kreis_Wesel_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Wesel_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Duisburg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Duisburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Duisburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Rheinisch-Bergischer Kreis": {
+      "image": "Isochrones_Kreis_Rheinisch-Bergischer_Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Rheinisch-Bergischer_Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Heinsberg": {
+      "image": "Isochrones_Kreis_Heinsberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Heinsberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Rhein-Sieg-Kreis": {
+      "image": "Isochrones_Kreis_Rhein-Sieg-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Rhein-Sieg-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Coesfeld": {
+      "image": "Isochrones_Kreis_Coesfeld_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Coesfeld_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Gelsenkirchen": {
+      "image": "Isochrones_Kreisfreie_Stadt_Gelsenkirchen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Gelsenkirchen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Hagen": {
+      "image": "Isochrones_Kreisfreie_Stadt_Hagen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Hagen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Recklinghausen": {
+      "image": "Isochrones_Kreis_Recklinghausen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Recklinghausen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Oberbergischer Kreis": {
+      "image": "Isochrones_Kreis_Oberbergischer_Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Oberbergischer_Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Dortmund": {
+      "image": "Isochrones_Kreisfreie_Stadt_Dortmund_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Dortmund_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Paderborn": {
+      "image": "Isochrones_Kreis_Paderborn_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Paderborn_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Hamm": {
+      "image": "Isochrones_Kreisfreie_Stadt_Hamm_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Hamm_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Mettmann": {
+      "image": "Isochrones_Kreis_Mettmann_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Mettmann_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Mülheim an der Ruhr": {
+      "image": "Isochrones_Kreisfreie_Stadt_Mülheim_an_der_Ruhr_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Mülheim_an_der_Ruhr_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Ennepe-Ruhr-Kreis": {
+      "image": "Isochrones_Kreis_Ennepe-Ruhr-Kreis_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Ennepe-Ruhr-Kreis_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Olpe": {
+      "image": "Isochrones_Kreis_Olpe_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Olpe_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Euskirchen": {
+      "image": "Isochrones_Kreis_Euskirchen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Euskirchen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Soest": {
+      "image": "Isochrones_Kreis_Soest_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Soest_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Borken": {
+      "image": "Isochrones_Kreis_Borken_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Borken_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Warendorf": {
+      "image": "Isochrones_Kreis_Warendorf_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Warendorf_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Bottrop": {
+      "image": "Isochrones_Kreisfreie_Stadt_Bottrop_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Bottrop_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Bielefeld": {
+      "image": "Isochrones_Kreisfreie_Stadt_Bielefeld_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Bielefeld_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Viersen": {
+      "image": "Isochrones_Kreis_Viersen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Viersen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Gütersloh": {
+      "image": "Isochrones_Kreis_Gütersloh_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Gütersloh_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Leverkusen": {
+      "image": "Isochrones_Kreisfreie_Stadt_Leverkusen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Leverkusen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Herne": {
+      "image": "Isochrones_Kreisfreie_Stadt_Herne_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Herne_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Düren": {
+      "image": "Isochrones_Kreis_Düren_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Düren_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Solingen": {
+      "image": "Isochrones_Kreisfreie_Stadt_Solingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Solingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Krefeld": {
+      "image": "Isochrones_Kreisfreie_Stadt_Krefeld_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Krefeld_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Städteregion Aachen": {
+      "image": "Isochrones_Kreis_Städteregion_Aachen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Städteregion_Aachen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Köln": {
+      "image": "Isochrones_Kreisfreie_Stadt_Köln_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Köln_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Steinfurt": {
+      "image": "Isochrones_Kreis_Steinfurt_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Steinfurt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Bayern": {
+    "Kreisfreie Stadt Schweinfurt": {
+      "image": "Isochrones_Kreisfreie_Stadt_Schweinfurt_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Schweinfurt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Kempten (Allgäu)": {
+      "image": "Isochrones_Kreisfreie_Stadt_Kempten_(Allgäu)_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Kempten_(Allgäu)_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Kelheim": {
+      "image": "Isochrones_Landkreis_Kelheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Kelheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis München": {
+      "image": "Isochrones_Landkreis_München_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_München_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Memmingen": {
+      "image": "Isochrones_Kreisfreie_Stadt_Memmingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Memmingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Miesbach": {
+      "image": "Isochrones_Landkreis_Miesbach_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Miesbach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Hof": {
+      "image": "Isochrones_Landkreis_Hof_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Hof_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Freising": {
+      "image": "Isochrones_Landkreis_Freising_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Freising_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Erlangen-Höchstadt": {
+      "image": "Isochrones_Landkreis_Erlangen-Höchstadt_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Erlangen-Höchstadt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Nürnberger Land": {
+      "image": "Isochrones_Landkreis_Nürnberger_Land_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Nürnberger_Land_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Altötting": {
+      "image": "Isochrones_Landkreis_Altötting_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Altötting_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Weilheim-Schongau": {
+      "image": "Isochrones_Landkreis_Weilheim-Schongau_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Weilheim-Schongau_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Mühldorf a.Inn": {
+      "image": "Isochrones_Landkreis_Mühldorf_a.Inn_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Mühldorf_a.Inn_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Passau": {
+      "image": "Isochrones_Kreisfreie_Stadt_Passau_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Passau_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Regen": {
+      "image": "Isochrones_Landkreis_Regen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Regen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Coburg": {
+      "image": "Isochrones_Landkreis_Coburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Coburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Tirschenreuth": {
+      "image": "Isochrones_Landkreis_Tirschenreuth_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Tirschenreuth_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Ingolstadt": {
+      "image": "Isochrones_Kreisfreie_Stadt_Ingolstadt_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Ingolstadt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Pfaffenhofen a.d.Ilm": {
+      "image": "Isochrones_Landkreis_Pfaffenhofen_a.d.Ilm_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Pfaffenhofen_a.d.Ilm_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Wunsiedel i.Fichtelgebirge": {
+      "image": "Isochrones_Landkreis_Wunsiedel_i.Fichtelgebirge_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Wunsiedel_i.Fichtelgebirge_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Kitzingen": {
+      "image": "Isochrones_Landkreis_Kitzingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Kitzingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Augsburg": {
+      "image": "Isochrones_Landkreis_Augsburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Augsburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Landshut": {
+      "image": "Isochrones_Landkreis_Landshut_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Landshut_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Günzburg": {
+      "image": "Isochrones_Landkreis_Günzburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Günzburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Bamberg": {
+      "image": "Isochrones_Landkreis_Bamberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Bamberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Bayreuth": {
+      "image": "Isochrones_Landkreis_Bayreuth_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Bayreuth_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Fürth": {
+      "image": "Isochrones_Landkreis_Fürth_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Fürth_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Cham": {
+      "image": "Isochrones_Landkreis_Cham_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Cham_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Garmisch-Partenkirchen": {
+      "image": "Isochrones_Landkreis_Garmisch-Partenkirchen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Garmisch-Partenkirchen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Fürth": {
+      "image": "Isochrones_Kreisfreie_Stadt_Fürth_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Fürth_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Ansbach": {
+      "image": "Isochrones_Kreisfreie_Stadt_Ansbach_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Ansbach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Landsberg am Lech": {
+      "image": "Isochrones_Landkreis_Landsberg_am_Lech_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Landsberg_am_Lech_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Amberg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Amberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Amberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Straubing-Bogen": {
+      "image": "Isochrones_Landkreis_Straubing-Bogen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Straubing-Bogen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Schwandorf": {
+      "image": "Isochrones_Landkreis_Schwandorf_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Schwandorf_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Miltenberg": {
+      "image": "Isochrones_Landkreis_Miltenberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Miltenberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Neumarkt i.d.OPf.": {
+      "image": "Isochrones_Landkreis_Neumarkt_i.d.OPf._CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Neumarkt_i.d.OPf._CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Coburg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Coburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Coburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Lindau (Bodensee)": {
+      "image": "Isochrones_Landkreis_Lindau_(Bodensee)_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Lindau_(Bodensee)_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Berchtesgadener Land": {
+      "image": "Isochrones_Landkreis_Berchtesgadener_Land_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Berchtesgadener_Land_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Forchheim": {
+      "image": "Isochrones_Landkreis_Forchheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Forchheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Passau": {
+      "image": "Isochrones_Landkreis_Passau_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Passau_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Freyung-Grafenau": {
+      "image": "Isochrones_Landkreis_Freyung-Grafenau_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Freyung-Grafenau_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Aschaffenburg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Aschaffenburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Aschaffenburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Neustadt a.d.Aisch-Bad Windsheim": {
+      "image": "Isochrones_Landkreis_Neustadt_a.d.Aisch-Bad_Windsheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Neustadt_a.d.Aisch-Bad_Windsheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Roth": {
+      "image": "Isochrones_Landkreis_Roth_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Roth_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Oberallgäu": {
+      "image": "Isochrones_Landkreis_Oberallgäu_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Oberallgäu_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Unterallgäu": {
+      "image": "Isochrones_Landkreis_Unterallgäu_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Unterallgäu_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Fürstenfeldbruck": {
+      "image": "Isochrones_Landkreis_Fürstenfeldbruck_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Fürstenfeldbruck_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Nürnberg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Nürnberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Nürnberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ostallgäu": {
+      "image": "Isochrones_Landkreis_Ostallgäu_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ostallgäu_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Eichstätt": {
+      "image": "Isochrones_Landkreis_Eichstätt_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Eichstätt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Donau-Ries": {
+      "image": "Isochrones_Landkreis_Donau-Ries_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Donau-Ries_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Aschaffenburg": {
+      "image": "Isochrones_Landkreis_Aschaffenburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Aschaffenburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Dachau": {
+      "image": "Isochrones_Landkreis_Dachau_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Dachau_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rosenheim": {
+      "image": "Isochrones_Landkreis_Rosenheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rosenheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Würzburg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Würzburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Würzburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Regensburg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Regensburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Regensburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Neustadt a.d.Waldnaab": {
+      "image": "Isochrones_Landkreis_Neustadt_a.d.Waldnaab_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Neustadt_a.d.Waldnaab_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ebersberg": {
+      "image": "Isochrones_Landkreis_Ebersberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ebersberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Kaufbeuren": {
+      "image": "Isochrones_Kreisfreie_Stadt_Kaufbeuren_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Kaufbeuren_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Straubing": {
+      "image": "Isochrones_Kreisfreie_Stadt_Straubing_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Straubing_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Bayreuth": {
+      "image": "Isochrones_Kreisfreie_Stadt_Bayreuth_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Bayreuth_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Landshut": {
+      "image": "Isochrones_Kreisfreie_Stadt_Landshut_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Landshut_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Augsburg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Augsburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Augsburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Schwabach": {
+      "image": "Isochrones_Kreisfreie_Stadt_Schwabach_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Schwabach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Erlangen": {
+      "image": "Isochrones_Kreisfreie_Stadt_Erlangen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Erlangen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rottal-Inn": {
+      "image": "Isochrones_Landkreis_Rottal-Inn_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rottal-Inn_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Erding": {
+      "image": "Isochrones_Landkreis_Erding_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Erding_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Neu-Ulm": {
+      "image": "Isochrones_Landkreis_Neu-Ulm_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Neu-Ulm_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Kulmbach": {
+      "image": "Isochrones_Landkreis_Kulmbach_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Kulmbach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Bad Kissingen": {
+      "image": "Isochrones_Landkreis_Bad_Kissingen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Bad_Kissingen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt München": {
+      "image": "Isochrones_Kreisfreie_Stadt_München_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_München_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Hof": {
+      "image": "Isochrones_Kreisfreie_Stadt_Hof_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Hof_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Bamberg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Bamberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Bamberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Neuburg-Schrobenhausen": {
+      "image": "Isochrones_Landkreis_Neuburg-Schrobenhausen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Neuburg-Schrobenhausen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Haßberge": {
+      "image": "Isochrones_Landkreis_Haßberge_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Haßberge_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Schweinfurt": {
+      "image": "Isochrones_Landkreis_Schweinfurt_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Schweinfurt_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Rosenheim": {
+      "image": "Isochrones_Kreisfreie_Stadt_Rosenheim_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Rosenheim_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Würzburg": {
+      "image": "Isochrones_Landkreis_Würzburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Würzburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Ansbach": {
+      "image": "Isochrones_Landkreis_Ansbach_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Ansbach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Dingolfing-Landau": {
+      "image": "Isochrones_Landkreis_Dingolfing-Landau_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Dingolfing-Landau_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Amberg-Sulzbach": {
+      "image": "Isochrones_Landkreis_Amberg-Sulzbach_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Amberg-Sulzbach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Starnberg": {
+      "image": "Isochrones_Landkreis_Starnberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Starnberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Bad Tölz-Wolfratshausen": {
+      "image": "Isochrones_Landkreis_Bad_Tölz-Wolfratshausen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Bad_Tölz-Wolfratshausen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Rhön-Grabfeld": {
+      "image": "Isochrones_Landkreis_Rhön-Grabfeld_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Rhön-Grabfeld_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Deggendorf": {
+      "image": "Isochrones_Landkreis_Deggendorf_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Deggendorf_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Main-Spessart": {
+      "image": "Isochrones_Landkreis_Main-Spessart_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Main-Spessart_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Aichach-Friedberg": {
+      "image": "Isochrones_Landkreis_Aichach-Friedberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Aichach-Friedberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Lichtenfels": {
+      "image": "Isochrones_Landkreis_Lichtenfels_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Lichtenfels_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Weißenburg-Gunzenhausen": {
+      "image": "Isochrones_Landkreis_Weißenburg-Gunzenhausen_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Weißenburg-Gunzenhausen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Regensburg": {
+      "image": "Isochrones_Landkreis_Regensburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Regensburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Kronach": {
+      "image": "Isochrones_Landkreis_Kronach_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Kronach_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Traunstein": {
+      "image": "Isochrones_Landkreis_Traunstein_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Traunstein_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Weiden i.d.OPf.": {
+      "image": "Isochrones_Kreisfreie_Stadt_Weiden_i.d.OPf._CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Weiden_i.d.OPf._CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Landkreis Dillingen a.d.Donau": {
+      "image": "Isochrones_Landkreis_Dillingen_a.d.Donau_CT_vs_Stroke.png",
+      "excel": "pop_results_Landkreis_Dillingen_a.d.Donau_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Schleswig-Holstein": {
+    "Kreis Plön": {
+      "image": "Isochrones_Kreis_Plön_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Plön_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Steinburg": {
+      "image": "Isochrones_Kreis_Steinburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Steinburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Herzogtum Lauenburg": {
+      "image": "Isochrones_Kreis_Herzogtum_Lauenburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Herzogtum_Lauenburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Kiel": {
+      "image": "Isochrones_Kreisfreie_Stadt_Kiel_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Kiel_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Schleswig-Flensburg": {
+      "image": "Isochrones_Kreis_Schleswig-Flensburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Schleswig-Flensburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Segeberg": {
+      "image": "Isochrones_Kreis_Segeberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Segeberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Dithmarschen": {
+      "image": "Isochrones_Kreis_Dithmarschen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Dithmarschen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Flensburg": {
+      "image": "Isochrones_Kreisfreie_Stadt_Flensburg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Flensburg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Nordfriesland": {
+      "image": "Isochrones_Kreis_Nordfriesland_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Nordfriesland_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Ostholstein": {
+      "image": "Isochrones_Kreis_Ostholstein_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Ostholstein_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Pinneberg": {
+      "image": "Isochrones_Kreis_Pinneberg_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Pinneberg_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Rendsburg-Eckernförde": {
+      "image": "Isochrones_Kreis_Rendsburg-Eckernförde_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Rendsburg-Eckernförde_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Lübeck": {
+      "image": "Isochrones_Kreisfreie_Stadt_Lübeck_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Lübeck_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Neumünster": {
+      "image": "Isochrones_Kreisfreie_Stadt_Neumünster_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Neumünster_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreis Stormarn": {
+      "image": "Isochrones_Kreis_Stormarn_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreis_Stormarn_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  },
+  "Bremen": {
+    "Kreisfreie Stadt Bremerhaven": {
+      "image": "Isochrones_Kreisfreie_Stadt_Bremerhaven_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Bremerhaven_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    },
+    "Kreisfreie Stadt Bremen": {
+      "image": "Isochrones_Kreisfreie_Stadt_Bremen_CT_vs_Stroke.png",
+      "excel": "pop_results_Kreisfreie_Stadt_Bremen_CT_vs_Stroke.xlsx",
+      "pdf": "County_Pop_Tables_CT_vs_Stroke.pdf"
+    }
+  }
+}

@@ -1,7 +1,7 @@
 # GeoStroke-Analyses
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.13+-blue.svg)
+![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
 ![Status](https://img.shields.io/badge/status-in%20review-yellow.svg)
 ![Platform](https://img.shields.io/badge/platform-macOS%20|%20Linux%20|%20Windows-lightgrey.svg)
 ![OpenRouteService](https://img.shields.io/badge/OpenRouteService-required-orange.svg)
@@ -115,7 +115,7 @@ The `geostroke` package is designed as a partially **reusable module** for geogr
 
 ### Prerequisites
 
-- **Python 3.13+** (tested on Python 3.13)
+- **Python 3.12+** (tested on Python 3.12)
 - **OpenRouteService** (local Docker instance recommended)
 - **Sufficient disk space** (30+ GB for cache files and datasets)
 
@@ -123,7 +123,7 @@ The `geostroke` package is designed as a partially **reusable module** for geogr
 
 1. **Create virtual environment**:
 ```bash
-python3.13 -m venv geostroke-env
+python3.12 -m venv geostroke-env
 source geostroke-env/bin/activate  # On Windows: geostroke-env\Scripts\activate
 ```
 
@@ -355,30 +355,6 @@ echo "large-file-pattern" >> .gitignore
 git status
 ```
 
-### 📋 What's Excluded
-
-#### Large Data Files (>100MB)
-- `poly*_all_CTs_emergency.pkl` - Large emergency CT isochrones
-- `poly60_all_CTs.pkl`, `poly55_all_CTs.pkl` - Largest CT hospital isochrones
-- `*.tif`, `*.tiff` - Raster datasets (e.g., GHS-POP ~10GB)
-
-#### Results and Outputs
-- Large visualization files (`*.eps`, `*.tiff`)
-- Comprehensive Excel reports (`*_detailed_*.xlsx`)
-- Generated PDF supplements
-
-#### What's Preserved
-- ✅ Smaller cache files (<100MB) - Essential for development
-- ✅ Source code and notebooks
-- ✅ Configuration files
-- ✅ Smaller result summaries
-
-### 💡 Tips
-
-- **Use the check script**: Run `./check_large_files.sh` before major commits
-- **Leverage caching**: Most large files are cached results that can be regenerated
-- **External storage**: Store very large datasets (like GHS-POP) separately and download as needed
-- **Git LFS option**: For large files that must be version-controlled, consider Git LFS
 
 ## Results
 

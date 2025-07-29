@@ -205,22 +205,10 @@ poly55_all_CTs.pkl
 # Pattern for very large emergency CT isochrones (these tend to be >100MB)
 poly*_all_CTs_emergency.pkl
 
-# Very large notebook outputs (notebooks with embedded large outputs)
-*_large_output.ipynb
-*_with_maps.ipynb
 
 # Generated result files that are too large
-Results/Dual_All_Scenarios/
-Results/Counties/*/Isochrones_*.png
-Results/States/*/Isochrones_*.png
-Graphs/*.eps
 Graphs/*.tiff
 
-# OpenRouteService local data
-graphs/
-elevation_cache/
-ors-data/
-osm_data/
 
 # Large compressed archives
 *.zip
@@ -232,15 +220,6 @@ osm_data/
 !examples/*.zip
 !sample_data/*.zip
 
-# Large Excel files with detailed results
-*_detailed_*.xlsx
-*_comprehensive_*.xlsx
-Results/**/pop_results_*.xlsx
-
-# Large PDF reports
-*_supplement.pdf
-*_detailed.pdf
-Counties_*_detailed.pdf
 
 # Temporary large files
 temp_large/
@@ -251,27 +230,3 @@ tmp_analysis/
 .DS_Store
 *.dmg
 
-# Large video/animation files
-*.mp4
-*.avi
-*.mov
-*.gif
-
-# Database files
-*.db
-*.sqlite
-*.mdb
-
-# R data files (if any R integration)
-*.RData
-*.rda
-
-# Large JSON files
-*_comprehensive.json
-*_detailed.json
-county_population_coverage_detailed.json
-
-# Backup directories that might contain large files
-backup/
-old_results/
-archive/
