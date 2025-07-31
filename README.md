@@ -59,9 +59,16 @@ The analysis employs **isochrone-based accessibility modeling** using the OpenRo
 - **465 frequent stroke-care hospitals** (≥100 cases/year)
 
 Population coverage is calculated using the **Global Human Settlement Layer (GHS-POP 2025)** at 3-arcsecond resolution (~100m), providing precise demographic weighting for accessibility metrics.
+
+#### Global Human Settlement Layer (GHS) Datasets
+
+| Dataset | Purpose | Resolution | Size | Download Link |
+|---------|---------|------------|------|---------------|
+| **GHS-POP 2025** | Population distribution and density | 3-arcsecond (~100m) | ~10GB | [Download GHS-POP](https://ghsl.jrc.ec.europa.eu/download.php?ds=ghs_pop_2025) |
+| **GHS-SMOD 2025** | Settlement typology (urban/rural classification) | 1km | ~2GB | [Download GHS-SMOD](https://ghsl.jrc.ec.europa.eu/download.php?ds=ghs_smod_2025) |
+
 #### Hospital Data
-- **CT Hospitals**: Aggregated from [Deutsches Krankenhaus Verzeichnis](https://www.deutsches-krankenhaus-verzeichnis.de/app/
-suche)
+- **CT Hospitals**: Aggregated from [Deutsches Krankenhaus Verzeichnis](https://www.deutsches-krankenhaus-verzeichnis.de/app/suche)
 - **Quality Reports**: Federal quality database ([G-BA Reference Database](https://qb-referenzdatenbank.g-ba.de/#/login))
   
   ⚠️ **Note**: Quality report access requires separate application. Processed datasets are included in repository.
