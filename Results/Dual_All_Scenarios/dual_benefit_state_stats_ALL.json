@@ -1,283 +1,5 @@
 {
-  "Baden-Württemberg (Extended)": {
-    "+10min Penalty": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 640,
-          "Area (%)": 1.5,
-          "Population": 41809,
-          "Population (%)": 0.4
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 3035,
-          "Area (%)": 7.0,
-          "Population": 345259,
-          "Population (%)": 3.2
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 8696,
-          "Area (%)": 20.0,
-          "Population": 1655056,
-          "Population (%)": 15.3
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 43,
-          "Area (%)": 0.1,
-          "Population": 2181,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 33,
-          "Area (%)": 0.1,
-          "Population": 1470,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 30931,
-          "Area (%)": 71.3,
-          "Population": 8787370,
-          "Population (%)": 81.1
-        }
-      ]
-    },
-    "+20% Speed (Emergency)": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 276,
-          "Area (%)": 0.6,
-          "Population": 43327,
-          "Population (%)": 0.4
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 2521,
-          "Area (%)": 5.8,
-          "Population": 395087,
-          "Population (%)": 3.6
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 8733,
-          "Area (%)": 20.1,
-          "Population": 1785431,
-          "Population (%)": 16.5
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 3,
-          "Area (%)": 0.0,
-          "Population": 245,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 33,
-          "Area (%)": 0.1,
-          "Population": 1479,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 31812,
-          "Area (%)": 73.3,
-          "Population": 8607576,
-          "Population (%)": 79.5
-        }
-      ]
-    },
-    "+20min Penalty": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 93,
-          "Area (%)": 0.2,
-          "Population": 2248,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 1244,
-          "Area (%)": 2.9,
-          "Population": 62391,
-          "Population (%)": 0.6
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 5700,
-          "Area (%)": 13.1,
-          "Population": 609395,
-          "Population (%)": 5.6
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 43,
-          "Area (%)": 0.1,
-          "Population": 2189,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 33,
-          "Area (%)": 0.1,
-          "Population": 1474,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 36265,
-          "Area (%)": 83.6,
-          "Population": 10155448,
-          "Population (%)": 93.7
-        }
-      ]
-    },
-    "+30min Penalty": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 138,
-          "Area (%)": 0.3,
-          "Population": 2731,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 1734,
-          "Area (%)": 4.0,
-          "Population": 76464,
-          "Population (%)": 0.7
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 43,
-          "Area (%)": 0.1,
-          "Population": 2189,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 33,
-          "Area (%)": 0.1,
-          "Population": 1470,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 41430,
-          "Area (%)": 95.5,
-          "Population": 10750291,
-          "Population (%)": 99.2
-        }
-      ]
-    },
-    "-20% Speed (Traffic)": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 2075,
-          "Area (%)": 4.8,
-          "Population": 350271,
-          "Population (%)": 3.2
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 4557,
-          "Area (%)": 10.5,
-          "Population": 891431,
-          "Population (%)": 8.2
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 7812,
-          "Area (%)": 18.0,
-          "Population": 1794171,
-          "Population (%)": 16.6
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 572,
-          "Area (%)": 1.3,
-          "Population": 9043,
-          "Population (%)": 0.1
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 65,
-          "Area (%)": 0.1,
-          "Population": 1649,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 28297,
-          "Area (%)": 65.2,
-          "Population": 7786580,
-          "Population (%)": 71.9
-        }
-      ]
-    },
-    "Normal Speed": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 936,
-          "Area (%)": 2.2,
-          "Population": 116705,
-          "Population (%)": 1.1
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 3572,
-          "Area (%)": 8.2,
-          "Population": 645316,
-          "Population (%)": 6.0
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 8634,
-          "Area (%)": 19.9,
-          "Population": 1846660,
-          "Population (%)": 17.0
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 43,
-          "Area (%)": 0.1,
-          "Population": 2181,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 33,
-          "Area (%)": 0.1,
-          "Population": 1470,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 30160,
-          "Area (%)": 69.5,
-          "Population": 8220813,
-          "Population (%)": 75.9
-        }
-      ]
-    }
-  },
-  "Baden-Württemberg (Regular)": {
+  "Baden-Württemberg (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -555,50 +277,50 @@
       ]
     }
   },
-  "Bayern (Extended)": {
+  "Baden-Württemberg (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 676,
-          "Area (%)": 0.8,
-          "Population": 44253,
-          "Population (%)": 0.3
+          "Grid Cells": 640,
+          "Area (%)": 1.5,
+          "Population": 41809,
+          "Population (%)": 0.4
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 8092,
-          "Area (%)": 9.4,
-          "Population": 672226,
-          "Population (%)": 5.1
+          "Grid Cells": 3035,
+          "Area (%)": 7.0,
+          "Population": 345259,
+          "Population (%)": 3.2
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 21020,
-          "Area (%)": 24.5,
-          "Population": 2092091,
-          "Population (%)": 15.8
+          "Grid Cells": 8696,
+          "Area (%)": 20.0,
+          "Population": 1655056,
+          "Population (%)": 15.3
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 78,
+          "Grid Cells": 43,
           "Area (%)": 0.1,
-          "Population": 2188,
+          "Population": 2181,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 2186,
-          "Area (%)": 2.6,
-          "Population": 15198,
-          "Population (%)": 0.1
+          "Grid Cells": 33,
+          "Area (%)": 0.1,
+          "Population": 1470,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 53641,
-          "Area (%)": 62.6,
-          "Population": 10445174,
-          "Population (%)": 78.7
+          "Grid Cells": 30931,
+          "Area (%)": 71.3,
+          "Population": 8787370,
+          "Population (%)": 81.1
         }
       ]
     },
@@ -606,45 +328,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 185,
-          "Area (%)": 0.2,
-          "Population": 44410,
-          "Population (%)": 0.3
+          "Grid Cells": 276,
+          "Area (%)": 0.6,
+          "Population": 43327,
+          "Population (%)": 0.4
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 6135,
-          "Area (%)": 7.2,
-          "Population": 727320,
-          "Population (%)": 5.5
+          "Grid Cells": 2521,
+          "Area (%)": 5.8,
+          "Population": 395087,
+          "Population (%)": 3.6
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 21840,
-          "Area (%)": 25.5,
-          "Population": 2762356,
-          "Population (%)": 20.8
+          "Grid Cells": 8733,
+          "Area (%)": 20.1,
+          "Population": 1785431,
+          "Population (%)": 16.5
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 50,
-          "Area (%)": 0.1,
-          "Population": 3597,
+          "Grid Cells": 3,
+          "Area (%)": 0.0,
+          "Population": 245,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 2163,
-          "Area (%)": 2.5,
-          "Population": 13796,
-          "Population (%)": 0.1
+          "Grid Cells": 33,
+          "Area (%)": 0.1,
+          "Population": 1479,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 55320,
-          "Area (%)": 64.6,
-          "Population": 9719651,
-          "Population (%)": 73.2
+          "Grid Cells": 31812,
+          "Area (%)": 73.3,
+          "Population": 8607576,
+          "Population (%)": 79.5
         }
       ]
     },
@@ -652,45 +374,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 46,
-          "Area (%)": 0.1,
-          "Population": 1725,
+          "Grid Cells": 93,
+          "Area (%)": 0.2,
+          "Population": 2248,
           "Population (%)": 0.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 2573,
-          "Area (%)": 3.0,
-          "Population": 149995,
-          "Population (%)": 1.1
+          "Grid Cells": 1244,
+          "Area (%)": 2.9,
+          "Population": 62391,
+          "Population (%)": 0.6
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 13459,
-          "Area (%)": 15.7,
-          "Population": 913302,
-          "Population (%)": 6.9
+          "Grid Cells": 5700,
+          "Area (%)": 13.1,
+          "Population": 609395,
+          "Population (%)": 5.6
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 78,
+          "Grid Cells": 43,
           "Area (%)": 0.1,
           "Population": 2189,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 2186,
-          "Area (%)": 2.6,
-          "Population": 15199,
-          "Population (%)": 0.1
+          "Grid Cells": 33,
+          "Area (%)": 0.1,
+          "Population": 1474,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 67351,
-          "Area (%)": 78.6,
-          "Population": 12188720,
-          "Population (%)": 91.8
+          "Grid Cells": 36265,
+          "Area (%)": 83.6,
+          "Population": 10155448,
+          "Population (%)": 93.7
         }
       ]
     },
@@ -705,38 +427,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 183,
-          "Area (%)": 0.2,
-          "Population": 5112,
+          "Grid Cells": 138,
+          "Area (%)": 0.3,
+          "Population": 2731,
           "Population (%)": 0.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 3533,
-          "Area (%)": 4.1,
-          "Population": 178265,
-          "Population (%)": 1.3
+          "Grid Cells": 1734,
+          "Area (%)": 4.0,
+          "Population": 76464,
+          "Population (%)": 0.7
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 78,
+          "Grid Cells": 43,
           "Area (%)": 0.1,
           "Population": 2189,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 2186,
-          "Area (%)": 2.6,
-          "Population": 15197,
-          "Population (%)": 0.1
+          "Grid Cells": 33,
+          "Area (%)": 0.1,
+          "Population": 1470,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 79713,
-          "Area (%)": 93.0,
-          "Population": 13070367,
-          "Population (%)": 98.5
+          "Grid Cells": 41430,
+          "Area (%)": 95.5,
+          "Population": 10750291,
+          "Population (%)": 99.2
         }
       ]
     },
@@ -744,45 +466,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 4993,
-          "Area (%)": 5.8,
-          "Population": 658493,
-          "Population (%)": 5.0
+          "Grid Cells": 2075,
+          "Area (%)": 4.8,
+          "Population": 350271,
+          "Population (%)": 3.2
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 11971,
-          "Area (%)": 14.0,
-          "Population": 1263226,
-          "Population (%)": 9.5
+          "Grid Cells": 4557,
+          "Area (%)": 10.5,
+          "Population": 891431,
+          "Population (%)": 8.2
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 18352,
-          "Area (%)": 21.4,
-          "Population": 2927369,
-          "Population (%)": 22.1
+          "Grid Cells": 7812,
+          "Area (%)": 18.0,
+          "Population": 1794171,
+          "Population (%)": 16.6
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 428,
-          "Area (%)": 0.5,
-          "Population": 12360,
+          "Grid Cells": 572,
+          "Area (%)": 1.3,
+          "Population": 9043,
           "Population (%)": 0.1
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 2271,
-          "Area (%)": 2.7,
-          "Population": 17056,
-          "Population (%)": 0.1
+          "Grid Cells": 65,
+          "Area (%)": 0.1,
+          "Population": 1649,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 47678,
-          "Area (%)": 55.6,
-          "Population": 8392626,
-          "Population (%)": 63.2
+          "Grid Cells": 28297,
+          "Area (%)": 65.2,
+          "Population": 7786580,
+          "Population (%)": 71.9
         }
       ]
     },
@@ -790,50 +512,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1268,
-          "Area (%)": 1.5,
-          "Population": 208993,
-          "Population (%)": 1.6
+          "Grid Cells": 936,
+          "Area (%)": 2.2,
+          "Population": 116705,
+          "Population (%)": 1.1
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 9597,
-          "Area (%)": 11.2,
-          "Population": 1035285,
-          "Population (%)": 7.8
+          "Grid Cells": 3572,
+          "Area (%)": 8.2,
+          "Population": 645316,
+          "Population (%)": 6.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 20907,
-          "Area (%)": 24.4,
-          "Population": 2984116,
-          "Population (%)": 22.5
+          "Grid Cells": 8634,
+          "Area (%)": 19.9,
+          "Population": 1846660,
+          "Population (%)": 17.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 78,
+          "Grid Cells": 43,
           "Area (%)": 0.1,
-          "Population": 2188,
+          "Population": 2181,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 2186,
-          "Area (%)": 2.6,
-          "Population": 15199,
-          "Population (%)": 0.1
+          "Grid Cells": 33,
+          "Area (%)": 0.1,
+          "Population": 1470,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 51657,
-          "Area (%)": 60.3,
-          "Population": 9025349,
-          "Population (%)": 68.0
+          "Grid Cells": 30160,
+          "Area (%)": 69.5,
+          "Population": 8220813,
+          "Population (%)": 75.9
         }
       ]
     }
   },
-  "Bayern (Regular)": {
+  "Bayern (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -1111,50 +833,50 @@
       ]
     }
   },
-  "Berlin (Extended)": {
+  "Bayern (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 676,
+          "Area (%)": 0.8,
+          "Population": 44253,
+          "Population (%)": 0.3
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 1,
-          "Area (%)": 0.1,
-          "Population": 514,
-          "Population (%)": 0.0
+          "Grid Cells": 8092,
+          "Area (%)": 9.4,
+          "Population": 672226,
+          "Population (%)": 5.1
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 56,
-          "Area (%)": 4.8,
-          "Population": 29176,
-          "Population (%)": 0.8
+          "Grid Cells": 21020,
+          "Area (%)": 24.5,
+          "Population": 2092091,
+          "Population (%)": 15.8
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 78,
+          "Area (%)": 0.1,
+          "Population": 2188,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2186,
+          "Area (%)": 2.6,
+          "Population": 15198,
+          "Population (%)": 0.1
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 1119,
-          "Area (%)": 95.2,
-          "Population": 3583736,
-          "Population (%)": 99.2
+          "Grid Cells": 53641,
+          "Area (%)": 62.6,
+          "Population": 10445174,
+          "Population (%)": 78.7
         }
       ]
     },
@@ -1162,45 +884,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 185,
+          "Area (%)": 0.2,
+          "Population": 44410,
+          "Population (%)": 0.3
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3,
-          "Area (%)": 0.3,
-          "Population": 5339,
-          "Population (%)": 0.1
+          "Grid Cells": 6135,
+          "Area (%)": 7.2,
+          "Population": 727320,
+          "Population (%)": 5.5
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 144,
-          "Area (%)": 12.2,
-          "Population": 309317,
-          "Population (%)": 8.6
+          "Grid Cells": 21840,
+          "Area (%)": 25.5,
+          "Population": 2762356,
+          "Population (%)": 20.8
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 50,
+          "Area (%)": 0.1,
+          "Population": 3597,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2163,
+          "Area (%)": 2.5,
+          "Population": 13796,
+          "Population (%)": 0.1
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 1029,
-          "Area (%)": 87.5,
-          "Population": 3298770,
-          "Population (%)": 91.3
+          "Grid Cells": 55320,
+          "Area (%)": 64.6,
+          "Population": 9719651,
+          "Population (%)": 73.2
         }
       ]
     },
@@ -1208,45 +930,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 46,
+          "Area (%)": 0.1,
+          "Population": 1725,
           "Population (%)": 0.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2573,
+          "Area (%)": 3.0,
+          "Population": 149995,
+          "Population (%)": 1.1
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 11,
-          "Area (%)": 0.9,
-          "Population": 1257,
-          "Population (%)": 0.0
+          "Grid Cells": 13459,
+          "Area (%)": 15.7,
+          "Population": 913302,
+          "Population (%)": 6.9
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 78,
+          "Area (%)": 0.1,
+          "Population": 2189,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2186,
+          "Area (%)": 2.6,
+          "Population": 15199,
+          "Population (%)": 0.1
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 1165,
-          "Area (%)": 99.1,
-          "Population": 3612169,
-          "Population (%)": 100.0
+          "Grid Cells": 67351,
+          "Area (%)": 78.6,
+          "Population": 12188720,
+          "Population (%)": 91.8
         }
       ]
     },
@@ -1261,38 +983,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 183,
+          "Area (%)": 0.2,
+          "Population": 5112,
           "Population (%)": 0.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 3533,
+          "Area (%)": 4.1,
+          "Population": 178265,
+          "Population (%)": 1.3
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 78,
+          "Area (%)": 0.1,
+          "Population": 2189,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2186,
+          "Area (%)": 2.6,
+          "Population": 15197,
+          "Population (%)": 0.1
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 1176,
-          "Area (%)": 100.0,
-          "Population": 3613426,
-          "Population (%)": 100.0
+          "Grid Cells": 79713,
+          "Area (%)": 93.0,
+          "Population": 13070367,
+          "Population (%)": 98.5
         }
       ]
     },
@@ -1300,45 +1022,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 4993,
+          "Area (%)": 5.8,
+          "Population": 658493,
+          "Population (%)": 5.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 32,
-          "Area (%)": 2.7,
-          "Population": 42255,
-          "Population (%)": 1.2
+          "Grid Cells": 11971,
+          "Area (%)": 14.0,
+          "Population": 1263226,
+          "Population (%)": 9.5
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 268,
-          "Area (%)": 22.8,
-          "Population": 762330,
-          "Population (%)": 21.1
+          "Grid Cells": 18352,
+          "Area (%)": 21.4,
+          "Population": 2927369,
+          "Population (%)": 22.1
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 428,
+          "Area (%)": 0.5,
+          "Population": 12360,
+          "Population (%)": 0.1
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2271,
+          "Area (%)": 2.7,
+          "Population": 17056,
+          "Population (%)": 0.1
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 876,
-          "Area (%)": 74.5,
-          "Population": 2808841,
-          "Population (%)": 77.7
+          "Grid Cells": 47678,
+          "Area (%)": 55.6,
+          "Population": 8392626,
+          "Population (%)": 63.2
         }
       ]
     },
@@ -1346,50 +1068,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1,
-          "Area (%)": 0.1,
-          "Population": 514,
-          "Population (%)": 0.0
+          "Grid Cells": 1268,
+          "Area (%)": 1.5,
+          "Population": 208993,
+          "Population (%)": 1.6
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 8,
-          "Area (%)": 0.7,
-          "Population": 11042,
-          "Population (%)": 0.3
+          "Grid Cells": 9597,
+          "Area (%)": 11.2,
+          "Population": 1035285,
+          "Population (%)": 7.8
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 242,
-          "Area (%)": 20.6,
-          "Population": 643773,
-          "Population (%)": 17.8
+          "Grid Cells": 20907,
+          "Area (%)": 24.4,
+          "Population": 2984116,
+          "Population (%)": 22.5
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 78,
+          "Area (%)": 0.1,
+          "Population": 2188,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2186,
+          "Area (%)": 2.6,
+          "Population": 15199,
+          "Population (%)": 0.1
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 925,
-          "Area (%)": 78.7,
-          "Population": 2958097,
-          "Population (%)": 81.9
+          "Grid Cells": 51657,
+          "Area (%)": 60.3,
+          "Population": 9025349,
+          "Population (%)": 68.0
         }
       ]
     }
   },
-  "Berlin (Regular)": {
+  "Berlin (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -1667,50 +1389,50 @@
       ]
     }
   },
-  "Brandenburg (Extended)": {
+  "Berlin (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 4105,
-          "Area (%)": 10.6,
-          "Population": 203493,
-          "Population (%)": 8.3
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 6196,
-          "Area (%)": 15.9,
-          "Population": 198884,
-          "Population (%)": 8.1
+          "Grid Cells": 1,
+          "Area (%)": 0.1,
+          "Population": 514,
+          "Population (%)": 0.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 9643,
-          "Area (%)": 24.8,
-          "Population": 513382,
-          "Population (%)": 21.0
+          "Grid Cells": 56,
+          "Area (%)": 4.8,
+          "Population": 29176,
+          "Population (%)": 0.8
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 2529,
-          "Area (%)": 6.5,
-          "Population": 43532,
-          "Population (%)": 1.8
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 180,
-          "Area (%)": 0.5,
-          "Population": 3399,
-          "Population (%)": 0.1
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 16204,
-          "Area (%)": 41.7,
-          "Population": 1479292,
-          "Population (%)": 60.6
+          "Grid Cells": 1119,
+          "Area (%)": 95.2,
+          "Population": 3583736,
+          "Population (%)": 99.2
         }
       ]
     },
@@ -1718,45 +1440,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 3314,
-          "Area (%)": 8.5,
-          "Population": 197529,
-          "Population (%)": 8.1
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 6574,
-          "Area (%)": 16.9,
-          "Population": 249723,
-          "Population (%)": 10.2
+          "Grid Cells": 3,
+          "Area (%)": 0.3,
+          "Population": 5339,
+          "Population (%)": 0.1
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 10893,
-          "Area (%)": 28.0,
-          "Population": 563596,
-          "Population (%)": 23.1
+          "Grid Cells": 144,
+          "Area (%)": 12.2,
+          "Population": 309317,
+          "Population (%)": 8.6
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 411,
-          "Area (%)": 1.1,
-          "Population": 2663,
-          "Population (%)": 0.1
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 172,
-          "Area (%)": 0.4,
-          "Population": 3319,
-          "Population (%)": 0.1
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 17493,
-          "Area (%)": 45.0,
-          "Population": 1425152,
-          "Population (%)": 58.4
+          "Grid Cells": 1029,
+          "Area (%)": 87.5,
+          "Population": 3298770,
+          "Population (%)": 91.3
         }
       ]
     },
@@ -1764,45 +1486,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2292,
-          "Area (%)": 5.9,
-          "Population": 79270,
-          "Population (%)": 3.2
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 5822,
-          "Area (%)": 15.0,
-          "Population": 184446,
-          "Population (%)": 7.6
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 9099,
-          "Area (%)": 23.4,
-          "Population": 273975,
-          "Population (%)": 11.2
+          "Grid Cells": 11,
+          "Area (%)": 0.9,
+          "Population": 1257,
+          "Population (%)": 0.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 2529,
-          "Area (%)": 6.5,
-          "Population": 43532,
-          "Population (%)": 1.8
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 180,
-          "Area (%)": 0.5,
-          "Population": 3399,
-          "Population (%)": 0.1
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 18935,
-          "Area (%)": 48.7,
-          "Population": 1857360,
-          "Population (%)": 76.1
+          "Grid Cells": 1165,
+          "Area (%)": 99.1,
+          "Population": 3612169,
+          "Population (%)": 100.0
         }
       ]
     },
@@ -1817,38 +1539,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3672,
-          "Area (%)": 9.5,
-          "Population": 93495,
-          "Population (%)": 3.8
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 7538,
-          "Area (%)": 19.4,
-          "Population": 199635,
-          "Population (%)": 8.2
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 2529,
-          "Area (%)": 6.5,
-          "Population": 43532,
-          "Population (%)": 1.8
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 180,
-          "Area (%)": 0.5,
-          "Population": 3399,
-          "Population (%)": 0.1
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 24938,
-          "Area (%)": 64.2,
-          "Population": 2101921,
-          "Population (%)": 86.1
+          "Grid Cells": 1176,
+          "Area (%)": 100.0,
+          "Population": 3613426,
+          "Population (%)": 100.0
         }
       ]
     },
@@ -1856,45 +1578,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 3457,
-          "Area (%)": 8.9,
-          "Population": 255057,
-          "Population (%)": 10.4
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 5229,
-          "Area (%)": 13.5,
-          "Population": 315027,
-          "Population (%)": 12.9
+          "Grid Cells": 32,
+          "Area (%)": 2.7,
+          "Population": 42255,
+          "Population (%)": 1.2
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 7174,
-          "Area (%)": 18.5,
-          "Population": 484374,
-          "Population (%)": 19.8
+          "Grid Cells": 268,
+          "Area (%)": 22.8,
+          "Population": 762330,
+          "Population (%)": 21.1
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 7907,
-          "Area (%)": 20.3,
-          "Population": 169720,
-          "Population (%)": 7.0
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 392,
-          "Area (%)": 1.0,
-          "Population": 4460,
-          "Population (%)": 0.2
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 14698,
-          "Area (%)": 37.8,
-          "Population": 1213344,
-          "Population (%)": 49.7
+          "Grid Cells": 876,
+          "Area (%)": 74.5,
+          "Population": 2808841,
+          "Population (%)": 77.7
         }
       ]
     },
@@ -1902,50 +1624,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 4406,
-          "Area (%)": 11.3,
-          "Population": 260011,
-          "Population (%)": 10.6
+          "Grid Cells": 1,
+          "Area (%)": 0.1,
+          "Population": 514,
+          "Population (%)": 0.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 6275,
-          "Area (%)": 16.1,
-          "Population": 287939,
-          "Population (%)": 11.8
+          "Grid Cells": 8,
+          "Area (%)": 0.7,
+          "Population": 11042,
+          "Population (%)": 0.3
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 9559,
-          "Area (%)": 24.6,
-          "Population": 528370,
-          "Population (%)": 21.6
+          "Grid Cells": 242,
+          "Area (%)": 20.6,
+          "Population": 643773,
+          "Population (%)": 17.8
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 2529,
-          "Area (%)": 6.5,
-          "Population": 43533,
-          "Population (%)": 1.8
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 180,
-          "Area (%)": 0.5,
-          "Population": 3399,
-          "Population (%)": 0.1
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 15908,
-          "Area (%)": 40.9,
-          "Population": 1318730,
-          "Population (%)": 54.0
+          "Grid Cells": 925,
+          "Area (%)": 78.7,
+          "Population": 2958097,
+          "Population (%)": 81.9
         }
       ]
     }
   },
-  "Brandenburg (Regular)": {
+  "Brandenburg (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -2223,50 +1945,50 @@
       ]
     }
   },
-  "Bremen (Extended)": {
+  "Brandenburg (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 4105,
+          "Area (%)": 10.6,
+          "Population": 203493,
+          "Population (%)": 8.3
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 4,
-          "Area (%)": 1.0,
-          "Population": 103,
-          "Population (%)": 0.0
+          "Grid Cells": 6196,
+          "Area (%)": 15.9,
+          "Population": 198884,
+          "Population (%)": 8.1
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 71,
-          "Area (%)": 17.7,
-          "Population": 17295,
-          "Population (%)": 3.3
+          "Grid Cells": 9643,
+          "Area (%)": 24.8,
+          "Population": 513382,
+          "Population (%)": 21.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2529,
+          "Area (%)": 6.5,
+          "Population": 43532,
+          "Population (%)": 1.8
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 180,
+          "Area (%)": 0.5,
+          "Population": 3399,
+          "Population (%)": 0.1
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 327,
-          "Area (%)": 81.3,
-          "Population": 506505,
-          "Population (%)": 96.7
+          "Grid Cells": 16204,
+          "Area (%)": 41.7,
+          "Population": 1479292,
+          "Population (%)": 60.6
         }
       ]
     },
@@ -2274,45 +1996,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 3314,
+          "Area (%)": 8.5,
+          "Population": 197529,
+          "Population (%)": 8.1
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 2,
-          "Area (%)": 0.5,
-          "Population": 1316,
-          "Population (%)": 0.3
+          "Grid Cells": 6574,
+          "Area (%)": 16.9,
+          "Population": 249723,
+          "Population (%)": 10.2
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 60,
-          "Area (%)": 14.9,
-          "Population": 69999,
-          "Population (%)": 13.4
+          "Grid Cells": 10893,
+          "Area (%)": 28.0,
+          "Population": 563596,
+          "Population (%)": 23.1
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 411,
+          "Area (%)": 1.1,
+          "Population": 2663,
+          "Population (%)": 0.1
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 172,
+          "Area (%)": 0.4,
+          "Population": 3319,
+          "Population (%)": 0.1
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 340,
-          "Area (%)": 84.6,
-          "Population": 452588,
-          "Population (%)": 86.4
+          "Grid Cells": 17493,
+          "Area (%)": 45.0,
+          "Population": 1425152,
+          "Population (%)": 58.4
         }
       ]
     },
@@ -2320,45 +2042,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2292,
+          "Area (%)": 5.9,
+          "Population": 79270,
+          "Population (%)": 3.2
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 5822,
+          "Area (%)": 15.0,
+          "Population": 184446,
+          "Population (%)": 7.6
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 42,
-          "Area (%)": 10.4,
-          "Population": 1075,
-          "Population (%)": 0.2
+          "Grid Cells": 9099,
+          "Area (%)": 23.4,
+          "Population": 273975,
+          "Population (%)": 11.2
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2529,
+          "Area (%)": 6.5,
+          "Population": 43532,
+          "Population (%)": 1.8
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 180,
+          "Area (%)": 0.5,
+          "Population": 3399,
+          "Population (%)": 0.1
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 360,
-          "Area (%)": 89.6,
-          "Population": 522828,
-          "Population (%)": 99.8
+          "Grid Cells": 18935,
+          "Area (%)": 48.7,
+          "Population": 1857360,
+          "Population (%)": 76.1
         }
       ]
     },
@@ -2373,38 +2095,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 3672,
+          "Area (%)": 9.5,
+          "Population": 93495,
+          "Population (%)": 3.8
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 7538,
+          "Area (%)": 19.4,
+          "Population": 199635,
+          "Population (%)": 8.2
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2529,
+          "Area (%)": 6.5,
+          "Population": 43532,
+          "Population (%)": 1.8
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 180,
+          "Area (%)": 0.5,
+          "Population": 3399,
+          "Population (%)": 0.1
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 402,
-          "Area (%)": 100.0,
-          "Population": 523903,
-          "Population (%)": 100.0
+          "Grid Cells": 24938,
+          "Area (%)": 64.2,
+          "Population": 2101921,
+          "Population (%)": 86.1
         }
       ]
     },
@@ -2412,45 +2134,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1,
-          "Area (%)": 0.2,
-          "Population": 992,
-          "Population (%)": 0.2
+          "Grid Cells": 3457,
+          "Area (%)": 8.9,
+          "Population": 255057,
+          "Population (%)": 10.4
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 21,
-          "Area (%)": 5.2,
-          "Population": 17507,
-          "Population (%)": 3.3
+          "Grid Cells": 5229,
+          "Area (%)": 13.5,
+          "Population": 315027,
+          "Population (%)": 12.9
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 108,
-          "Area (%)": 26.9,
-          "Population": 139389,
-          "Population (%)": 26.6
+          "Grid Cells": 7174,
+          "Area (%)": 18.5,
+          "Population": 484374,
+          "Population (%)": 19.8
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 7907,
+          "Area (%)": 20.3,
+          "Population": 169720,
+          "Population (%)": 7.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 392,
+          "Area (%)": 1.0,
+          "Population": 4460,
+          "Population (%)": 0.2
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 272,
-          "Area (%)": 67.7,
-          "Population": 366015,
-          "Population (%)": 69.9
+          "Grid Cells": 14698,
+          "Area (%)": 37.8,
+          "Population": 1213344,
+          "Population (%)": 49.7
         }
       ]
     },
@@ -2458,50 +2180,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 4406,
+          "Area (%)": 11.3,
+          "Population": 260011,
+          "Population (%)": 10.6
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 12,
-          "Area (%)": 3.0,
-          "Population": 4542,
-          "Population (%)": 0.9
+          "Grid Cells": 6275,
+          "Area (%)": 16.1,
+          "Population": 287939,
+          "Population (%)": 11.8
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 113,
-          "Area (%)": 28.1,
-          "Population": 109245,
-          "Population (%)": 20.9
+          "Grid Cells": 9559,
+          "Area (%)": 24.6,
+          "Population": 528370,
+          "Population (%)": 21.6
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 2529,
+          "Area (%)": 6.5,
+          "Population": 43533,
+          "Population (%)": 1.8
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 180,
+          "Area (%)": 0.5,
+          "Population": 3399,
+          "Population (%)": 0.1
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 277,
-          "Area (%)": 68.9,
-          "Population": 410116,
-          "Population (%)": 78.3
+          "Grid Cells": 15908,
+          "Area (%)": 40.9,
+          "Population": 1318730,
+          "Population (%)": 54.0
         }
       ]
     }
   },
-  "Bremen (Regular)": {
+  "Bremen (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -2779,7 +2501,563 @@
       ]
     }
   },
-  "Hamburg (Extended)": {
+  "Bremen (Stroke-Ready Hospitals)": {
+    "+10min Penalty": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 4,
+          "Area (%)": 1.0,
+          "Population": 103,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 71,
+          "Area (%)": 17.7,
+          "Population": 17295,
+          "Population (%)": 3.3
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 327,
+          "Area (%)": 81.3,
+          "Population": 506505,
+          "Population (%)": 96.7
+        }
+      ]
+    },
+    "+20% Speed (Emergency)": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 2,
+          "Area (%)": 0.5,
+          "Population": 1316,
+          "Population (%)": 0.3
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 60,
+          "Area (%)": 14.9,
+          "Population": 69999,
+          "Population (%)": 13.4
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 340,
+          "Area (%)": 84.6,
+          "Population": 452588,
+          "Population (%)": 86.4
+        }
+      ]
+    },
+    "+20min Penalty": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 42,
+          "Area (%)": 10.4,
+          "Population": 1075,
+          "Population (%)": 0.2
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 360,
+          "Area (%)": 89.6,
+          "Population": 522828,
+          "Population (%)": 99.8
+        }
+      ]
+    },
+    "+30min Penalty": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 402,
+          "Area (%)": 100.0,
+          "Population": 523903,
+          "Population (%)": 100.0
+        }
+      ]
+    },
+    "-20% Speed (Traffic)": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 1,
+          "Area (%)": 0.2,
+          "Population": 992,
+          "Population (%)": 0.2
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 21,
+          "Area (%)": 5.2,
+          "Population": 17507,
+          "Population (%)": 3.3
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 108,
+          "Area (%)": 26.9,
+          "Population": 139389,
+          "Population (%)": 26.6
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 272,
+          "Area (%)": 67.7,
+          "Population": 366015,
+          "Population (%)": 69.9
+        }
+      ]
+    },
+    "Normal Speed": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 12,
+          "Area (%)": 3.0,
+          "Population": 4542,
+          "Population (%)": 0.9
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 113,
+          "Area (%)": 28.1,
+          "Population": 109245,
+          "Population (%)": 20.9
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 277,
+          "Area (%)": 68.9,
+          "Population": 410116,
+          "Population (%)": 78.3
+        }
+      ]
+    }
+  },
+  "Hamburg (Stroke Units)": {
+    "+10min Penalty": {
+      "Regular": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 92,
+          "Area (%)": 8.8,
+          "Population": 75373,
+          "Population (%)": 4.1
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 10,
+          "Area (%)": 1.0,
+          "Population": 6092,
+          "Population (%)": 0.3
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 942,
+          "Area (%)": 90.2,
+          "Population": 1761117,
+          "Population (%)": 95.6
+        }
+      ]
+    },
+    "+20% Speed (Emergency)": {
+      "Regular": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 127,
+          "Area (%)": 12.2,
+          "Population": 152986,
+          "Population (%)": 8.3
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 10,
+          "Area (%)": 1.0,
+          "Population": 6092,
+          "Population (%)": 0.3
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 907,
+          "Area (%)": 86.9,
+          "Population": 1683504,
+          "Population (%)": 91.4
+        }
+      ]
+    },
+    "+20min Penalty": {
+      "Regular": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 13,
+          "Area (%)": 1.2,
+          "Population": 1190,
+          "Population (%)": 0.1
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 10,
+          "Area (%)": 1.0,
+          "Population": 6092,
+          "Population (%)": 0.3
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 1021,
+          "Area (%)": 97.8,
+          "Population": 1835300,
+          "Population (%)": 99.6
+        }
+      ]
+    },
+    "+30min Penalty": {
+      "Regular": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 10,
+          "Area (%)": 1.0,
+          "Population": 6092,
+          "Population (%)": 0.3
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 1034,
+          "Area (%)": 99.0,
+          "Population": 1836490,
+          "Population (%)": 99.7
+        }
+      ]
+    },
+    "-20% Speed (Traffic)": {
+      "Regular": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 37,
+          "Area (%)": 3.5,
+          "Population": 54561,
+          "Population (%)": 3.0
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 191,
+          "Area (%)": 18.3,
+          "Population": 295867,
+          "Population (%)": 16.1
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 10,
+          "Area (%)": 1.0,
+          "Population": 6111,
+          "Population (%)": 0.3
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 806,
+          "Area (%)": 77.2,
+          "Population": 1486043,
+          "Population (%)": 80.7
+        }
+      ]
+    },
+    "Normal Speed": {
+      "Regular": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 13,
+          "Area (%)": 1.2,
+          "Population": 21004,
+          "Population (%)": 1.1
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 159,
+          "Area (%)": 15.2,
+          "Population": 213721,
+          "Population (%)": 11.6
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 10,
+          "Area (%)": 1.0,
+          "Population": 6092,
+          "Population (%)": 0.3
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 862,
+          "Area (%)": 82.6,
+          "Population": 1601765,
+          "Population (%)": 86.9
+        }
+      ]
+    }
+  },
+  "Hamburg (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
@@ -3057,563 +3335,7 @@
       ]
     }
   },
-  "Hamburg (Regular)": {
-    "+10min Penalty": {
-      "Regular": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 92,
-          "Area (%)": 8.8,
-          "Population": 75373,
-          "Population (%)": 4.1
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 10,
-          "Area (%)": 1.0,
-          "Population": 6092,
-          "Population (%)": 0.3
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 942,
-          "Area (%)": 90.2,
-          "Population": 1761117,
-          "Population (%)": 95.6
-        }
-      ]
-    },
-    "+20% Speed (Emergency)": {
-      "Regular": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 127,
-          "Area (%)": 12.2,
-          "Population": 152986,
-          "Population (%)": 8.3
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 10,
-          "Area (%)": 1.0,
-          "Population": 6092,
-          "Population (%)": 0.3
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 907,
-          "Area (%)": 86.9,
-          "Population": 1683504,
-          "Population (%)": 91.4
-        }
-      ]
-    },
-    "+20min Penalty": {
-      "Regular": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 13,
-          "Area (%)": 1.2,
-          "Population": 1190,
-          "Population (%)": 0.1
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 10,
-          "Area (%)": 1.0,
-          "Population": 6092,
-          "Population (%)": 0.3
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 1021,
-          "Area (%)": 97.8,
-          "Population": 1835300,
-          "Population (%)": 99.6
-        }
-      ]
-    },
-    "+30min Penalty": {
-      "Regular": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 10,
-          "Area (%)": 1.0,
-          "Population": 6092,
-          "Population (%)": 0.3
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 1034,
-          "Area (%)": 99.0,
-          "Population": 1836490,
-          "Population (%)": 99.7
-        }
-      ]
-    },
-    "-20% Speed (Traffic)": {
-      "Regular": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 37,
-          "Area (%)": 3.5,
-          "Population": 54561,
-          "Population (%)": 3.0
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 191,
-          "Area (%)": 18.3,
-          "Population": 295867,
-          "Population (%)": 16.1
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 10,
-          "Area (%)": 1.0,
-          "Population": 6111,
-          "Population (%)": 0.3
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 806,
-          "Area (%)": 77.2,
-          "Population": 1486043,
-          "Population (%)": 80.7
-        }
-      ]
-    },
-    "Normal Speed": {
-      "Regular": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 13,
-          "Area (%)": 1.2,
-          "Population": 21004,
-          "Population (%)": 1.1
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 159,
-          "Area (%)": 15.2,
-          "Population": 213721,
-          "Population (%)": 11.6
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 10,
-          "Area (%)": 1.0,
-          "Population": 6092,
-          "Population (%)": 0.3
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 862,
-          "Area (%)": 82.6,
-          "Population": 1601765,
-          "Population (%)": 86.9
-        }
-      ]
-    }
-  },
-  "Hessen (Extended)": {
-    "+10min Penalty": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 1194,
-          "Area (%)": 4.5,
-          "Population": 91369,
-          "Population (%)": 1.5
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 3016,
-          "Area (%)": 11.3,
-          "Population": 240916,
-          "Population (%)": 3.9
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 7388,
-          "Area (%)": 27.6,
-          "Population": 799670,
-          "Population (%)": 12.8
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 37,
-          "Area (%)": 0.1,
-          "Population": 677,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 15113,
-          "Area (%)": 56.5,
-          "Population": 5121778,
-          "Population (%)": 81.9
-        }
-      ]
-    },
-    "+20% Speed (Emergency)": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 753,
-          "Area (%)": 2.8,
-          "Population": 75673,
-          "Population (%)": 1.2
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 2608,
-          "Area (%)": 9.8,
-          "Population": 249411,
-          "Population (%)": 4.0
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 7889,
-          "Area (%)": 29.5,
-          "Population": 952325,
-          "Population (%)": 15.2
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 15498,
-          "Area (%)": 57.9,
-          "Population": 4977001,
-          "Population (%)": 79.6
-        }
-      ]
-    },
-    "+20min Penalty": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 383,
-          "Area (%)": 1.4,
-          "Population": 14258,
-          "Population (%)": 0.2
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 1494,
-          "Area (%)": 5.6,
-          "Population": 105358,
-          "Population (%)": 1.7
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 4886,
-          "Area (%)": 18.3,
-          "Population": 349316,
-          "Population (%)": 5.6
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 37,
-          "Area (%)": 0.1,
-          "Population": 677,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 19948,
-          "Area (%)": 74.6,
-          "Population": 5784801,
-          "Population (%)": 92.5
-        }
-      ]
-    },
-    "+30min Penalty": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 395,
-          "Area (%)": 1.5,
-          "Population": 14433,
-          "Population (%)": 0.2
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 1615,
-          "Area (%)": 6.0,
-          "Population": 105930,
-          "Population (%)": 1.7
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 37,
-          "Area (%)": 0.1,
-          "Population": 677,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 24701,
-          "Area (%)": 92.3,
-          "Population": 6133370,
-          "Population (%)": 98.1
-        }
-      ]
-    },
-    "-20% Speed (Traffic)": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 2424,
-          "Area (%)": 9.1,
-          "Population": 245514,
-          "Population (%)": 3.9
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 4150,
-          "Area (%)": 15.5,
-          "Population": 454543,
-          "Population (%)": 7.3
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 7024,
-          "Area (%)": 26.3,
-          "Population": 1218978,
-          "Population (%)": 19.5
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 569,
-          "Area (%)": 2.1,
-          "Population": 33103,
-          "Population (%)": 0.5
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 12581,
-          "Area (%)": 47.0,
-          "Population": 4302272,
-          "Population (%)": 68.8
-        }
-      ]
-    },
-    "Normal Speed": {
-      "Extended": [
-        {
-          "Category": "High (30+ min)",
-          "Grid Cells": 1438,
-          "Area (%)": 5.4,
-          "Population": 141136,
-          "Population (%)": 2.3
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 3440,
-          "Area (%)": 12.9,
-          "Population": 359958,
-          "Population (%)": 5.8
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 7699,
-          "Area (%)": 28.8,
-          "Population": 1086857,
-          "Population (%)": 17.4
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 37,
-          "Area (%)": 0.1,
-          "Population": 677,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
-        },
-        {
-          "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 14134,
-          "Area (%)": 52.8,
-          "Population": 4665782,
-          "Population (%)": 74.6
-        }
-      ]
-    }
-  },
-  "Hessen (Regular)": {
+  "Hessen (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -3891,50 +3613,50 @@
       ]
     }
   },
-  "Mecklenburg-Vorpommern (Extended)": {
+  "Hessen (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 3331,
-          "Area (%)": 10.7,
-          "Population": 165269,
-          "Population (%)": 11.3
+          "Grid Cells": 1194,
+          "Area (%)": 4.5,
+          "Population": 91369,
+          "Population (%)": 1.5
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 5528,
-          "Area (%)": 17.7,
-          "Population": 162339,
-          "Population (%)": 11.1
+          "Grid Cells": 3016,
+          "Area (%)": 11.3,
+          "Population": 240916,
+          "Population (%)": 3.9
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 7110,
-          "Area (%)": 22.8,
-          "Population": 229848,
-          "Population (%)": 15.7
+          "Grid Cells": 7388,
+          "Area (%)": 27.6,
+          "Population": 799670,
+          "Population (%)": 12.8
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 2481,
-          "Area (%)": 8.0,
-          "Population": 46235,
-          "Population (%)": 3.2
+          "Grid Cells": 37,
+          "Area (%)": 0.1,
+          "Population": 677,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 976,
-          "Area (%)": 3.1,
-          "Population": 13806,
-          "Population (%)": 0.9
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 11755,
-          "Area (%)": 37.7,
-          "Population": 846498,
-          "Population (%)": 57.8
+          "Grid Cells": 15113,
+          "Area (%)": 56.5,
+          "Population": 5121778,
+          "Population (%)": 81.9
         }
       ]
     },
@@ -3942,45 +3664,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2909,
-          "Area (%)": 9.3,
-          "Population": 162247,
-          "Population (%)": 11.1
+          "Grid Cells": 753,
+          "Area (%)": 2.8,
+          "Population": 75673,
+          "Population (%)": 1.2
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 5411,
-          "Area (%)": 17.4,
-          "Population": 166648,
-          "Population (%)": 11.4
+          "Grid Cells": 2608,
+          "Area (%)": 9.8,
+          "Population": 249411,
+          "Population (%)": 4.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 8532,
-          "Area (%)": 27.4,
-          "Population": 234479,
-          "Population (%)": 16.0
+          "Grid Cells": 7889,
+          "Area (%)": 29.5,
+          "Population": 952325,
+          "Population (%)": 15.2
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 986,
-          "Area (%)": 3.2,
-          "Population": 16600,
-          "Population (%)": 1.1
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 495,
-          "Area (%)": 1.6,
-          "Population": 10401,
-          "Population (%)": 0.7
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 12848,
-          "Area (%)": 41.2,
-          "Population": 873620,
-          "Population (%)": 59.7
+          "Grid Cells": 15498,
+          "Area (%)": 57.9,
+          "Population": 4977001,
+          "Population (%)": 79.6
         }
       ]
     },
@@ -3988,45 +3710,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2255,
-          "Area (%)": 7.2,
-          "Population": 85802,
-          "Population (%)": 5.9
+          "Grid Cells": 383,
+          "Area (%)": 1.4,
+          "Population": 14258,
+          "Population (%)": 0.2
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 4889,
-          "Area (%)": 15.7,
-          "Population": 145341,
-          "Population (%)": 9.9
+          "Grid Cells": 1494,
+          "Area (%)": 5.6,
+          "Population": 105358,
+          "Population (%)": 1.7
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 7293,
-          "Area (%)": 23.4,
-          "Population": 212524,
-          "Population (%)": 14.5
+          "Grid Cells": 4886,
+          "Area (%)": 18.3,
+          "Population": 349316,
+          "Population (%)": 5.6
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 2481,
-          "Area (%)": 8.0,
-          "Population": 46235,
-          "Population (%)": 3.2
+          "Grid Cells": 37,
+          "Area (%)": 0.1,
+          "Population": 677,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 976,
-          "Area (%)": 3.1,
-          "Population": 13806,
-          "Population (%)": 0.9
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 13287,
-          "Area (%)": 42.6,
-          "Population": 960287,
-          "Population (%)": 65.6
+          "Grid Cells": 19948,
+          "Area (%)": 74.6,
+          "Population": 5784801,
+          "Population (%)": 92.5
         }
       ]
     },
@@ -4041,38 +3763,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3480,
-          "Area (%)": 11.2,
-          "Population": 102134,
-          "Population (%)": 7.0
+          "Grid Cells": 395,
+          "Area (%)": 1.5,
+          "Population": 14433,
+          "Population (%)": 0.2
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6538,
-          "Area (%)": 21.0,
-          "Population": 163743,
-          "Population (%)": 11.2
+          "Grid Cells": 1615,
+          "Area (%)": 6.0,
+          "Population": 105930,
+          "Population (%)": 1.7
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 2481,
-          "Area (%)": 8.0,
-          "Population": 46227,
-          "Population (%)": 3.2
+          "Grid Cells": 37,
+          "Area (%)": 0.1,
+          "Population": 677,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 976,
-          "Area (%)": 3.1,
-          "Population": 13809,
-          "Population (%)": 0.9
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 17706,
-          "Area (%)": 56.8,
-          "Population": 1138082,
-          "Population (%)": 77.7
+          "Grid Cells": 24701,
+          "Area (%)": 92.3,
+          "Population": 6133370,
+          "Population (%)": 98.1
         }
       ]
     },
@@ -4080,45 +3802,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2681,
-          "Area (%)": 8.6,
-          "Population": 171802,
-          "Population (%)": 11.7
+          "Grid Cells": 2424,
+          "Area (%)": 9.1,
+          "Population": 245514,
+          "Population (%)": 3.9
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 4184,
-          "Area (%)": 13.4,
-          "Population": 121051,
-          "Population (%)": 8.3
+          "Grid Cells": 4150,
+          "Area (%)": 15.5,
+          "Population": 454543,
+          "Population (%)": 7.3
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 5349,
-          "Area (%)": 17.2,
-          "Population": 216457,
-          "Population (%)": 14.8
+          "Grid Cells": 7024,
+          "Area (%)": 26.3,
+          "Population": 1218978,
+          "Population (%)": 19.5
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 7293,
-          "Area (%)": 23.4,
-          "Population": 170874,
-          "Population (%)": 11.7
+          "Grid Cells": 569,
+          "Area (%)": 2.1,
+          "Population": 33103,
+          "Population (%)": 0.5
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 1443,
-          "Area (%)": 4.6,
-          "Population": 21553,
-          "Population (%)": 1.5
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 10231,
-          "Area (%)": 32.8,
-          "Population": 762258,
-          "Population (%)": 52.1
+          "Grid Cells": 12581,
+          "Area (%)": 47.0,
+          "Population": 4302272,
+          "Population (%)": 68.8
         }
       ]
     },
@@ -4126,50 +3848,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 3562,
-          "Area (%)": 11.4,
-          "Population": 211026,
-          "Population (%)": 14.4
+          "Grid Cells": 1438,
+          "Area (%)": 5.4,
+          "Population": 141136,
+          "Population (%)": 2.3
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 5527,
-          "Area (%)": 17.7,
-          "Population": 154395,
-          "Population (%)": 10.5
+          "Grid Cells": 3440,
+          "Area (%)": 12.9,
+          "Population": 359958,
+          "Population (%)": 5.8
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6992,
-          "Area (%)": 22.4,
-          "Population": 219220,
-          "Population (%)": 15.0
+          "Grid Cells": 7699,
+          "Area (%)": 28.8,
+          "Population": 1086857,
+          "Population (%)": 17.4
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 2481,
-          "Area (%)": 8.0,
-          "Population": 46235,
-          "Population (%)": 3.2
+          "Grid Cells": 37,
+          "Area (%)": 0.1,
+          "Population": 677,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 976,
-          "Area (%)": 3.1,
-          "Population": 13806,
-          "Population (%)": 0.9
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 11643,
-          "Area (%)": 37.3,
-          "Population": 819313,
-          "Population (%)": 56.0
+          "Grid Cells": 14134,
+          "Area (%)": 52.8,
+          "Population": 4665782,
+          "Population (%)": 74.6
         }
       ]
     }
   },
-  "Mecklenburg-Vorpommern (Regular)": {
+  "Mecklenburg-Vorpommern (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -4447,50 +4169,50 @@
       ]
     }
   },
-  "Niedersachsen (Extended)": {
+  "Mecklenburg-Vorpommern (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2645,
-          "Area (%)": 4.2,
-          "Population": 213060,
-          "Population (%)": 2.7
+          "Grid Cells": 3331,
+          "Area (%)": 10.7,
+          "Population": 165269,
+          "Population (%)": 11.3
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 8187,
-          "Area (%)": 13.0,
-          "Population": 628853,
-          "Population (%)": 7.8
+          "Grid Cells": 5528,
+          "Area (%)": 17.7,
+          "Population": 162339,
+          "Population (%)": 11.1
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 14419,
+          "Grid Cells": 7110,
           "Area (%)": 22.8,
-          "Population": 1525232,
-          "Population (%)": 19.0
+          "Population": 229848,
+          "Population (%)": 15.7
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 719,
-          "Area (%)": 1.1,
-          "Population": 9806,
-          "Population (%)": 0.1
+          "Grid Cells": 2481,
+          "Area (%)": 8.0,
+          "Population": 46235,
+          "Population (%)": 3.2
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 353,
-          "Area (%)": 0.6,
-          "Population": 17274,
-          "Population (%)": 0.2
+          "Grid Cells": 976,
+          "Area (%)": 3.1,
+          "Population": 13806,
+          "Population (%)": 0.9
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 36847,
-          "Area (%)": 58.3,
-          "Population": 5645637,
-          "Population (%)": 70.2
+          "Grid Cells": 11755,
+          "Area (%)": 37.7,
+          "Population": 846498,
+          "Population (%)": 57.8
         }
       ]
     },
@@ -4498,45 +4220,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1609,
-          "Area (%)": 2.5,
-          "Population": 157631,
-          "Population (%)": 2.0
+          "Grid Cells": 2909,
+          "Area (%)": 9.3,
+          "Population": 162247,
+          "Population (%)": 11.1
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 6863,
-          "Area (%)": 10.9,
-          "Population": 710765,
-          "Population (%)": 8.8
+          "Grid Cells": 5411,
+          "Area (%)": 17.4,
+          "Population": 166648,
+          "Population (%)": 11.4
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 15932,
-          "Area (%)": 25.2,
-          "Population": 1676918,
-          "Population (%)": 20.9
+          "Grid Cells": 8532,
+          "Area (%)": 27.4,
+          "Population": 234479,
+          "Population (%)": 16.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 153,
-          "Area (%)": 0.2,
-          "Population": 3942,
-          "Population (%)": 0.0
+          "Grid Cells": 986,
+          "Area (%)": 3.2,
+          "Population": 16600,
+          "Population (%)": 1.1
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 343,
-          "Area (%)": 0.5,
-          "Population": 16681,
-          "Population (%)": 0.2
+          "Grid Cells": 495,
+          "Area (%)": 1.6,
+          "Population": 10401,
+          "Population (%)": 0.7
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 38270,
-          "Area (%)": 60.6,
-          "Population": 5473925,
-          "Population (%)": 68.1
+          "Grid Cells": 12848,
+          "Area (%)": 41.2,
+          "Population": 873620,
+          "Population (%)": 59.7
         }
       ]
     },
@@ -4544,45 +4266,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 811,
-          "Area (%)": 1.3,
-          "Population": 32862,
-          "Population (%)": 0.4
+          "Grid Cells": 2255,
+          "Area (%)": 7.2,
+          "Population": 85802,
+          "Population (%)": 5.9
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 4999,
-          "Area (%)": 7.9,
-          "Population": 296260,
-          "Population (%)": 3.7
+          "Grid Cells": 4889,
+          "Area (%)": 15.7,
+          "Population": 145341,
+          "Population (%)": 9.9
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 11491,
-          "Area (%)": 18.2,
-          "Population": 812452,
-          "Population (%)": 10.1
+          "Grid Cells": 7293,
+          "Area (%)": 23.4,
+          "Population": 212524,
+          "Population (%)": 14.5
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 719,
-          "Area (%)": 1.1,
-          "Population": 9806,
-          "Population (%)": 0.1
+          "Grid Cells": 2481,
+          "Area (%)": 8.0,
+          "Population": 46235,
+          "Population (%)": 3.2
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 353,
-          "Area (%)": 0.6,
-          "Population": 17276,
-          "Population (%)": 0.2
+          "Grid Cells": 976,
+          "Area (%)": 3.1,
+          "Population": 13806,
+          "Population (%)": 0.9
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 44797,
-          "Area (%)": 70.9,
-          "Population": 6871206,
-          "Population (%)": 85.5
+          "Grid Cells": 13287,
+          "Area (%)": 42.6,
+          "Population": 960287,
+          "Population (%)": 65.6
         }
       ]
     },
@@ -4597,38 +4319,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 1208,
-          "Area (%)": 1.9,
-          "Population": 39873,
-          "Population (%)": 0.5
+          "Grid Cells": 3480,
+          "Area (%)": 11.2,
+          "Population": 102134,
+          "Population (%)": 7.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6100,
-          "Area (%)": 9.7,
-          "Population": 319172,
-          "Population (%)": 4.0
+          "Grid Cells": 6538,
+          "Area (%)": 21.0,
+          "Population": 163743,
+          "Population (%)": 11.2
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 719,
-          "Area (%)": 1.1,
-          "Population": 9812,
-          "Population (%)": 0.1
+          "Grid Cells": 2481,
+          "Area (%)": 8.0,
+          "Population": 46227,
+          "Population (%)": 3.2
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 353,
-          "Area (%)": 0.6,
-          "Population": 17283,
-          "Population (%)": 0.2
+          "Grid Cells": 976,
+          "Area (%)": 3.1,
+          "Population": 13809,
+          "Population (%)": 0.9
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 54790,
-          "Area (%)": 86.7,
-          "Population": 7653722,
-          "Population (%)": 95.2
+          "Grid Cells": 17706,
+          "Area (%)": 56.8,
+          "Population": 1138082,
+          "Population (%)": 77.7
         }
       ]
     },
@@ -4636,45 +4358,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 5377,
-          "Area (%)": 8.5,
-          "Population": 675336,
-          "Population (%)": 8.4
+          "Grid Cells": 2681,
+          "Area (%)": 8.6,
+          "Population": 171802,
+          "Population (%)": 11.7
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 9509,
-          "Area (%)": 15.1,
-          "Population": 991492,
-          "Population (%)": 12.3
+          "Grid Cells": 4184,
+          "Area (%)": 13.4,
+          "Population": 121051,
+          "Population (%)": 8.3
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 11617,
-          "Area (%)": 18.4,
-          "Population": 1428755,
-          "Population (%)": 17.8
+          "Grid Cells": 5349,
+          "Area (%)": 17.2,
+          "Population": 216457,
+          "Population (%)": 14.8
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 2491,
-          "Area (%)": 3.9,
-          "Population": 80583,
-          "Population (%)": 1.0
+          "Grid Cells": 7293,
+          "Area (%)": 23.4,
+          "Population": 170874,
+          "Population (%)": 11.7
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 368,
-          "Area (%)": 0.6,
-          "Population": 17924,
-          "Population (%)": 0.2
+          "Grid Cells": 1443,
+          "Area (%)": 4.6,
+          "Population": 21553,
+          "Population (%)": 1.5
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 33808,
-          "Area (%)": 53.5,
-          "Population": 4845772,
-          "Population (%)": 60.3
+          "Grid Cells": 10231,
+          "Area (%)": 32.8,
+          "Population": 762258,
+          "Population (%)": 52.1
         }
       ]
     },
@@ -4682,50 +4404,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 3211,
-          "Area (%)": 5.1,
-          "Population": 367633,
-          "Population (%)": 4.6
+          "Grid Cells": 3562,
+          "Area (%)": 11.4,
+          "Population": 211026,
+          "Population (%)": 14.4
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 9059,
-          "Area (%)": 14.3,
-          "Population": 915132,
-          "Population (%)": 11.4
+          "Grid Cells": 5527,
+          "Area (%)": 17.7,
+          "Population": 154395,
+          "Population (%)": 10.5
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 13745,
-          "Area (%)": 21.8,
-          "Population": 1542219,
-          "Population (%)": 19.2
+          "Grid Cells": 6992,
+          "Area (%)": 22.4,
+          "Population": 219220,
+          "Population (%)": 15.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 719,
-          "Area (%)": 1.1,
-          "Population": 9815,
-          "Population (%)": 0.1
+          "Grid Cells": 2481,
+          "Area (%)": 8.0,
+          "Population": 46235,
+          "Population (%)": 3.2
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 353,
-          "Area (%)": 0.6,
-          "Population": 17274,
-          "Population (%)": 0.2
+          "Grid Cells": 976,
+          "Area (%)": 3.1,
+          "Population": 13806,
+          "Population (%)": 0.9
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 36083,
-          "Area (%)": 57.1,
-          "Population": 5187789,
-          "Population (%)": 64.5
+          "Grid Cells": 11643,
+          "Area (%)": 37.3,
+          "Population": 819313,
+          "Population (%)": 56.0
         }
       ]
     }
   },
-  "Niedersachsen (Regular)": {
+  "Niedersachsen (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -5003,50 +4725,50 @@
       ]
     }
   },
-  "Nordrhein-Westfalen (Extended)": {
+  "Niedersachsen (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1956,
-          "Area (%)": 4.4,
-          "Population": 201321,
-          "Population (%)": 1.1
+          "Grid Cells": 2645,
+          "Area (%)": 4.2,
+          "Population": 213060,
+          "Population (%)": 2.7
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3235,
-          "Area (%)": 7.3,
-          "Population": 378839,
-          "Population (%)": 2.1
+          "Grid Cells": 8187,
+          "Area (%)": 13.0,
+          "Population": 628853,
+          "Population (%)": 7.8
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 10112,
-          "Area (%)": 22.9,
-          "Population": 2153452,
-          "Population (%)": 11.7
+          "Grid Cells": 14419,
+          "Area (%)": 22.8,
+          "Population": 1525232,
+          "Population (%)": 19.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 271,
-          "Area (%)": 0.6,
-          "Population": 3238,
-          "Population (%)": 0.0
+          "Grid Cells": 719,
+          "Area (%)": 1.1,
+          "Population": 9806,
+          "Population (%)": 0.1
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 116,
-          "Area (%)": 0.3,
-          "Population": 8865,
-          "Population (%)": 0.0
+          "Grid Cells": 353,
+          "Area (%)": 0.6,
+          "Population": 17274,
+          "Population (%)": 0.2
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 28481,
-          "Area (%)": 64.5,
-          "Population": 15621200,
-          "Population (%)": 85.1
+          "Grid Cells": 36847,
+          "Area (%)": 58.3,
+          "Population": 5645637,
+          "Population (%)": 70.2
         }
       ]
     },
@@ -5054,45 +4776,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1318,
-          "Area (%)": 3.0,
-          "Population": 160504,
-          "Population (%)": 0.9
+          "Grid Cells": 1609,
+          "Area (%)": 2.5,
+          "Population": 157631,
+          "Population (%)": 2.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3230,
-          "Area (%)": 7.3,
-          "Population": 490731,
-          "Population (%)": 2.7
+          "Grid Cells": 6863,
+          "Area (%)": 10.9,
+          "Population": 710765,
+          "Population (%)": 8.8
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 11092,
-          "Area (%)": 25.1,
-          "Population": 3586975,
-          "Population (%)": 19.5
+          "Grid Cells": 15932,
+          "Area (%)": 25.2,
+          "Population": 1676918,
+          "Population (%)": 20.9
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 25,
-          "Area (%)": 0.1,
-          "Population": 670,
+          "Grid Cells": 153,
+          "Area (%)": 0.2,
+          "Population": 3942,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 118,
-          "Area (%)": 0.3,
-          "Population": 8358,
-          "Population (%)": 0.0
+          "Grid Cells": 343,
+          "Area (%)": 0.5,
+          "Population": 16681,
+          "Population (%)": 0.2
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 28388,
-          "Area (%)": 64.3,
-          "Population": 14119677,
-          "Population (%)": 76.9
+          "Grid Cells": 38270,
+          "Area (%)": 60.6,
+          "Population": 5473925,
+          "Population (%)": 68.1
         }
       ]
     },
@@ -5100,45 +4822,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 936,
-          "Area (%)": 2.1,
-          "Population": 59772,
-          "Population (%)": 0.3
+          "Grid Cells": 811,
+          "Area (%)": 1.3,
+          "Population": 32862,
+          "Population (%)": 0.4
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 1906,
-          "Area (%)": 4.3,
-          "Population": 180070,
-          "Population (%)": 1.0
+          "Grid Cells": 4999,
+          "Area (%)": 7.9,
+          "Population": 296260,
+          "Population (%)": 3.7
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 4584,
-          "Area (%)": 10.4,
-          "Population": 502007,
-          "Population (%)": 2.7
+          "Grid Cells": 11491,
+          "Area (%)": 18.2,
+          "Population": 812452,
+          "Population (%)": 10.1
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 271,
-          "Area (%)": 0.6,
-          "Population": 3238,
-          "Population (%)": 0.0
+          "Grid Cells": 719,
+          "Area (%)": 1.1,
+          "Population": 9806,
+          "Population (%)": 0.1
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 116,
-          "Area (%)": 0.3,
-          "Population": 8871,
-          "Population (%)": 0.0
+          "Grid Cells": 353,
+          "Area (%)": 0.6,
+          "Population": 17276,
+          "Population (%)": 0.2
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 36358,
-          "Area (%)": 82.3,
-          "Population": 17612957,
-          "Population (%)": 95.9
+          "Grid Cells": 44797,
+          "Area (%)": 70.9,
+          "Population": 6871206,
+          "Population (%)": 85.5
         }
       ]
     },
@@ -5153,38 +4875,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 1142,
-          "Area (%)": 2.6,
-          "Population": 63928,
-          "Population (%)": 0.3
+          "Grid Cells": 1208,
+          "Area (%)": 1.9,
+          "Population": 39873,
+          "Population (%)": 0.5
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 1974,
-          "Area (%)": 4.5,
-          "Population": 182376,
-          "Population (%)": 1.0
+          "Grid Cells": 6100,
+          "Area (%)": 9.7,
+          "Population": 319172,
+          "Population (%)": 4.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 271,
-          "Area (%)": 0.6,
-          "Population": 3238,
-          "Population (%)": 0.0
+          "Grid Cells": 719,
+          "Area (%)": 1.1,
+          "Population": 9812,
+          "Population (%)": 0.1
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 116,
-          "Area (%)": 0.3,
-          "Population": 8865,
-          "Population (%)": 0.0
+          "Grid Cells": 353,
+          "Area (%)": 0.6,
+          "Population": 17283,
+          "Population (%)": 0.2
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 40668,
-          "Area (%)": 92.1,
-          "Population": 18108508,
-          "Population (%)": 98.6
+          "Grid Cells": 54790,
+          "Area (%)": 86.7,
+          "Population": 7653722,
+          "Population (%)": 95.2
         }
       ]
     },
@@ -5192,45 +4914,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2574,
-          "Area (%)": 5.8,
-          "Population": 491274,
-          "Population (%)": 2.7
+          "Grid Cells": 5377,
+          "Area (%)": 8.5,
+          "Population": 675336,
+          "Population (%)": 8.4
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 5280,
-          "Area (%)": 12.0,
-          "Population": 1370329,
-          "Population (%)": 7.5
+          "Grid Cells": 9509,
+          "Area (%)": 15.1,
+          "Population": 991492,
+          "Population (%)": 12.3
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 11428,
-          "Area (%)": 25.9,
-          "Population": 4660381,
-          "Population (%)": 25.4
+          "Grid Cells": 11617,
+          "Area (%)": 18.4,
+          "Population": 1428755,
+          "Population (%)": 17.8
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1740,
+          "Grid Cells": 2491,
           "Area (%)": 3.9,
-          "Population": 88455,
-          "Population (%)": 0.5
+          "Population": 80583,
+          "Population (%)": 1.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 127,
-          "Area (%)": 0.3,
-          "Population": 8668,
-          "Population (%)": 0.0
+          "Grid Cells": 368,
+          "Area (%)": 0.6,
+          "Population": 17924,
+          "Population (%)": 0.2
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 23022,
-          "Area (%)": 52.1,
-          "Population": 11747808,
-          "Population (%)": 64.0
+          "Grid Cells": 33808,
+          "Area (%)": 53.5,
+          "Population": 4845772,
+          "Population (%)": 60.3
         }
       ]
     },
@@ -5238,50 +4960,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2317,
-          "Area (%)": 5.2,
-          "Population": 317543,
-          "Population (%)": 1.7
+          "Grid Cells": 3211,
+          "Area (%)": 5.1,
+          "Population": 367633,
+          "Population (%)": 4.6
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 4007,
-          "Area (%)": 9.1,
-          "Population": 827777,
-          "Population (%)": 4.5
+          "Grid Cells": 9059,
+          "Area (%)": 14.3,
+          "Population": 915132,
+          "Population (%)": 11.4
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 11789,
-          "Area (%)": 26.7,
-          "Population": 4157622,
-          "Population (%)": 22.6
+          "Grid Cells": 13745,
+          "Area (%)": 21.8,
+          "Population": 1542219,
+          "Population (%)": 19.2
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 271,
-          "Area (%)": 0.6,
-          "Population": 3238,
-          "Population (%)": 0.0
+          "Grid Cells": 719,
+          "Area (%)": 1.1,
+          "Population": 9815,
+          "Population (%)": 0.1
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 116,
-          "Area (%)": 0.3,
-          "Population": 8872,
-          "Population (%)": 0.0
+          "Grid Cells": 353,
+          "Area (%)": 0.6,
+          "Population": 17274,
+          "Population (%)": 0.2
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 25671,
-          "Area (%)": 58.1,
-          "Population": 13051863,
-          "Population (%)": 71.1
+          "Grid Cells": 36083,
+          "Area (%)": 57.1,
+          "Population": 5187789,
+          "Population (%)": 64.5
         }
       ]
     }
   },
-  "Nordrhein-Westfalen (Regular)": {
+  "Nordrhein-Westfalen (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -5559,50 +5281,50 @@
       ]
     }
   },
-  "Rheinland-Pfalz (Extended)": {
+  "Nordrhein-Westfalen (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1370,
-          "Area (%)": 5.5,
-          "Population": 84404,
-          "Population (%)": 2.0
+          "Grid Cells": 1956,
+          "Area (%)": 4.4,
+          "Population": 201321,
+          "Population (%)": 1.1
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3244,
-          "Area (%)": 13.0,
-          "Population": 251679,
-          "Population (%)": 6.0
+          "Grid Cells": 3235,
+          "Area (%)": 7.3,
+          "Population": 378839,
+          "Population (%)": 2.1
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6241,
-          "Area (%)": 25.1,
-          "Population": 661092,
-          "Population (%)": 15.9
+          "Grid Cells": 10112,
+          "Area (%)": 22.9,
+          "Population": 2153452,
+          "Population (%)": 11.7
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 130,
-          "Area (%)": 0.5,
-          "Population": 1700,
+          "Grid Cells": 271,
+          "Area (%)": 0.6,
+          "Population": 3238,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 29,
-          "Area (%)": 0.1,
-          "Population": 1114,
+          "Grid Cells": 116,
+          "Area (%)": 0.3,
+          "Population": 8865,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 13880,
-          "Area (%)": 55.8,
-          "Population": 3164296,
-          "Population (%)": 76.0
+          "Grid Cells": 28481,
+          "Area (%)": 64.5,
+          "Population": 15621200,
+          "Population (%)": 85.1
         }
       ]
     },
@@ -5610,45 +5332,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 707,
-          "Area (%)": 2.8,
-          "Population": 50900,
-          "Population (%)": 1.2
+          "Grid Cells": 1318,
+          "Area (%)": 3.0,
+          "Population": 160504,
+          "Population (%)": 0.9
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3071,
-          "Area (%)": 12.3,
-          "Population": 299592,
-          "Population (%)": 7.2
+          "Grid Cells": 3230,
+          "Area (%)": 7.3,
+          "Population": 490731,
+          "Population (%)": 2.7
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6602,
-          "Area (%)": 26.5,
-          "Population": 784262,
-          "Population (%)": 18.8
+          "Grid Cells": 11092,
+          "Area (%)": 25.1,
+          "Population": 3586975,
+          "Population (%)": 19.5
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 3,
-          "Area (%)": 0.0,
-          "Population": 2,
+          "Grid Cells": 25,
+          "Area (%)": 0.1,
+          "Population": 670,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 27,
-          "Area (%)": 0.1,
-          "Population": 1114,
+          "Grid Cells": 118,
+          "Area (%)": 0.3,
+          "Population": 8358,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 14484,
-          "Area (%)": 58.2,
-          "Population": 3028415,
-          "Population (%)": 72.7
+          "Grid Cells": 28388,
+          "Area (%)": 64.3,
+          "Population": 14119677,
+          "Population (%)": 76.9
         }
       ]
     },
@@ -5656,45 +5378,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 424,
-          "Area (%)": 1.7,
-          "Population": 14792,
-          "Population (%)": 0.4
+          "Grid Cells": 936,
+          "Area (%)": 2.1,
+          "Population": 59772,
+          "Population (%)": 0.3
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 2208,
-          "Area (%)": 8.9,
-          "Population": 126034,
-          "Population (%)": 3.0
+          "Grid Cells": 1906,
+          "Area (%)": 4.3,
+          "Population": 180070,
+          "Population (%)": 1.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 4603,
-          "Area (%)": 18.5,
-          "Population": 343667,
-          "Population (%)": 8.3
+          "Grid Cells": 4584,
+          "Area (%)": 10.4,
+          "Population": 502007,
+          "Population (%)": 2.7
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 130,
-          "Area (%)": 0.5,
-          "Population": 1700,
+          "Grid Cells": 271,
+          "Area (%)": 0.6,
+          "Population": 3238,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 29,
-          "Area (%)": 0.1,
-          "Population": 1114,
+          "Grid Cells": 116,
+          "Area (%)": 0.3,
+          "Population": 8871,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 17500,
-          "Area (%)": 70.3,
-          "Population": 3676978,
-          "Population (%)": 88.3
+          "Grid Cells": 36358,
+          "Area (%)": 82.3,
+          "Population": 17612957,
+          "Population (%)": 95.9
         }
       ]
     },
@@ -5709,38 +5431,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 749,
-          "Area (%)": 3.0,
-          "Population": 24212,
-          "Population (%)": 0.6
+          "Grid Cells": 1142,
+          "Area (%)": 2.6,
+          "Population": 63928,
+          "Population (%)": 0.3
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 2238,
-          "Area (%)": 9.0,
-          "Population": 126319,
-          "Population (%)": 3.0
+          "Grid Cells": 1974,
+          "Area (%)": 4.5,
+          "Population": 182376,
+          "Population (%)": 1.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 130,
-          "Area (%)": 0.5,
-          "Population": 1700,
+          "Grid Cells": 271,
+          "Area (%)": 0.6,
+          "Population": 3238,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 29,
-          "Area (%)": 0.1,
-          "Population": 1114,
+          "Grid Cells": 116,
+          "Area (%)": 0.3,
+          "Population": 8865,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 21748,
-          "Area (%)": 87.4,
-          "Population": 4010940,
-          "Population (%)": 96.3
+          "Grid Cells": 40668,
+          "Area (%)": 92.1,
+          "Population": 18108508,
+          "Population (%)": 98.6
         }
       ]
     },
@@ -5748,45 +5470,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2342,
-          "Area (%)": 9.4,
-          "Population": 272657,
-          "Population (%)": 6.5
+          "Grid Cells": 2574,
+          "Area (%)": 5.8,
+          "Population": 491274,
+          "Population (%)": 2.7
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3311,
-          "Area (%)": 13.3,
-          "Population": 355195,
-          "Population (%)": 8.5
+          "Grid Cells": 5280,
+          "Area (%)": 12.0,
+          "Population": 1370329,
+          "Population (%)": 7.5
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6029,
-          "Area (%)": 24.2,
-          "Population": 853888,
-          "Population (%)": 20.5
+          "Grid Cells": 11428,
+          "Area (%)": 25.9,
+          "Population": 4660381,
+          "Population (%)": 25.4
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1233,
-          "Area (%)": 5.0,
-          "Population": 43867,
-          "Population (%)": 1.1
+          "Grid Cells": 1740,
+          "Area (%)": 3.9,
+          "Population": 88455,
+          "Population (%)": 0.5
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 34,
-          "Area (%)": 0.1,
-          "Population": 1232,
+          "Grid Cells": 127,
+          "Area (%)": 0.3,
+          "Population": 8668,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 11945,
-          "Area (%)": 48.0,
-          "Population": 2637446,
-          "Population (%)": 63.3
+          "Grid Cells": 23022,
+          "Area (%)": 52.1,
+          "Population": 11747808,
+          "Population (%)": 64.0
         }
       ]
     },
@@ -5794,50 +5516,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1601,
-          "Area (%)": 6.4,
-          "Population": 124856,
-          "Population (%)": 3.0
+          "Grid Cells": 2317,
+          "Area (%)": 5.2,
+          "Population": 317543,
+          "Population (%)": 1.7
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3560,
-          "Area (%)": 14.3,
-          "Population": 360892,
-          "Population (%)": 8.7
+          "Grid Cells": 4007,
+          "Area (%)": 9.1,
+          "Population": 827777,
+          "Population (%)": 4.5
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6312,
-          "Area (%)": 25.4,
-          "Population": 831737,
-          "Population (%)": 20.0
+          "Grid Cells": 11789,
+          "Area (%)": 26.7,
+          "Population": 4157622,
+          "Population (%)": 22.6
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 130,
-          "Area (%)": 0.5,
-          "Population": 1700,
+          "Grid Cells": 271,
+          "Area (%)": 0.6,
+          "Population": 3238,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 29,
-          "Area (%)": 0.1,
-          "Population": 1114,
+          "Grid Cells": 116,
+          "Area (%)": 0.3,
+          "Population": 8872,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 13262,
-          "Area (%)": 53.3,
-          "Population": 2843986,
-          "Population (%)": 68.3
+          "Grid Cells": 25671,
+          "Area (%)": 58.1,
+          "Population": 13051863,
+          "Population (%)": 71.1
         }
       ]
     }
   },
-  "Rheinland-Pfalz (Regular)": {
+  "Rheinland-Pfalz (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -6115,50 +5837,50 @@
       ]
     }
   },
-  "Saarland (Extended)": {
+  "Rheinland-Pfalz (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 1370,
+          "Area (%)": 5.5,
+          "Population": 84404,
+          "Population (%)": 2.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 152,
-          "Area (%)": 4.7,
-          "Population": 12608,
-          "Population (%)": 1.3
+          "Grid Cells": 3244,
+          "Area (%)": 13.0,
+          "Population": 251679,
+          "Population (%)": 6.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 572,
-          "Area (%)": 17.8,
-          "Population": 74423,
-          "Population (%)": 7.7
+          "Grid Cells": 6241,
+          "Area (%)": 25.1,
+          "Population": 661092,
+          "Population (%)": 15.9
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1,
-          "Area (%)": 0.0,
-          "Population": 64,
+          "Grid Cells": 130,
+          "Area (%)": 0.5,
+          "Population": 1700,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 17,
-          "Area (%)": 0.5,
-          "Population": 1958,
-          "Population (%)": 0.2
+          "Grid Cells": 29,
+          "Area (%)": 0.1,
+          "Population": 1114,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 2477,
-          "Area (%)": 76.9,
-          "Population": 881282,
-          "Population (%)": 90.8
+          "Grid Cells": 13880,
+          "Area (%)": 55.8,
+          "Population": 3164296,
+          "Population (%)": 76.0
         }
       ]
     },
@@ -6166,45 +5888,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 707,
+          "Area (%)": 2.8,
+          "Population": 50900,
+          "Population (%)": 1.2
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 83,
-          "Area (%)": 2.6,
-          "Population": 10084,
-          "Population (%)": 1.0
+          "Grid Cells": 3071,
+          "Area (%)": 12.3,
+          "Population": 299592,
+          "Population (%)": 7.2
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 548,
-          "Area (%)": 17.0,
-          "Population": 76672,
-          "Population (%)": 7.9
+          "Grid Cells": 6602,
+          "Area (%)": 26.5,
+          "Population": 784262,
+          "Population (%)": 18.8
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1,
+          "Grid Cells": 3,
           "Area (%)": 0.0,
-          "Population": 102,
+          "Population": 2,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 16,
-          "Area (%)": 0.5,
-          "Population": 1976,
-          "Population (%)": 0.2
+          "Grid Cells": 27,
+          "Area (%)": 0.1,
+          "Population": 1114,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 2571,
-          "Area (%)": 79.8,
-          "Population": 881501,
-          "Population (%)": 90.8
+          "Grid Cells": 14484,
+          "Area (%)": 58.2,
+          "Population": 3028415,
+          "Population (%)": 72.7
         }
       ]
     },
@@ -6212,45 +5934,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 424,
+          "Area (%)": 1.7,
+          "Population": 14792,
+          "Population (%)": 0.4
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 26,
-          "Area (%)": 0.8,
-          "Population": 144,
-          "Population (%)": 0.0
+          "Grid Cells": 2208,
+          "Area (%)": 8.9,
+          "Population": 126034,
+          "Population (%)": 3.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 366,
-          "Area (%)": 11.4,
-          "Population": 30959,
-          "Population (%)": 3.2
+          "Grid Cells": 4603,
+          "Area (%)": 18.5,
+          "Population": 343667,
+          "Population (%)": 8.3
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1,
-          "Area (%)": 0.0,
-          "Population": 64,
+          "Grid Cells": 130,
+          "Area (%)": 0.5,
+          "Population": 1700,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 17,
-          "Area (%)": 0.5,
-          "Population": 1958,
-          "Population (%)": 0.2
+          "Grid Cells": 29,
+          "Area (%)": 0.1,
+          "Population": 1114,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 2810,
-          "Area (%)": 87.3,
-          "Population": 937210,
-          "Population (%)": 96.6
+          "Grid Cells": 17500,
+          "Area (%)": 70.3,
+          "Population": 3676978,
+          "Population (%)": 88.3
         }
       ]
     },
@@ -6265,38 +5987,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 749,
+          "Area (%)": 3.0,
+          "Population": 24212,
+          "Population (%)": 0.6
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 41,
-          "Area (%)": 1.3,
-          "Population": 177,
-          "Population (%)": 0.0
+          "Grid Cells": 2238,
+          "Area (%)": 9.0,
+          "Population": 126319,
+          "Population (%)": 3.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1,
-          "Area (%)": 0.0,
-          "Population": 64,
+          "Grid Cells": 130,
+          "Area (%)": 0.5,
+          "Population": 1700,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 17,
-          "Area (%)": 0.5,
-          "Population": 1958,
-          "Population (%)": 0.2
+          "Grid Cells": 29,
+          "Area (%)": 0.1,
+          "Population": 1114,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 3161,
-          "Area (%)": 98.2,
-          "Population": 968136,
-          "Population (%)": 99.8
+          "Grid Cells": 21748,
+          "Area (%)": 87.4,
+          "Population": 4010940,
+          "Population (%)": 96.3
         }
       ]
     },
@@ -6304,45 +6026,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 64,
-          "Area (%)": 2.0,
-          "Population": 7243,
-          "Population (%)": 0.7
+          "Grid Cells": 2342,
+          "Area (%)": 9.4,
+          "Population": 272657,
+          "Population (%)": 6.5
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 265,
-          "Area (%)": 8.2,
-          "Population": 34345,
-          "Population (%)": 3.5
+          "Grid Cells": 3311,
+          "Area (%)": 13.3,
+          "Population": 355195,
+          "Population (%)": 8.5
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 627,
-          "Area (%)": 19.5,
-          "Population": 119900,
-          "Population (%)": 12.4
+          "Grid Cells": 6029,
+          "Area (%)": 24.2,
+          "Population": 853888,
+          "Population (%)": 20.5
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 1,
-          "Population (%)": 0.0
+          "Grid Cells": 1233,
+          "Area (%)": 5.0,
+          "Population": 43867,
+          "Population (%)": 1.1
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 16,
-          "Area (%)": 0.5,
-          "Population": 1943,
-          "Population (%)": 0.2
+          "Grid Cells": 34,
+          "Area (%)": 0.1,
+          "Population": 1232,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 2248,
-          "Area (%)": 69.8,
-          "Population": 806903,
-          "Population (%)": 83.2
+          "Grid Cells": 11945,
+          "Area (%)": 48.0,
+          "Population": 2637446,
+          "Population (%)": 63.3
         }
       ]
     },
@@ -6350,50 +6072,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 4,
-          "Area (%)": 0.1,
-          "Population": 325,
-          "Population (%)": 0.0
+          "Grid Cells": 1601,
+          "Area (%)": 6.4,
+          "Population": 124856,
+          "Population (%)": 3.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 195,
-          "Area (%)": 6.1,
-          "Population": 24200,
-          "Population (%)": 2.5
+          "Grid Cells": 3560,
+          "Area (%)": 14.3,
+          "Population": 360892,
+          "Population (%)": 8.7
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 597,
-          "Area (%)": 18.5,
-          "Population": 91936,
-          "Population (%)": 9.5
+          "Grid Cells": 6312,
+          "Area (%)": 25.4,
+          "Population": 831737,
+          "Population (%)": 20.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1,
-          "Area (%)": 0.0,
-          "Population": 64,
+          "Grid Cells": 130,
+          "Area (%)": 0.5,
+          "Population": 1700,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 17,
-          "Area (%)": 0.5,
-          "Population": 1958,
-          "Population (%)": 0.2
+          "Grid Cells": 29,
+          "Area (%)": 0.1,
+          "Population": 1114,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 2406,
-          "Area (%)": 74.7,
-          "Population": 851852,
-          "Population (%)": 87.8
+          "Grid Cells": 13262,
+          "Area (%)": 53.3,
+          "Population": 2843986,
+          "Population (%)": 68.3
         }
       ]
     }
   },
-  "Saarland (Regular)": {
+  "Saarland (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -6671,50 +6393,50 @@
       ]
     }
   },
-  "Sachsen (Extended)": {
+  "Saarland (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1230,
-          "Area (%)": 5.3,
-          "Population": 154755,
-          "Population (%)": 3.8
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 3988,
-          "Area (%)": 17.2,
-          "Population": 390371,
-          "Population (%)": 9.6
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 6142,
-          "Area (%)": 26.4,
-          "Population": 659150,
-          "Population (%)": 16.2
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 157,
-          "Area (%)": 0.7,
-          "Population": 6222,
-          "Population (%)": 0.2
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 102,
-          "Area (%)": 0.4,
-          "Population": 656,
+          "Grid Cells": 1,
+          "Area (%)": 0.0,
+          "Population": 0,
           "Population (%)": 0.0
         },
         {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 152,
+          "Area (%)": 4.7,
+          "Population": 12608,
+          "Population (%)": 1.3
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 572,
+          "Area (%)": 17.8,
+          "Population": 74423,
+          "Population (%)": 7.7
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 1,
+          "Area (%)": 0.0,
+          "Population": 64,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 17,
+          "Area (%)": 0.5,
+          "Population": 1958,
+          "Population (%)": 0.2
+        },
+        {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 11633,
-          "Area (%)": 50.0,
-          "Population": 2868351,
-          "Population (%)": 70.3
+          "Grid Cells": 2477,
+          "Area (%)": 76.9,
+          "Population": 881282,
+          "Population (%)": 90.8
         }
       ]
     },
@@ -6722,45 +6444,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 704,
-          "Area (%)": 3.0,
-          "Population": 120902,
-          "Population (%)": 3.0
+          "Grid Cells": 1,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3390,
-          "Area (%)": 14.6,
-          "Population": 408865,
-          "Population (%)": 10.0
+          "Grid Cells": 83,
+          "Area (%)": 2.6,
+          "Population": 10084,
+          "Population (%)": 1.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6856,
-          "Area (%)": 29.5,
-          "Population": 837305,
-          "Population (%)": 20.5
+          "Grid Cells": 548,
+          "Area (%)": 17.0,
+          "Population": 76672,
+          "Population (%)": 7.9
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 30,
-          "Area (%)": 0.1,
-          "Population": 833,
+          "Grid Cells": 1,
+          "Area (%)": 0.0,
+          "Population": 102,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 96,
-          "Area (%)": 0.4,
-          "Population": 598,
-          "Population (%)": 0.0
+          "Grid Cells": 16,
+          "Area (%)": 0.5,
+          "Population": 1976,
+          "Population (%)": 0.2
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 12176,
-          "Area (%)": 52.4,
-          "Population": 2711002,
-          "Population (%)": 66.5
+          "Grid Cells": 2571,
+          "Area (%)": 79.8,
+          "Population": 881501,
+          "Population (%)": 90.8
         }
       ]
     },
@@ -6768,45 +6490,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 511,
-          "Area (%)": 2.2,
-          "Population": 52465,
-          "Population (%)": 1.3
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 2209,
-          "Area (%)": 9.5,
-          "Population": 174023,
-          "Population (%)": 4.3
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 5267,
-          "Area (%)": 22.7,
-          "Population": 433290,
-          "Population (%)": 10.6
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 157,
-          "Area (%)": 0.7,
-          "Population": 6222,
-          "Population (%)": 0.2
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 102,
-          "Area (%)": 0.4,
-          "Population": 656,
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
           "Population (%)": 0.0
         },
         {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 26,
+          "Area (%)": 0.8,
+          "Population": 144,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 366,
+          "Area (%)": 11.4,
+          "Population": 30959,
+          "Population (%)": 3.2
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 1,
+          "Area (%)": 0.0,
+          "Population": 64,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 17,
+          "Area (%)": 0.5,
+          "Population": 1958,
+          "Population (%)": 0.2
+        },
+        {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 15006,
-          "Area (%)": 64.5,
-          "Population": 3412849,
-          "Population (%)": 83.7
+          "Grid Cells": 2810,
+          "Area (%)": 87.3,
+          "Population": 937210,
+          "Population (%)": 96.6
         }
       ]
     },
@@ -6821,38 +6543,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 986,
-          "Area (%)": 4.2,
-          "Population": 60736,
-          "Population (%)": 1.5
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 2567,
-          "Area (%)": 11.0,
-          "Population": 189315,
-          "Population (%)": 4.6
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 157,
-          "Area (%)": 0.7,
-          "Population": 6222,
-          "Population (%)": 0.2
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 102,
-          "Area (%)": 0.4,
-          "Population": 655,
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
           "Population (%)": 0.0
         },
         {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 41,
+          "Area (%)": 1.3,
+          "Population": 177,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 1,
+          "Area (%)": 0.0,
+          "Population": 64,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 17,
+          "Area (%)": 0.5,
+          "Population": 1958,
+          "Population (%)": 0.2
+        },
+        {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 19440,
-          "Area (%)": 83.6,
-          "Population": 3822577,
-          "Population (%)": 93.7
+          "Grid Cells": 3161,
+          "Area (%)": 98.2,
+          "Population": 968136,
+          "Population (%)": 99.8
         }
       ]
     },
@@ -6860,45 +6582,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2410,
-          "Area (%)": 10.4,
-          "Population": 388490,
-          "Population (%)": 9.5
+          "Grid Cells": 64,
+          "Area (%)": 2.0,
+          "Population": 7243,
+          "Population (%)": 0.7
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 4134,
-          "Area (%)": 17.8,
-          "Population": 457868,
-          "Population (%)": 11.2
+          "Grid Cells": 265,
+          "Area (%)": 8.2,
+          "Population": 34345,
+          "Population (%)": 3.5
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 4723,
-          "Area (%)": 20.3,
-          "Population": 717669,
-          "Population (%)": 17.6
+          "Grid Cells": 627,
+          "Area (%)": 19.5,
+          "Population": 119900,
+          "Population (%)": 12.4
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1641,
-          "Area (%)": 7.1,
-          "Population": 95650,
-          "Population (%)": 2.3
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 106,
-          "Area (%)": 0.5,
-          "Population": 768,
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 1,
           "Population (%)": 0.0
         },
         {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 16,
+          "Area (%)": 0.5,
+          "Population": 1943,
+          "Population (%)": 0.2
+        },
+        {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 10238,
-          "Area (%)": 44.0,
-          "Population": 2419060,
-          "Population (%)": 59.3
+          "Grid Cells": 2248,
+          "Area (%)": 69.8,
+          "Population": 806903,
+          "Population (%)": 83.2
         }
       ]
     },
@@ -6906,50 +6628,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1509,
-          "Area (%)": 6.5,
-          "Population": 258188,
-          "Population (%)": 6.3
-        },
-        {
-          "Category": "Medium (20-30 min)",
-          "Grid Cells": 4329,
-          "Area (%)": 18.6,
-          "Population": 445550,
-          "Population (%)": 10.9
-        },
-        {
-          "Category": "Low (10-20 min)",
-          "Grid Cells": 5955,
-          "Area (%)": 25.6,
-          "Population": 786210,
-          "Population (%)": 19.3
-        },
-        {
-          "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 157,
-          "Area (%)": 0.7,
-          "Population": 6222,
-          "Population (%)": 0.2
-        },
-        {
-          "Category": "Neither reachable within 60 min",
-          "Grid Cells": 102,
-          "Area (%)": 0.4,
-          "Population": 656,
+          "Grid Cells": 4,
+          "Area (%)": 0.1,
+          "Population": 325,
           "Population (%)": 0.0
         },
         {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 195,
+          "Area (%)": 6.1,
+          "Population": 24200,
+          "Population (%)": 2.5
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 597,
+          "Area (%)": 18.5,
+          "Population": 91936,
+          "Population (%)": 9.5
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 1,
+          "Area (%)": 0.0,
+          "Population": 64,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 17,
+          "Area (%)": 0.5,
+          "Population": 1958,
+          "Population (%)": 0.2
+        },
+        {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 11200,
-          "Area (%)": 48.2,
-          "Population": 2582679,
-          "Population (%)": 63.3
+          "Grid Cells": 2406,
+          "Area (%)": 74.7,
+          "Population": 851852,
+          "Population (%)": 87.8
         }
       ]
     }
   },
-  "Sachsen (Regular)": {
+  "Sachsen (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -7227,50 +6949,50 @@
       ]
     }
   },
-  "Sachsen-Anhalt (Extended)": {
+  "Sachsen (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2574,
-          "Area (%)": 9.6,
-          "Population": 105819,
-          "Population (%)": 5.0
+          "Grid Cells": 1230,
+          "Area (%)": 5.3,
+          "Population": 154755,
+          "Population (%)": 3.8
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 4755,
-          "Area (%)": 17.7,
-          "Population": 236312,
-          "Population (%)": 11.2
+          "Grid Cells": 3988,
+          "Area (%)": 17.2,
+          "Population": 390371,
+          "Population (%)": 9.6
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6322,
-          "Area (%)": 23.5,
-          "Population": 384385,
-          "Population (%)": 18.3
+          "Grid Cells": 6142,
+          "Area (%)": 26.4,
+          "Population": 659150,
+          "Population (%)": 16.2
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1546,
-          "Area (%)": 5.7,
-          "Population": 19488,
-          "Population (%)": 0.9
+          "Grid Cells": 157,
+          "Area (%)": 0.7,
+          "Population": 6222,
+          "Population (%)": 0.2
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 102,
+          "Area (%)": 0.4,
+          "Population": 656,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 11739,
-          "Area (%)": 43.6,
-          "Population": 1357210,
-          "Population (%)": 64.5
+          "Grid Cells": 11633,
+          "Area (%)": 50.0,
+          "Population": 2868351,
+          "Population (%)": 70.3
         }
       ]
     },
@@ -7278,45 +7000,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2190,
-          "Area (%)": 8.1,
-          "Population": 95123,
-          "Population (%)": 4.5
+          "Grid Cells": 704,
+          "Area (%)": 3.0,
+          "Population": 120902,
+          "Population (%)": 3.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 4702,
-          "Area (%)": 17.5,
-          "Population": 277669,
-          "Population (%)": 13.2
+          "Grid Cells": 3390,
+          "Area (%)": 14.6,
+          "Population": 408865,
+          "Population (%)": 10.0
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 7602,
-          "Area (%)": 28.2,
-          "Population": 379193,
-          "Population (%)": 18.0
+          "Grid Cells": 6856,
+          "Area (%)": 29.5,
+          "Population": 837305,
+          "Population (%)": 20.5
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 172,
-          "Area (%)": 0.6,
-          "Population": 668,
+          "Grid Cells": 30,
+          "Area (%)": 0.1,
+          "Population": 833,
           "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 96,
+          "Area (%)": 0.4,
+          "Population": 598,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 12270,
-          "Area (%)": 45.6,
-          "Population": 1350561,
-          "Population (%)": 64.2
+          "Grid Cells": 12176,
+          "Area (%)": 52.4,
+          "Population": 2711002,
+          "Population (%)": 66.5
         }
       ]
     },
@@ -7324,45 +7046,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1709,
-          "Area (%)": 6.3,
-          "Population": 62270,
-          "Population (%)": 3.0
+          "Grid Cells": 511,
+          "Area (%)": 2.2,
+          "Population": 52465,
+          "Population (%)": 1.3
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3602,
-          "Area (%)": 13.4,
-          "Population": 88973,
-          "Population (%)": 4.2
+          "Grid Cells": 2209,
+          "Area (%)": 9.5,
+          "Population": 174023,
+          "Population (%)": 4.3
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6069,
-          "Area (%)": 22.5,
-          "Population": 292512,
-          "Population (%)": 13.9
+          "Grid Cells": 5267,
+          "Area (%)": 22.7,
+          "Population": 433290,
+          "Population (%)": 10.6
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1546,
-          "Area (%)": 5.7,
-          "Population": 19488,
-          "Population (%)": 0.9
+          "Grid Cells": 157,
+          "Area (%)": 0.7,
+          "Population": 6222,
+          "Population (%)": 0.2
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 102,
+          "Area (%)": 0.4,
+          "Population": 656,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 14010,
-          "Area (%)": 52.0,
-          "Population": 1639971,
-          "Population (%)": 78.0
+          "Grid Cells": 15006,
+          "Area (%)": 64.5,
+          "Population": 3412849,
+          "Population (%)": 83.7
         }
       ]
     },
@@ -7377,38 +7099,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 2660,
-          "Area (%)": 9.9,
-          "Population": 74300,
-          "Population (%)": 3.5
+          "Grid Cells": 986,
+          "Area (%)": 4.2,
+          "Population": 60736,
+          "Population (%)": 1.5
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 4488,
-          "Area (%)": 16.7,
-          "Population": 107731,
-          "Population (%)": 5.1
+          "Grid Cells": 2567,
+          "Area (%)": 11.0,
+          "Population": 189315,
+          "Population (%)": 4.6
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1546,
-          "Area (%)": 5.7,
-          "Population": 19488,
-          "Population (%)": 0.9
+          "Grid Cells": 157,
+          "Area (%)": 0.7,
+          "Population": 6222,
+          "Population (%)": 0.2
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 102,
+          "Area (%)": 0.4,
+          "Population": 655,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 18242,
-          "Area (%)": 67.7,
-          "Population": 1901695,
-          "Population (%)": 90.4
+          "Grid Cells": 19440,
+          "Area (%)": 83.6,
+          "Population": 3822577,
+          "Population (%)": 93.7
         }
       ]
     },
@@ -7416,45 +7138,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2406,
-          "Area (%)": 8.9,
-          "Population": 249029,
-          "Population (%)": 11.8
+          "Grid Cells": 2410,
+          "Area (%)": 10.4,
+          "Population": 388490,
+          "Population (%)": 9.5
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 3913,
-          "Area (%)": 14.5,
-          "Population": 240605,
-          "Population (%)": 11.4
+          "Grid Cells": 4134,
+          "Area (%)": 17.8,
+          "Population": 457868,
+          "Population (%)": 11.2
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 4622,
-          "Area (%)": 17.2,
-          "Population": 273489,
-          "Population (%)": 13.0
+          "Grid Cells": 4723,
+          "Area (%)": 20.3,
+          "Population": 717669,
+          "Population (%)": 17.6
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 5199,
-          "Area (%)": 19.3,
-          "Population": 119578,
-          "Population (%)": 5.7
+          "Grid Cells": 1641,
+          "Area (%)": 7.1,
+          "Population": 95650,
+          "Population (%)": 2.3
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 259,
-          "Area (%)": 1.0,
-          "Population": 1046,
+          "Grid Cells": 106,
+          "Area (%)": 0.5,
+          "Population": 768,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 10537,
-          "Area (%)": 39.1,
-          "Population": 1219467,
-          "Population (%)": 58.0
+          "Grid Cells": 10238,
+          "Area (%)": 44.0,
+          "Population": 2419060,
+          "Population (%)": 59.3
         }
       ]
     },
@@ -7462,50 +7184,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 2832,
-          "Area (%)": 10.5,
-          "Population": 174515,
-          "Population (%)": 8.3
+          "Grid Cells": 1509,
+          "Area (%)": 6.5,
+          "Population": 258188,
+          "Population (%)": 6.3
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 4848,
-          "Area (%)": 18.0,
-          "Population": 306348,
-          "Population (%)": 14.6
+          "Grid Cells": 4329,
+          "Area (%)": 18.6,
+          "Population": 445550,
+          "Population (%)": 10.9
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6183,
-          "Area (%)": 23.0,
-          "Population": 297707,
-          "Population (%)": 14.2
+          "Grid Cells": 5955,
+          "Area (%)": 25.6,
+          "Population": 786210,
+          "Population (%)": 19.3
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 1546,
-          "Area (%)": 5.7,
-          "Population": 19488,
-          "Population (%)": 0.9
+          "Grid Cells": 157,
+          "Area (%)": 0.7,
+          "Population": 6222,
+          "Population (%)": 0.2
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
+          "Grid Cells": 102,
+          "Area (%)": 0.4,
+          "Population": 656,
           "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 11527,
-          "Area (%)": 42.8,
-          "Population": 1305156,
-          "Population (%)": 62.1
+          "Grid Cells": 11200,
+          "Area (%)": 48.2,
+          "Population": 2582679,
+          "Population (%)": 63.3
         }
       ]
     }
   },
-  "Sachsen-Anhalt (Regular)": {
+  "Sachsen-Anhalt (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -7783,50 +7505,50 @@
       ]
     }
   },
-  "Schleswig-Holstein (Extended)": {
+  "Sachsen-Anhalt (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 754,
-          "Area (%)": 3.6,
-          "Population": 49933,
-          "Population (%)": 1.8
+          "Grid Cells": 2574,
+          "Area (%)": 9.6,
+          "Population": 105819,
+          "Population (%)": 5.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 1406,
-          "Area (%)": 6.8,
-          "Population": 123275,
-          "Population (%)": 4.5
+          "Grid Cells": 4755,
+          "Area (%)": 17.7,
+          "Population": 236312,
+          "Population (%)": 11.2
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 3986,
-          "Area (%)": 19.3,
-          "Population": 481250,
-          "Population (%)": 17.5
+          "Grid Cells": 6322,
+          "Area (%)": 23.5,
+          "Population": 384385,
+          "Population (%)": 18.3
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 232,
-          "Area (%)": 1.1,
-          "Population": 27767,
-          "Population (%)": 1.0
+          "Grid Cells": 1546,
+          "Area (%)": 5.7,
+          "Population": 19488,
+          "Population (%)": 0.9
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 336,
-          "Area (%)": 1.6,
-          "Population": 11988,
-          "Population (%)": 0.4
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 13965,
-          "Area (%)": 67.5,
-          "Population": 2048062,
-          "Population (%)": 74.7
+          "Grid Cells": 11739,
+          "Area (%)": 43.6,
+          "Population": 1357210,
+          "Population (%)": 64.5
         }
       ]
     },
@@ -7834,45 +7556,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 521,
-          "Area (%)": 2.5,
-          "Population": 48018,
-          "Population (%)": 1.8
+          "Grid Cells": 2190,
+          "Area (%)": 8.1,
+          "Population": 95123,
+          "Population (%)": 4.5
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 1244,
-          "Area (%)": 6.0,
-          "Population": 131939,
-          "Population (%)": 4.8
+          "Grid Cells": 4702,
+          "Area (%)": 17.5,
+          "Population": 277669,
+          "Population (%)": 13.2
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 3911,
-          "Area (%)": 18.9,
-          "Population": 548761,
-          "Population (%)": 20.0
+          "Grid Cells": 7602,
+          "Area (%)": 28.2,
+          "Population": 379193,
+          "Population (%)": 18.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 184,
-          "Area (%)": 0.9,
-          "Population": 24956,
-          "Population (%)": 0.9
+          "Grid Cells": 172,
+          "Area (%)": 0.6,
+          "Population": 668,
+          "Population (%)": 0.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 331,
-          "Area (%)": 1.6,
-          "Population": 11554,
-          "Population (%)": 0.4
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 14488,
-          "Area (%)": 70.1,
-          "Population": 1977047,
-          "Population (%)": 72.1
+          "Grid Cells": 12270,
+          "Area (%)": 45.6,
+          "Population": 1350561,
+          "Population (%)": 64.2
         }
       ]
     },
@@ -7880,45 +7602,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 301,
-          "Area (%)": 1.5,
-          "Population": 8323,
-          "Population (%)": 0.3
+          "Grid Cells": 1709,
+          "Area (%)": 6.3,
+          "Population": 62270,
+          "Population (%)": 3.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 861,
-          "Area (%)": 4.2,
-          "Population": 60151,
-          "Population (%)": 2.2
+          "Grid Cells": 3602,
+          "Area (%)": 13.4,
+          "Population": 88973,
+          "Population (%)": 4.2
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 2798,
-          "Area (%)": 13.5,
-          "Population": 196489,
-          "Population (%)": 7.2
+          "Grid Cells": 6069,
+          "Area (%)": 22.5,
+          "Population": 292512,
+          "Population (%)": 13.9
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 232,
-          "Area (%)": 1.1,
-          "Population": 27767,
-          "Population (%)": 1.0
+          "Grid Cells": 1546,
+          "Area (%)": 5.7,
+          "Population": 19488,
+          "Population (%)": 0.9
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 336,
-          "Area (%)": 1.6,
-          "Population": 11983,
-          "Population (%)": 0.4
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 16151,
-          "Area (%)": 78.1,
-          "Population": 2437562,
-          "Population (%)": 88.9
+          "Grid Cells": 14010,
+          "Area (%)": 52.0,
+          "Population": 1639971,
+          "Population (%)": 78.0
         }
       ]
     },
@@ -7933,38 +7655,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 362,
-          "Area (%)": 1.8,
-          "Population": 8792,
-          "Population (%)": 0.3
+          "Grid Cells": 2660,
+          "Area (%)": 9.9,
+          "Population": 74300,
+          "Population (%)": 3.5
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 1073,
-          "Area (%)": 5.2,
-          "Population": 66802,
-          "Population (%)": 2.4
+          "Grid Cells": 4488,
+          "Area (%)": 16.7,
+          "Population": 107731,
+          "Population (%)": 5.1
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 232,
-          "Area (%)": 1.1,
-          "Population": 27767,
-          "Population (%)": 1.0
+          "Grid Cells": 1546,
+          "Area (%)": 5.7,
+          "Population": 19488,
+          "Population (%)": 0.9
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 336,
-          "Area (%)": 1.6,
-          "Population": 11986,
-          "Population (%)": 0.4
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 18676,
-          "Area (%)": 90.3,
-          "Population": 2626928,
-          "Population (%)": 95.8
+          "Grid Cells": 18242,
+          "Area (%)": 67.7,
+          "Population": 1901695,
+          "Population (%)": 90.4
         }
       ]
     },
@@ -7972,45 +7694,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 1133,
-          "Area (%)": 5.5,
-          "Population": 141531,
-          "Population (%)": 5.2
+          "Grid Cells": 2406,
+          "Area (%)": 8.9,
+          "Population": 249029,
+          "Population (%)": 11.8
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 1897,
-          "Area (%)": 9.2,
-          "Population": 294552,
-          "Population (%)": 10.7
+          "Grid Cells": 3913,
+          "Area (%)": 14.5,
+          "Population": 240605,
+          "Population (%)": 11.4
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 3762,
-          "Area (%)": 18.2,
-          "Population": 516452,
-          "Population (%)": 18.8
+          "Grid Cells": 4622,
+          "Area (%)": 17.2,
+          "Population": 273489,
+          "Population (%)": 13.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 683,
-          "Area (%)": 3.3,
-          "Population": 42299,
-          "Population (%)": 1.5
+          "Grid Cells": 5199,
+          "Area (%)": 19.3,
+          "Population": 119578,
+          "Population (%)": 5.7
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 360,
-          "Area (%)": 1.7,
-          "Population": 12495,
-          "Population (%)": 0.5
+          "Grid Cells": 259,
+          "Area (%)": 1.0,
+          "Population": 1046,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 12844,
-          "Area (%)": 62.1,
-          "Population": 1734946,
-          "Population (%)": 63.3
+          "Grid Cells": 10537,
+          "Area (%)": 39.1,
+          "Population": 1219467,
+          "Population (%)": 58.0
         }
       ]
     },
@@ -8018,50 +7740,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 850,
-          "Area (%)": 4.1,
-          "Population": 81419,
-          "Population (%)": 3.0
+          "Grid Cells": 2832,
+          "Area (%)": 10.5,
+          "Population": 174515,
+          "Population (%)": 8.3
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 1613,
-          "Area (%)": 7.8,
-          "Population": 221237,
-          "Population (%)": 8.1
+          "Grid Cells": 4848,
+          "Area (%)": 18.0,
+          "Population": 306348,
+          "Population (%)": 14.6
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 3925,
-          "Area (%)": 19.0,
-          "Population": 511826,
-          "Population (%)": 18.7
+          "Grid Cells": 6183,
+          "Area (%)": 23.0,
+          "Population": 297707,
+          "Population (%)": 14.2
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 232,
-          "Area (%)": 1.1,
-          "Population": 27767,
-          "Population (%)": 1.0
+          "Grid Cells": 1546,
+          "Area (%)": 5.7,
+          "Population": 19488,
+          "Population (%)": 0.9
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 336,
-          "Area (%)": 1.6,
-          "Population": 11988,
-          "Population (%)": 0.4
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 13723,
-          "Area (%)": 66.4,
-          "Population": 1888038,
-          "Population (%)": 68.8
+          "Grid Cells": 11527,
+          "Area (%)": 42.8,
+          "Population": 1305156,
+          "Population (%)": 62.1
         }
       ]
     }
   },
-  "Schleswig-Holstein (Regular)": {
+  "Schleswig-Holstein (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -8339,50 +8061,50 @@
       ]
     }
   },
-  "Thüringen (Extended)": {
+  "Schleswig-Holstein (Stroke-Ready Hospitals)": {
     "+10min Penalty": {
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 118,
-          "Area (%)": 0.6,
-          "Population": 8087,
-          "Population (%)": 0.4
+          "Grid Cells": 754,
+          "Area (%)": 3.6,
+          "Population": 49933,
+          "Population (%)": 1.8
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 1431,
-          "Area (%)": 6.9,
-          "Population": 111314,
-          "Population (%)": 5.5
+          "Grid Cells": 1406,
+          "Area (%)": 6.8,
+          "Population": 123275,
+          "Population (%)": 4.5
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6126,
-          "Area (%)": 29.4,
-          "Population": 385312,
-          "Population (%)": 19.0
+          "Grid Cells": 3986,
+          "Area (%)": 19.3,
+          "Population": 481250,
+          "Population (%)": 17.5
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 232,
+          "Area (%)": 1.1,
+          "Population": 27767,
+          "Population (%)": 1.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 336,
+          "Area (%)": 1.6,
+          "Population": 11988,
+          "Population (%)": 0.4
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 13144,
-          "Area (%)": 63.1,
-          "Population": 1525461,
-          "Population (%)": 75.1
+          "Grid Cells": 13965,
+          "Area (%)": 67.5,
+          "Population": 2048062,
+          "Population (%)": 74.7
         }
       ]
     },
@@ -8390,45 +8112,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 33,
-          "Area (%)": 0.2,
-          "Population": 12088,
-          "Population (%)": 0.6
+          "Grid Cells": 521,
+          "Area (%)": 2.5,
+          "Population": 48018,
+          "Population (%)": 1.8
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 977,
-          "Area (%)": 4.7,
-          "Population": 131676,
-          "Population (%)": 6.5
+          "Grid Cells": 1244,
+          "Area (%)": 6.0,
+          "Population": 131939,
+          "Population (%)": 4.8
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 5758,
-          "Area (%)": 27.7,
-          "Population": 402118,
-          "Population (%)": 19.8
+          "Grid Cells": 3911,
+          "Area (%)": 18.9,
+          "Population": 548761,
+          "Population (%)": 20.0
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 184,
+          "Area (%)": 0.9,
+          "Population": 24956,
+          "Population (%)": 0.9
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 331,
+          "Area (%)": 1.6,
+          "Population": 11554,
+          "Population (%)": 0.4
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 14051,
-          "Area (%)": 67.5,
-          "Population": 1484292,
-          "Population (%)": 73.1
+          "Grid Cells": 14488,
+          "Area (%)": 70.1,
+          "Population": 1977047,
+          "Population (%)": 72.1
         }
       ]
     },
@@ -8436,45 +8158,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 13,
-          "Area (%)": 0.1,
-          "Population": 5,
-          "Population (%)": 0.0
+          "Grid Cells": 301,
+          "Area (%)": 1.5,
+          "Population": 8323,
+          "Population (%)": 0.3
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 472,
-          "Area (%)": 2.3,
-          "Population": 13910,
-          "Population (%)": 0.7
+          "Grid Cells": 861,
+          "Area (%)": 4.2,
+          "Population": 60151,
+          "Population (%)": 2.2
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 4419,
-          "Area (%)": 21.2,
-          "Population": 234319,
-          "Population (%)": 11.5
+          "Grid Cells": 2798,
+          "Area (%)": 13.5,
+          "Population": 196489,
+          "Population (%)": 7.2
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 232,
+          "Area (%)": 1.1,
+          "Population": 27767,
+          "Population (%)": 1.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 336,
+          "Area (%)": 1.6,
+          "Population": 11983,
+          "Population (%)": 0.4
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 15915,
-          "Area (%)": 76.4,
-          "Population": 1781940,
-          "Population (%)": 87.8
+          "Grid Cells": 16151,
+          "Area (%)": 78.1,
+          "Population": 2437562,
+          "Population (%)": 88.9
         }
       ]
     },
@@ -8489,38 +8211,38 @@
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 39,
-          "Area (%)": 0.2,
-          "Population": 36,
-          "Population (%)": 0.0
+          "Grid Cells": 362,
+          "Area (%)": 1.8,
+          "Population": 8792,
+          "Population (%)": 0.3
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 1241,
-          "Area (%)": 6.0,
-          "Population": 34188,
-          "Population (%)": 1.7
+          "Grid Cells": 1073,
+          "Area (%)": 5.2,
+          "Population": 66802,
+          "Population (%)": 2.4
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 232,
+          "Area (%)": 1.1,
+          "Population": 27767,
+          "Population (%)": 1.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 336,
+          "Area (%)": 1.6,
+          "Population": 11986,
+          "Population (%)": 0.4
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 19539,
-          "Area (%)": 93.9,
-          "Population": 1995950,
-          "Population (%)": 98.3
+          "Grid Cells": 18676,
+          "Area (%)": 90.3,
+          "Population": 2626928,
+          "Population (%)": 95.8
         }
       ]
     },
@@ -8528,45 +8250,45 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 779,
-          "Area (%)": 3.7,
-          "Population": 127166,
-          "Population (%)": 6.3
+          "Grid Cells": 1133,
+          "Area (%)": 5.5,
+          "Population": 141531,
+          "Population (%)": 5.2
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 2309,
-          "Area (%)": 11.1,
-          "Population": 166709,
-          "Population (%)": 8.2
+          "Grid Cells": 1897,
+          "Area (%)": 9.2,
+          "Population": 294552,
+          "Population (%)": 10.7
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 5890,
-          "Area (%)": 28.3,
-          "Population": 417641,
-          "Population (%)": 20.6
+          "Grid Cells": 3762,
+          "Area (%)": 18.2,
+          "Population": 516452,
+          "Population (%)": 18.8
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 185,
-          "Area (%)": 0.9,
-          "Population": 1760,
-          "Population (%)": 0.1
+          "Grid Cells": 683,
+          "Area (%)": 3.3,
+          "Population": 42299,
+          "Population (%)": 1.5
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 360,
+          "Area (%)": 1.7,
+          "Population": 12495,
+          "Population (%)": 0.5
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 11656,
-          "Area (%)": 56.0,
-          "Population": 1316898,
-          "Population (%)": 64.9
+          "Grid Cells": 12844,
+          "Area (%)": 62.1,
+          "Population": 1734946,
+          "Population (%)": 63.3
         }
       ]
     },
@@ -8574,50 +8296,50 @@
       "Extended": [
         {
           "Category": "High (30+ min)",
-          "Grid Cells": 199,
-          "Area (%)": 1.0,
-          "Population": 50194,
-          "Population (%)": 2.5
+          "Grid Cells": 850,
+          "Area (%)": 4.1,
+          "Population": 81419,
+          "Population (%)": 3.0
         },
         {
           "Category": "Medium (20-30 min)",
-          "Grid Cells": 1637,
-          "Area (%)": 7.9,
-          "Population": 151954,
-          "Population (%)": 7.5
+          "Grid Cells": 1613,
+          "Area (%)": 7.8,
+          "Population": 221237,
+          "Population (%)": 8.1
         },
         {
           "Category": "Low (10-20 min)",
-          "Grid Cells": 6185,
-          "Area (%)": 29.7,
-          "Population": 408082,
-          "Population (%)": 20.1
+          "Grid Cells": 3925,
+          "Area (%)": 19.0,
+          "Population": 511826,
+          "Population (%)": 18.7
         },
         {
           "Category": "Only CT reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 232,
+          "Area (%)": 1.1,
+          "Population": 27767,
+          "Population (%)": 1.0
         },
         {
           "Category": "Neither reachable within 60 min",
-          "Grid Cells": 0,
-          "Area (%)": 0.0,
-          "Population": 0,
-          "Population (%)": 0.0
+          "Grid Cells": 336,
+          "Area (%)": 1.6,
+          "Population": 11988,
+          "Population (%)": 0.4
         },
         {
           "Category": "Likely irrelevant (<10 min)",
-          "Grid Cells": 12798,
-          "Area (%)": 61.5,
-          "Population": 1419944,
-          "Population (%)": 69.9
+          "Grid Cells": 13723,
+          "Area (%)": 66.4,
+          "Population": 1888038,
+          "Population (%)": 68.8
         }
       ]
     }
   },
-  "Thüringen (Regular)": {
+  "Thüringen (Stroke Units)": {
     "+10min Penalty": {
       "Regular": [
         {
@@ -8891,6 +8613,284 @@
           "Area (%)": 52.5,
           "Population": 1307896,
           "Population (%)": 64.4
+        }
+      ]
+    }
+  },
+  "Thüringen (Stroke-Ready Hospitals)": {
+    "+10min Penalty": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 118,
+          "Area (%)": 0.6,
+          "Population": 8087,
+          "Population (%)": 0.4
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 1431,
+          "Area (%)": 6.9,
+          "Population": 111314,
+          "Population (%)": 5.5
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 6126,
+          "Area (%)": 29.4,
+          "Population": 385312,
+          "Population (%)": 19.0
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 13144,
+          "Area (%)": 63.1,
+          "Population": 1525461,
+          "Population (%)": 75.1
+        }
+      ]
+    },
+    "+20% Speed (Emergency)": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 33,
+          "Area (%)": 0.2,
+          "Population": 12088,
+          "Population (%)": 0.6
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 977,
+          "Area (%)": 4.7,
+          "Population": 131676,
+          "Population (%)": 6.5
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 5758,
+          "Area (%)": 27.7,
+          "Population": 402118,
+          "Population (%)": 19.8
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 14051,
+          "Area (%)": 67.5,
+          "Population": 1484292,
+          "Population (%)": 73.1
+        }
+      ]
+    },
+    "+20min Penalty": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 13,
+          "Area (%)": 0.1,
+          "Population": 5,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 472,
+          "Area (%)": 2.3,
+          "Population": 13910,
+          "Population (%)": 0.7
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 4419,
+          "Area (%)": 21.2,
+          "Population": 234319,
+          "Population (%)": 11.5
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 15915,
+          "Area (%)": 76.4,
+          "Population": 1781940,
+          "Population (%)": 87.8
+        }
+      ]
+    },
+    "+30min Penalty": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 39,
+          "Area (%)": 0.2,
+          "Population": 36,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 1241,
+          "Area (%)": 6.0,
+          "Population": 34188,
+          "Population (%)": 1.7
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 19539,
+          "Area (%)": 93.9,
+          "Population": 1995950,
+          "Population (%)": 98.3
+        }
+      ]
+    },
+    "-20% Speed (Traffic)": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 779,
+          "Area (%)": 3.7,
+          "Population": 127166,
+          "Population (%)": 6.3
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 2309,
+          "Area (%)": 11.1,
+          "Population": 166709,
+          "Population (%)": 8.2
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 5890,
+          "Area (%)": 28.3,
+          "Population": 417641,
+          "Population (%)": 20.6
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 185,
+          "Area (%)": 0.9,
+          "Population": 1760,
+          "Population (%)": 0.1
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 11656,
+          "Area (%)": 56.0,
+          "Population": 1316898,
+          "Population (%)": 64.9
+        }
+      ]
+    },
+    "Normal Speed": {
+      "Extended": [
+        {
+          "Category": "High (30+ min)",
+          "Grid Cells": 199,
+          "Area (%)": 1.0,
+          "Population": 50194,
+          "Population (%)": 2.5
+        },
+        {
+          "Category": "Medium (20-30 min)",
+          "Grid Cells": 1637,
+          "Area (%)": 7.9,
+          "Population": 151954,
+          "Population (%)": 7.5
+        },
+        {
+          "Category": "Low (10-20 min)",
+          "Grid Cells": 6185,
+          "Area (%)": 29.7,
+          "Population": 408082,
+          "Population (%)": 20.1
+        },
+        {
+          "Category": "Only CT reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Neither reachable within 60 min",
+          "Grid Cells": 0,
+          "Area (%)": 0.0,
+          "Population": 0,
+          "Population (%)": 0.0
+        },
+        {
+          "Category": "Likely irrelevant (<10 min)",
+          "Grid Cells": 12798,
+          "Area (%)": 61.5,
+          "Population": 1419944,
+          "Population (%)": 69.9
         }
       ]
     }

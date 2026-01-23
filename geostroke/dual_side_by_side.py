@@ -290,10 +290,10 @@ def process_state_worker(st_name, geom, scen_name, scen_slug,
                          render_mode, grid_shape, cell_size_deg, dissolve,
                          benefit_colors, handles, germany,
                          s_dir: Path) -> tuple[pd.DataFrame, pd.DataFrame, str]:
-    df_r = stats_for_region(ctx, geom, f"{st_name} (Regular)", grid_reg, cats_reg, ctx_cfg.CATEGORY_ORDER)
+    df_r = stats_for_region(ctx, geom, f"{st_name} (Stroke Units)", grid_reg, cats_reg, ctx_cfg.CATEGORY_ORDER)
     df_r['analysis_type'] = 'Regular'; df_r['scenario'] = scen_name
 
-    df_e = stats_for_region(ctx, geom, f"{st_name} (Extended)", grid_ext, cats_ext, ctx_cfg.CATEGORY_ORDER)
+    df_e = stats_for_region(ctx, geom, f"{st_name} (Stroke-Ready Hospitals)", grid_ext, cats_ext, ctx_cfg.CATEGORY_ORDER)
     df_e['analysis_type'] = 'Extended'; df_e['scenario'] = scen_name
 
     fig = plt.figure(figsize=(16, 6), dpi=300)
@@ -309,7 +309,7 @@ def process_state_worker(st_name, geom, scen_name, scen_slug,
                 benefit_colors, germany, markersize=0.3,
                 grid_shape=grid_shape, cell_size_deg=cell_size_deg,
                 dissolve=dissolve)
-    ax_right.set_title(f"Extended Hospitals {st_name}", fontsize=10, fontweight='bold')
+    ax_right.set_title(f"Stroke-Ready Hospitals {st_name}", fontsize=10, fontweight='bold')
 
     fig.legend(handles=handles, loc='lower center', ncol=3, frameon=False, fontsize=8)
     fig.subplots_adjust(bottom=0.14)
@@ -329,10 +329,10 @@ def process_county_worker(c_name, s_name, geom, scen_name, scen_slug,
                           render_mode, grid_shape, cell_size_deg, dissolve,
                           benefit_colors, handles, germany,
                           c_dir: Path) -> tuple[pd.DataFrame, pd.DataFrame, str]:
-    left_stats = stats_for_region(ctx, geom, f"{c_name} (Regular)", grid_reg, cats_reg, ctx_cfg.CATEGORY_ORDER)
+    left_stats = stats_for_region(ctx, geom, f"{c_name} (Stroke Units)", grid_reg, cats_reg, ctx_cfg.CATEGORY_ORDER)
     left_stats['state'] = s_name; left_stats['analysis_type'] = 'Regular'; left_stats['scenario'] = scen_name
 
-    right_stats = stats_for_region(ctx, geom, f"{c_name} (Extended)", grid_ext, cats_ext, ctx_cfg.CATEGORY_ORDER)
+    right_stats = stats_for_region(ctx, geom, f"{c_name} (Stroke-Ready Hospitals)", grid_ext, cats_ext, ctx_cfg.CATEGORY_ORDER)
     right_stats['state'] = s_name; right_stats['analysis_type'] = 'Extended'; right_stats['scenario'] = scen_name
 
     fig = plt.figure(figsize=(14, 5), dpi=300)
@@ -348,7 +348,7 @@ def process_county_worker(c_name, s_name, geom, scen_name, scen_slug,
                 benefit_colors, germany, markersize=0.3,
                 grid_shape=grid_shape, cell_size_deg=cell_size_deg,
                 dissolve=dissolve)
-    ax_right.set_title(f"Extended Hospitals {c_name} ({s_name})", fontsize=9, fontweight='bold')
+    ax_right.set_title(f"Stroke-Ready Hospitals {c_name} ({s_name})", fontsize=9, fontweight='bold')
 
     fig.legend(handles=handles, loc='lower center', ncol=3, frameon=False, fontsize=7)
     fig.subplots_adjust(bottom=0.16)

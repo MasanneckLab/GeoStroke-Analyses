@@ -62,7 +62,7 @@ def run_publication_figures_extended(output_dir: str | None = None, time_bins: l
 
     This generates the alternate Figure 1 with extended stroke units in a 2x2 layout:
     - A: Hospitals with CT
-    - B: Frequent Stroke-Care Hospitals (extended stroke units)  
+    - B: Stroke-Ready Hospitals (extended stroke units)  
     - C: All Stroke Units
     - D: Thrombectomy-Certified
 
@@ -118,7 +118,7 @@ def run_journal_publication_figures_extended(output_dir: str | None = None, time
 
     This generates the journal-compliant alternate Figure 1 with extended stroke units in a 2x2 layout:
     - a: Hospitals with CT
-    - b: Frequent Stroke-Care Hospitals (extended stroke units)  
+    - b: Stroke-Ready Hospitals (extended stroke units)
     - c: All Stroke Units
     - d: Thrombectomy-Certified
 
@@ -163,7 +163,10 @@ def run_journal_publication_figures_standardized(output_dir: str | None = None, 
     from .figures import (
         create_journal_figure_1_standardized, 
         create_journal_figure_2_standardized,
-        create_journal_figure_1_extended_standardized
+        create_journal_figure_1_extended_standardized,
+        create_journal_figure_1_extended_standardized_allbins_continuous,
+        create_journal_figure_1_extended_standardized_vertical_allbins_continuous,
+        create_journal_figure_2_standardized_allbins_continuous,
     )
 
     out = Path(output_dir or 'Graphs')
@@ -172,6 +175,10 @@ def run_journal_publication_figures_standardized(output_dir: str | None = None, 
     create_journal_figure_1_standardized(out, time_bins=time_bins)
     create_journal_figure_2_standardized(out, time_bins=time_bins)
     create_journal_figure_1_extended_standardized(out, time_bins=time_bins)
+    # Additional requested variants: all-bins continuous + vertical layout
+    create_journal_figure_1_extended_standardized_allbins_continuous(out)
+    create_journal_figure_1_extended_standardized_vertical_allbins_continuous(out)
+    create_journal_figure_2_standardized_allbins_continuous(out)
 
     print('✓ Standardized journal publication figures written to', out.resolve())
 

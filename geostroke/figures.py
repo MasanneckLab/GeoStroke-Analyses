@@ -7,9 +7,9 @@ drawing to :pymod:`geostroke.plotting`.
 Two entry points correspond to the publication-ready static figures used
 in the original notebook:
 
-* :func:`create_figure_1` – CT hospitals vs All Stroke Units vs
+* :func:`create_figure_1` - CT hospitals vs All Stroke Units vs
   Thrombectomy certified
-* :func:`create_figure_2` – Stroke units hierarchical split
+* :func:`create_figure_2` - Stroke units hierarchical split
 """
 
 from __future__ import annotations
@@ -116,15 +116,15 @@ def create_figure_1(out_dir: Path | str | None = None, time_bins: list[int] | No
     fig, axes = plt.subplots(1, 3, figsize=(14, 6.5), dpi=500)
 
     plotting.plot_isochrones_panel(
-        axes[0], germany, ct_union, df_ct, title="Hospitals with CT", panel_letter="a)", time_bins=time_bins
+        axes[0], germany, ct_union, df_ct, title="Hospitals with CT", panel_letter="a", time_bins=time_bins
     )
     plotting.plot_isochrones_panel(
-        axes[1], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="b)", time_bins=time_bins
+        axes[1], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="b", time_bins=time_bins
     )
     df_thromb = df_stroke.loc[thromb_mask].copy()
     plotting.plot_isochrones_panel(
         axes[2], germany, thromb_union, df_thromb,
-        title="Thrombectomy-Certified", panel_letter="c)", time_bins=time_bins
+        title="Thrombectomy-Certified", panel_letter="c", time_bins=time_bins
     )
 
     # Use appropriate legend based on time_bins
@@ -225,24 +225,24 @@ def create_figure_1_extended(out_dir: Path | str | None = None, time_bins: list[
 
     # Panel A: Hospitals with CT (top left)
     plotting.plot_isochrones_panel(
-        axes[0], germany, ct_union, df_ct, title="Hospitals with CT", panel_letter="a)", time_bins=time_bins
+        axes[0], germany, ct_union, df_ct, title="Hospitals with CT", panel_letter="a", time_bins=time_bins
     )
     
-    # Panel B: Frequent Stroke-Care Hospitals (extended stroke, top right)
+    # Panel B: Stroke-Ready Hospitals (extended stroke, top right)
     plotting.plot_isochrones_panel(
-        axes[1], germany, extended_union, df_extended_stroke, title="Frequent Stroke-Care Hospitals", panel_letter="b)", time_bins=time_bins
+        axes[1], germany, extended_union, df_extended_stroke, title="Stroke-Ready Hospitals", panel_letter="b", time_bins=time_bins
     )
     
     # Panel C: All Stroke Units (bottom left)
     plotting.plot_isochrones_panel(
-        axes[2], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="c)", time_bins=time_bins
+        axes[2], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="c", time_bins=time_bins
     )
     
     # Panel D: Thrombectomy-Certified (bottom right)
     df_thromb = df_stroke.loc[thromb_mask].copy()
     plotting.plot_isochrones_panel(
         axes[3], germany, thromb_union, df_thromb,
-        title="Thrombectomy-Certified", panel_letter="d)", time_bins=time_bins
+        title="Thrombectomy-Certified", panel_letter="d", time_bins=time_bins
     )
 
     # Use appropriate legend based on time_bins
@@ -314,15 +314,15 @@ def create_figure_2(out_dir: Path | str | None = None, time_bins: list[int] | No
     fig, axes = plt.subplots(1, 3, figsize=(14, 6.5), dpi=500)
 
     plotting.plot_isochrones_panel(
-        axes[0], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="a)", time_bins=time_bins
+        axes[0], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="a", time_bins=time_bins
     )
     df_uber = df_stroke.loc[uber_mask].copy()
     df_reg  = df_stroke.loc[reg_mask].copy()
     plotting.plot_isochrones_panel(
-        axes[1], germany, uber_union, df_uber, title="Supra-Regional", panel_letter="b)", time_bins=time_bins
+        axes[1], germany, uber_union, df_uber, title="Supra-Regional", panel_letter="b", time_bins=time_bins
     )
     plotting.plot_isochrones_panel(
-        axes[2], germany, reg_union, df_reg, title="Regional / Telemed", panel_letter="c)", time_bins=time_bins
+        axes[2], germany, reg_union, df_reg, title="Regional / Telemed", panel_letter="c", time_bins=time_bins
     )
 
     # Use appropriate legend based on time_bins
@@ -470,15 +470,15 @@ def create_scenario_figure_1(
     fig, axes = plt.subplots(1, 3, figsize=(14, 6.5), dpi=500)
 
     plotting.plot_isochrones_panel(
-        axes[0], germany, ct_union, df_ct, title="Hospitals with CT", panel_letter="a)", time_bins=time_bins
+        axes[0], germany, ct_union, df_ct, title="Hospitals with CT", panel_letter="a", time_bins=time_bins
     )
     plotting.plot_isochrones_panel(
-        axes[1], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="b)", time_bins=time_bins
+        axes[1], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="b", time_bins=time_bins
     )
     df_thromb = df_stroke.loc[thromb_mask].copy()
     plotting.plot_isochrones_panel(
         axes[2], germany, thromb_union, df_thromb,
-        title="Thrombectomy-Certified", panel_letter="c)", time_bins=time_bins
+        title="Thrombectomy-Certified", panel_letter="c", time_bins=time_bins
     )
 
     # Use appropriate legend based on time_bins
@@ -566,15 +566,15 @@ def create_scenario_figure_2(
     fig, axes = plt.subplots(1, 3, figsize=(14, 6.5), dpi=500)
 
     plotting.plot_isochrones_panel(
-        axes[0], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="a)", time_bins=time_bins
+        axes[0], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="a", time_bins=time_bins
     )
     df_uber = df_stroke.loc[uber_mask].copy()
     df_reg  = df_stroke.loc[reg_mask].copy()
     plotting.plot_isochrones_panel(
-        axes[1], germany, uber_union, df_uber, title="Supra-Regional", panel_letter="b)", time_bins=time_bins
+        axes[1], germany, uber_union, df_uber, title="Supra-Regional", panel_letter="b", time_bins=time_bins
     )
     plotting.plot_isochrones_panel(
-        axes[2], germany, reg_union, df_reg, title="Regional / Telemed", panel_letter="c)", time_bins=time_bins
+        axes[2], germany, reg_union, df_reg, title="Regional / Telemed", panel_letter="c", time_bins=time_bins
     )
 
     # Use appropriate legend based on time_bins
@@ -737,15 +737,15 @@ def create_journal_figure_1(out_dir: Path | str | None = None, time_bins: list[i
     fig, axes = plt.subplots(1, 3, figsize=(7.48, 3.48), dpi=500)
 
     plotting.plot_journal_isochrones_panel(
-        axes[0], germany, ct_union, df_ct, title="Hospitals with CT", panel_letter="a)", time_bins=time_bins
+        axes[0], germany, ct_union, df_ct, title="Hospitals with CT", panel_letter="a", time_bins=time_bins
     )
     plotting.plot_journal_isochrones_panel(
-        axes[1], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="b)", time_bins=time_bins
+        axes[1], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="b", time_bins=time_bins
     )
     df_thromb = df_stroke.loc[thromb_mask].copy()
     plotting.plot_journal_isochrones_panel(
         axes[2], germany, thromb_union, df_thromb,
-        title="Thrombectomy-Certified", panel_letter="c)", time_bins=time_bins
+        title="Thrombectomy-Certified", panel_letter="c", time_bins=time_bins
     )
 
     # Use appropriate legend based on time_bins
@@ -842,24 +842,24 @@ def create_journal_figure_1_extended(out_dir: Path | str | None = None, time_bin
 
     # Panel A: Hospitals with CT (top left)
     plotting.plot_journal_isochrones_panel(
-        axes[0], germany, ct_union, df_ct, title="Hospitals with CT", panel_letter="a)", time_bins=time_bins
+        axes[0], germany, ct_union, df_ct, title="Hospitals with CT", panel_letter="a", time_bins=time_bins
     )
     
-    # Panel B: Frequent Stroke-Care Hospitals (extended stroke, top right)
+    # Panel B: Stroke-Ready Hospitals (extended stroke, top right)
     plotting.plot_journal_isochrones_panel(
-        axes[1], germany, extended_union, df_extended_stroke, title="Frequent Stroke-Care Hospitals", panel_letter="b)", time_bins=time_bins
+        axes[1], germany, extended_union, df_extended_stroke, title="Stroke-Ready Hospitals", panel_letter="b", time_bins=time_bins
     )
     
     # Panel C: All Stroke Units (bottom left)
     plotting.plot_journal_isochrones_panel(
-        axes[2], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="c)", time_bins=time_bins
+        axes[2], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="c", time_bins=time_bins
     )
     
     # Panel D: Thrombectomy-Certified (bottom right)
     df_thromb = df_stroke.loc[thromb_mask].copy()
     plotting.plot_journal_isochrones_panel(
         axes[3], germany, thromb_union, df_thromb,
-        title="Thrombectomy-Certified", panel_letter="d)", time_bins=time_bins
+        title="Thrombectomy-Certified", panel_letter="d", time_bins=time_bins
     )
 
     # Use appropriate legend based on time_bins
@@ -930,15 +930,15 @@ def create_journal_figure_2(out_dir: Path | str | None = None, time_bins: list[i
     fig, axes = plt.subplots(1, 3, figsize=(7.48, 3.48), dpi=500)
 
     plotting.plot_journal_isochrones_panel(
-        axes[0], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="a)", time_bins=time_bins
+        axes[0], germany, stroke_union, df_stroke, title="All Stroke Units", panel_letter="a", time_bins=time_bins
     )
     df_uber = df_stroke.loc[uber_mask].copy()
     df_reg  = df_stroke.loc[reg_mask].copy()
     plotting.plot_journal_isochrones_panel(
-        axes[1], germany, uber_union, df_uber, title="Supra-Regional", panel_letter="b)", time_bins=time_bins
+        axes[1], germany, uber_union, df_uber, title="Supra-Regional", panel_letter="b", time_bins=time_bins
     )
     plotting.plot_journal_isochrones_panel(
-        axes[2], germany, reg_union, df_reg, title="Regional / Telemed", panel_letter="c)", time_bins=time_bins
+        axes[2], germany, reg_union, df_reg, title="Regional / Telemed", panel_letter="c", time_bins=time_bins
     )
 
     # Use appropriate legend based on time_bins
@@ -1039,9 +1039,9 @@ def create_journal_figure_1_standardized(out_dir: Path | str | None = None, time
     """Create standardized journal-compliant Figure 1 with three_penalty_scenarios layout.
     
     Uses the same layout specifications as three_penalty_scenarios:
-    - figsize: (4.21, 11) 
-    - dpi: 500
-    - Font styling consistent with three_penalty_scenarios
+    - figsize: (4.21, 11)
+    - Export DPI: 600
+    - Headings: Times New Roman, 10 pt, bold
     - Panel letters: lowercase with parentheses
     - Vertical 3x1 layout
     
@@ -1084,13 +1084,13 @@ def create_journal_figure_1_standardized(out_dir: Path | str | None = None, time
     import matplotlib.lines as mlines
 
     # Standardized figure size matching three_penalty_scenarios: vertical 3x1 layout
-    fig, axes = plt.subplots(3, 1, figsize=(4.21, 11), dpi=500)
+    fig, axes = plt.subplots(3, 1, figsize=(4.21, 11), dpi=600)
 
     # Define panel info
     panels = [
-        ("Hospitals with CT", "a)", ct_union, df_ct),
-        ("All Stroke Units", "b)", stroke_union, df_stroke),
-        ("Thrombectomy-\nCertified", "c)", thromb_union, df_stroke.loc[thromb_mask].copy())
+        ("Hospitals with CT", "a", ct_union, df_ct),
+        ("All Stroke Units", "b", stroke_union, df_stroke),
+        ("Thrombectomy-\nCertified", "c", thromb_union, df_stroke.loc[thromb_mask].copy())
     ]
 
     for i, (title, panel_letter, union_data, df_points) in enumerate(panels):
@@ -1115,17 +1115,17 @@ def create_journal_figure_1_standardized(out_dir: Path | str | None = None, time
                     ax=ax,
                     color=config.TIME_COLOURS[t],
                     alpha=0.9,
-                    edgecolor="black",
-                    linewidth=0.1,
+                    edgecolor="none",  # remove polygon outlines for clean journal style
+                    linewidth=0.0,
                     zorder=2,
                 )
 
-        # Facility scatter
+        # Facility scatter (extra small)
         ax.scatter(
             df_points["longitude"],
             df_points["latitude"],
             color="black",
-            s=0.6,  # Small markers like journal figures
+            s=0.2,
             alpha=0.8,
             marker="o",
             zorder=4,
@@ -1135,22 +1135,12 @@ def create_journal_figure_1_standardized(out_dir: Path | str | None = None, time
         ax.set_xlim(germany.total_bounds[0] - 0.5, germany.total_bounds[2] + 0.5)
         ax.set_ylim(germany.total_bounds[1] - 0.5, germany.total_bounds[3] + 0.5)
         
-        # Title (matching three_penalty_scenarios style)
-        ax.set_title(title, fontsize=10, fontweight='bold', pad=10)
+        # Title (Times New Roman 10pt bold)
+        ax.set_title(title, fontsize=10, fontweight='bold', family='Times New Roman', pad=10)
         
-        # Panel letter (matching three_penalty_scenarios)
-        title_y = 1.1  # Positioned above the title
-        ax.text(
-            0.01,
-            title_y+0.05,
-            panel_letter,
-            transform=ax.transAxes,
-            fontweight="bold",
-            fontsize=12,
-            family="Times New Roman",
-            va="top",
-            ha="left",
-        )
+        # Panel letter (Times New Roman 10pt bold) - no parentheses, left of title
+        ax.text(0.01, 1.06, panel_letter, transform=ax.transAxes,
+                fontweight='bold', fontsize=10, family='Times New Roman', va='top', ha='left')
 
     # Legend (matching three_penalty_scenarios style)
     legend_time_bins = time_bins or config.DEFAULT_TIME_BINS
@@ -1170,9 +1160,15 @@ def create_journal_figure_1_standardized(out_dir: Path | str | None = None, time
         )
     )
     
-    fig.legend(handles=handles, loc='lower center', 
-              bbox_to_anchor=(0.5, 0.02), ncol=1, fontsize=10, 
-              frameon=False)
+    fig.legend(
+        handles=handles,
+        loc='lower center',
+        bbox_to_anchor=(0.5, 0.02),
+        ncol=1,
+        fontsize=10,
+        frameon=False,
+        prop={'family': 'Times New Roman', 'size': 10}
+    )
     
     # Layout adjustments (matching three_penalty_scenarios)
     plt.tight_layout()
@@ -1190,9 +1186,9 @@ def create_journal_figure_1_standardized(out_dir: Path | str | None = None, time
         png_path = out_dir / f"journal_figure_1_CT_vs_stroke_thromb_standardized.png"
         
     # Save in journal formats: EPS, TIFF, PNG
-    fig.savefig(eps_path, format='eps', bbox_inches="tight", dpi=500)
-    fig.savefig(tiff_path, format='tiff', bbox_inches="tight", dpi=500)
-    fig.savefig(png_path, format='png', bbox_inches="tight", dpi=500)
+    fig.savefig(eps_path, format='eps', bbox_inches="tight", dpi=600)
+    fig.savefig(tiff_path, format='tiff', bbox_inches="tight", dpi=600)
+    fig.savefig(png_path, format='png', bbox_inches="tight", dpi=600)
     plt.close(fig)
 
     print(f"✅ Standardized Journal Figure 1 saved: {eps_path}, {tiff_path}, and {png_path}")
@@ -1203,9 +1199,9 @@ def create_journal_figure_2_standardized(out_dir: Path | str | None = None, time
     """Create standardized journal-compliant Figure 2 with three_penalty_scenarios layout.
     
     Uses the same layout specifications as three_penalty_scenarios:
-    - figsize: (4.21, 11) 
-    - dpi: 500
-    - Font styling consistent with three_penalty_scenarios
+    - figsize: (4.21, 11)
+    - Export DPI: 600
+    - Headings: Times New Roman, 10 pt, bold
     - Panel letters: lowercase with parentheses
     - Vertical 3x1 layout
     
@@ -1242,13 +1238,13 @@ def create_journal_figure_2_standardized(out_dir: Path | str | None = None, time
     import matplotlib.lines as mlines
 
     # Standardized figure size matching three_penalty_scenarios: vertical 3x1 layout
-    fig, axes = plt.subplots(3, 1, figsize=(4.21, 11), dpi=500)
+    fig, axes = plt.subplots(3, 1, figsize=(4.21, 11), dpi=600)
 
     # Define panel info
     panels = [
-        ("All Stroke Units", "a)", stroke_union, df_stroke),
-        ("Supra-Regional", "b)", uber_union, df_stroke.loc[uber_mask].copy()),
-        ("Regional / Telemed", "c)", reg_union, df_stroke.loc[reg_mask].copy())
+        ("All Stroke Units", "a", stroke_union, df_stroke),
+        ("Supra-Regional", "b", uber_union, df_stroke.loc[uber_mask].copy()),
+        ("Regional / Telemed", "c", reg_union, df_stroke.loc[reg_mask].copy())
     ]
 
     for i, (title, panel_letter, union_data, df_points) in enumerate(panels):
@@ -1273,17 +1269,17 @@ def create_journal_figure_2_standardized(out_dir: Path | str | None = None, time
                     ax=ax,
                     color=config.TIME_COLOURS[t],
                     alpha=0.9,
-                    edgecolor="black",
-                    linewidth=0.1,
+                    edgecolor="none",  # remove polygon outlines for clean journal style
+                    linewidth=0.0,
                     zorder=2,
                 )
 
-        # Facility scatter
+        # Facility scatter (extra small)
         ax.scatter(
             df_points["longitude"],
             df_points["latitude"],
             color="black",
-            s=0.6,  # Small markers like journal figures
+            s=0.2,
             alpha=0.8,
             marker="o",
             zorder=4,
@@ -1293,22 +1289,12 @@ def create_journal_figure_2_standardized(out_dir: Path | str | None = None, time
         ax.set_xlim(germany.total_bounds[0] - 0.5, germany.total_bounds[2] + 0.5)
         ax.set_ylim(germany.total_bounds[1] - 0.5, germany.total_bounds[3] + 0.5)
         
-        # Title (matching three_penalty_scenarios style)
-        ax.set_title(title, fontsize=10, fontweight='bold', pad=10)
+        # Title (Times New Roman 10pt bold)
+        ax.set_title(title, fontsize=10, fontweight='bold', family='Times New Roman', pad=10)
         
-        # Panel letter (matching three_penalty_scenarios)
-        title_y = 1.1  # Positioned above the title
-        ax.text(
-            0.01,
-            title_y+0.05,
-            panel_letter,
-            transform=ax.transAxes,
-            fontweight="bold",
-            fontsize=12,
-            family="Times New Roman",
-            va="top",
-            ha="left",
-        )
+        # Panel letter (Times New Roman 10pt bold) - no parentheses, left of title
+        ax.text(0.01, 1.06, panel_letter, transform=ax.transAxes,
+                fontweight='bold', fontsize=10, family='Times New Roman', va='top', ha='left')
 
     # Legend (matching three_penalty_scenarios style)
     legend_time_bins = time_bins or config.DEFAULT_TIME_BINS
@@ -1328,9 +1314,15 @@ def create_journal_figure_2_standardized(out_dir: Path | str | None = None, time
         )
     )
     
-    fig.legend(handles=handles, loc='lower center', 
-              bbox_to_anchor=(0.5, 0.02), ncol=1, fontsize=10, 
-              frameon=False)
+    fig.legend(
+        handles=handles,
+        loc='lower center',
+        bbox_to_anchor=(0.5, 0.02),
+        ncol=1,
+        fontsize=10,
+        frameon=False,
+        prop={'family': 'Times New Roman', 'size': 10}
+    )
     
     # Layout adjustments (matching three_penalty_scenarios)
     plt.tight_layout()
@@ -1348,9 +1340,9 @@ def create_journal_figure_2_standardized(out_dir: Path | str | None = None, time
         png_path = out_dir / f"journal_figure_2_stroke_hierarchy_standardized.png"
         
     # Save in journal formats: EPS, TIFF, PNG
-    fig.savefig(eps_path, format='eps', bbox_inches="tight", dpi=500)
-    fig.savefig(tiff_path, format='tiff', bbox_inches="tight", dpi=500)
-    fig.savefig(png_path, format='png', bbox_inches="tight", dpi=500)
+    fig.savefig(eps_path, format='eps', bbox_inches="tight", dpi=600)
+    fig.savefig(tiff_path, format='tiff', bbox_inches="tight", dpi=600)
+    fig.savefig(png_path, format='png', bbox_inches="tight", dpi=600)
     plt.close(fig)
 
     print(f"✅ Standardized Journal Figure 2 saved: {eps_path}, {tiff_path}, and {png_path}")
@@ -1364,6 +1356,8 @@ def create_journal_figure_1_extended_standardized(out_dir: Path | str | None = N
     - Maintains 2x2 layout but updates styling to match standardized format
     - Panel letters: lowercase with parentheses  
     - Consistent font styling with other standardized figures
+    - Max width: 107 mm (4.21 inches)
+    - Export DPI: 600
     
     Parameters
     ----------
@@ -1421,16 +1415,18 @@ def create_journal_figure_1_extended_standardized(out_dir: Path | str | None = N
     import matplotlib.patches as mpatches
     import matplotlib.lines as mlines
 
-    # Maintain 2x2 layout but use dpi=500 for consistency
-    fig, axes = plt.subplots(2, 2, figsize=(7.48, 5.62), dpi=500)
+    # Maintain 2x2 layout; scale to 107mm width (4.21 inches). Height scaled proportionally (~3.16 inches)
+    # Tight 2x2 layout: reduce inter-axes spacing to enlarge maps
+    fig, axes = plt.subplots(2, 2, figsize=(4.21, 5), dpi=600)
+    plt.subplots_adjust(wspace=0.0, hspace=0.06)
     axes = axes.flatten()  # Make indexing easier
 
     # Define panel info
     panels = [
-        ("Hospitals \n with CT", "a)", ct_union, df_ct),
-        ("Frequent \n Stroke-Care Hospitals", "b)", extended_union, df_extended_stroke),
-        ("All \n Stroke Units", "c)", stroke_union, df_stroke),
-        ("Thrombectomy-\nCertified", "d)", thromb_union, df_stroke.loc[thromb_mask].copy())
+        ("Hospitals \n with CT", "a", ct_union, df_ct),
+        ("Stroke-Ready \n Hospitals", "b", extended_union, df_extended_stroke),
+        ("All \n Stroke Units", "c", stroke_union, df_stroke),
+        ("Thrombectomy-\nCertified", "d", thromb_union, df_stroke.loc[thromb_mask].copy())
     ]
 
     for i, (title, panel_letter, union_data, df_points) in enumerate(panels):
@@ -1455,18 +1451,18 @@ def create_journal_figure_1_extended_standardized(out_dir: Path | str | None = N
                     ax=ax,
                     color=config.TIME_COLOURS[t],
                     alpha=0.9,
-                    edgecolor="black",
-                    linewidth=0.08,  # Thinner lines for smaller panels
+                    edgecolor="none",  # remove polygon outlines for clean journal style
+                    linewidth=0.0,
                     zorder=2,
                 )
 
-        # Facility scatter
+        # Facility scatter (slightly smaller)
         ax.scatter(
             df_points["longitude"],
             df_points["latitude"],
             color="black",
-            s=0.6,  # Very small markers for 4-panel layout
-            alpha=0.8,
+            s=0.15,
+            alpha=1,
             marker="o",
             zorder=4,
         )
@@ -1475,24 +1471,14 @@ def create_journal_figure_1_extended_standardized(out_dir: Path | str | None = N
         ax.set_xlim(germany.total_bounds[0] - 0.5, germany.total_bounds[2] + 0.5)
         ax.set_ylim(germany.total_bounds[1] - 0.5, germany.total_bounds[3] + 0.5)
         
-        # Title (standardized style - no font family to match three_penalty_scenarios)
-        ax.set_title(title, fontsize=10, fontweight='bold', pad=5)  # Reduced pad for four-panel layout
+        # Title (Times New Roman 10pt bold)
+        ax.set_title(title, fontsize=10, fontweight='bold', family='Times New Roman', pad=5)  # Reduced pad for four-panel layout
         
-        # Panel letter (standardized style) 
-        title_y = 1.08  # Positioned closer to title for four-panel layout
-        ax.text(
-            -0.05,
-            title_y+0.1,
-            panel_letter,
-            transform=ax.transAxes,
-            fontweight="bold",
-            fontsize=12,
-            family="Times New Roman",
-            va="top",
-            ha="left",
-        )
+        # Panel letter (Times New Roman 10pt bold) - no parentheses, left of title
+        ax.text(-0.3, 1.3, panel_letter, transform=ax.transAxes,
+                fontweight='bold', fontsize=10, family='Times New Roman', va='top', ha='left')
 
-    # Legend (standardized style)
+    # Legend (standardized style) – two rows to maximize map area
     legend_time_bins = time_bins or config.DEFAULT_TIME_BINS
     handles = [
         mpatches.Patch(color=config.TIME_COLOURS[t], label=f"{t} min")
@@ -1510,11 +1496,21 @@ def create_journal_figure_1_extended_standardized(out_dir: Path | str | None = N
         )
     )
     
-    fig.legend(handles=handles, loc='lower center', 
-              bbox_to_anchor=(0.5, 0.02), ncol=len(legend_time_bins) + 1, fontsize=10, 
-              frameon=False, prop={'family': 'Times New Roman'})
-        
-    fig.tight_layout(rect=(0, 0.1, 1, 1))  # More space for legend in 2x2 layout
+    # Arrange legend in two rows; split into roughly half per row + facility
+    ncols = max(3, (len(legend_time_bins) + 1 + 1) // 2)
+    fig.legend(
+        handles=handles,
+        loc='lower center',
+        bbox_to_anchor=(0.5, 0.04),
+        ncol=ncols,
+        fontsize=10,
+        frameon=False,
+        prop={'family': 'Times New Roman', 'size': 10}
+    )
+
+    # Tighten layout to free vertical space for maps
+    plt.tight_layout()
+    plt.subplots_adjust(bottom=0.18, wspace=0.0, hspace=0.08)
 
     # Adjust filename for standardized version
     if time_bins and set(time_bins) != set(config.DEFAULT_TIME_BINS):
@@ -1528,10 +1524,370 @@ def create_journal_figure_1_extended_standardized(out_dir: Path | str | None = N
         png_path = out_dir / f"journal_figure_1_extended_CT_vs_extended_stroke_vs_stroke_thromb_standardized.png"
         
     # Save in journal formats: EPS, TIFF, PNG
-    fig.savefig(eps_path, format='eps', bbox_inches="tight", dpi=500)
-    fig.savefig(tiff_path, format='tiff', bbox_inches="tight", dpi=500)
-    fig.savefig(png_path, format='png', bbox_inches="tight", dpi=500)
+    fig.savefig(eps_path, format='eps', bbox_inches="tight", dpi=600)
+    fig.savefig(tiff_path, format='tiff', bbox_inches="tight", dpi=600)
+    fig.savefig(png_path, format='png', bbox_inches="tight", dpi=600)
     plt.close(fig)
 
     print(f"✅ Standardized Journal Figure 1 Extended saved: {eps_path}, {tiff_path}, and {png_path}")
     return png_path 
+
+
+def create_journal_figure_1_extended_standardized_allbins_continuous(
+    out_dir: Path | str | None = None,
+    time_bins: list[int] | None = None,
+) -> Path:
+    """Create an additional 2x2 extended figure using ALL time bins (5–60 min)
+    and a continuous colorbar legend suitable for journal submission.
+
+    - Layout: 2x2, width 107 mm (4.21 in), height ~3.16 in
+    - Headings: Times New Roman 10 pt bold
+    - Facility markers: extra small
+    - Isochrone polygons: no edges, alpha=0.9
+    - Legend: horizontal continuous colorbar with small height
+    - Export DPI: 600
+    """
+
+    out_dir = Path(out_dir or config.GRAPH_DIR)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Data ------------------------------------------------------------------
+    df_stroke = data.load_stroke_units()
+    df_ct = data.load_hospitals_ct()
+
+    try:
+        df_extended_stroke = data.load_extended_stroke_units()
+    except FileNotFoundError as e:
+        raise FileNotFoundError(
+            f"Extended stroke units not available: {e}\n"
+            f"Please run additional_stroke_centers.ipynb to generate the extended dataset."
+        )
+
+    uber_mask, reg_mask, thromb_mask = data.stroke_unit_masks(df_stroke)
+
+    def _load_pkl(p: Path):
+        with open(p, "rb") as fh:
+            return pickle.load(fh)
+
+    # Use ALL time bins for this variant
+    load_time_bins = config.TIME_BINS
+
+    stroke_polys = {t: _load_pkl(config.DATA_DIR / f"poly{t}.pkl") for t in load_time_bins if (config.DATA_DIR / f"poly{t}.pkl").exists()}
+    ct_polys = {t: _load_pkl(config.DATA_DIR / f"poly{t}_all_CTs.pkl") for t in load_time_bins if (config.DATA_DIR / f"poly{t}_all_CTs.pkl").exists()}
+    extended_polys = {t: _load_pkl(config.DATA_DIR / f"poly{t}_extended_stroke.pkl") for t in load_time_bins if (config.DATA_DIR / f"poly{t}_extended_stroke.pkl").exists()}
+
+    if not extended_polys:
+        raise FileNotFoundError(
+            "Extended stroke isochrones not found. Please generate isochrones for extended stroke units first.\n"
+            "Expected files: poly{t}_extended_stroke.pkl in the DATA_DIR"
+        )
+
+    stroke_union = _union(stroke_polys, load_time_bins)
+    thromb_union = _union({t: [p for i, p in enumerate(stroke_polys[t]) if thromb_mask.iloc[i]] for t in stroke_polys.keys()}, load_time_bins)
+    ct_union = _union(ct_polys, load_time_bins)
+    extended_union = _union(extended_polys, load_time_bins)
+
+    germany = data.load_germany_outline()
+
+    import matplotlib.pyplot as plt
+    from matplotlib.colors import Normalize
+    from matplotlib.cm import ScalarMappable
+    import matplotlib.lines as mlines
+
+    fig, axes = plt.subplots(2, 2, figsize=(4.21, 6), dpi=600)
+    axes = axes.flatten()
+
+    panels = [
+        ("Hospitals \n with CT", "a", ct_union, df_ct),
+        ("Stroke-Ready \n Hospitals", "b", extended_union, df_extended_stroke),
+        ("All \n Stroke Units", "c", stroke_union, df_stroke),
+        ("Thrombectomy-\nCertified", "d", thromb_union, df_stroke.loc[thromb_mask].copy()),
+    ]
+
+    for i, (title, panel_letter, union_data, df_points) in enumerate(panels):
+        ax = axes[i]
+        ax.set_xticks([]); ax.set_yticks([]); ax.set_facecolor("white")
+        for spine in ax.spines.values():
+            spine.set_visible(False)
+
+        germany.boundary.plot(ax=ax, color='black', linewidth=0.35, zorder=3)
+
+        for t in sorted(load_time_bins, reverse=True):
+            subset = union_data[union_data["Time"] == f"{t} min"]
+            if not subset.empty:
+                subset.plot(
+                    ax=ax,
+                    color=config.TIME_COLOURS[t],
+                    alpha=0.9,
+                    edgecolor='none',
+                    linewidth=0.0,
+                    zorder=2,
+                )
+
+        ax.scatter(
+            df_points["longitude"],
+            df_points["latitude"],
+            color="black",
+            s=0.25,
+            alpha=1,
+            marker="o",
+            zorder=4,
+        )
+
+        ax.set_xlim(germany.total_bounds[0] - 0.5, germany.total_bounds[2] + 0.5)
+        ax.set_ylim(germany.total_bounds[1] - 0.5, germany.total_bounds[3] + 0.5)
+
+        ax.set_title(title, fontsize=10, fontweight='bold', family='Times New Roman', pad=4)
+        title_y = 1.2
+        ax.text(-0.05, title_y, panel_letter, transform=ax.transAxes,
+                fontweight='bold', fontsize=10, family='Times New Roman', va='top', ha='left')
+
+    # Continuous colorbar (tiny) placed near facility legend
+    norm = Normalize(vmin=min(config.TIME_BINS), vmax=max(config.TIME_BINS))
+    sm = ScalarMappable(norm=norm, cmap=config.CMAP)
+    sm.set_array([])
+    # Ensure colorbar doesn't exceed figure width; keep small
+    cbar = fig.colorbar(sm, ax=axes, orientation='horizontal', fraction=0.015, pad=0.015, aspect=17)
+    cbar.set_label('Time (min)', family='Times New Roman', fontsize=10)
+    cbar.ax.tick_params(labelsize=10)
+    for lbl in cbar.ax.get_xticklabels():
+        lbl.set_family('Times New Roman')
+    cbar.set_ticks([5, 15, 30, 45, 60])
+
+    # Tiny facility legend on bottom-right
+    facility_handle = mlines.Line2D([], [], marker='o', linestyle='', markersize=1.8, color='black', label='Facility')
+    # Place legend and colorbar close together at bottom-right
+    fig.legend(handles=[facility_handle], loc='lower right', bbox_to_anchor=(0.9, 0.08), frameon=False,
+               prop={'family': 'Times New Roman', 'size': 10})
+
+    fig.tight_layout(rect=(0, 0.1, 1, 1))
+
+    eps_path = out_dir / f"journal_figure_1_extended_allbins_continuous_standardized.eps"
+    tiff_path = out_dir / f"journal_figure_1_extended_allbins_continuous_standardized.tiff"
+    png_path = out_dir / f"journal_figure_1_extended_allbins_continuous_standardized.png"
+
+    fig.savefig(eps_path, format='eps', bbox_inches='tight', dpi=600)
+    fig.savefig(tiff_path, format='tiff', bbox_inches='tight', dpi=600)
+    fig.savefig(png_path, format='png', bbox_inches='tight', dpi=600)
+    plt.close(fig)
+
+    print(f"✅ Standardized Journal Figure 1 Extended (all bins + continuous) saved: {png_path}")
+    return png_path
+
+
+def create_journal_figure_1_extended_standardized_vertical_allbins_continuous(
+    out_dir: Path | str | None = None,
+) -> Path:
+    """Create an additional VERTICAL extended figure using ALL time bins (5–60)
+    with a continuous colorbar. Constrained to width 107 mm and height ≤ 190 mm.
+
+    - Layout: 4×1 stacked panels
+    - Size: 4.21 × 7.48 inches
+    - Headings: Times New Roman 10 pt bold; panel letters 10 pt
+    - Facility markers: extra small
+    - Export DPI: 600
+    """
+
+    out_dir = Path(out_dir or config.GRAPH_DIR)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Data ------------------------------------------------------------------
+    df_stroke = data.load_stroke_units()
+    df_ct = data.load_hospitals_ct()
+    try:
+        df_extended_stroke = data.load_extended_stroke_units()
+    except FileNotFoundError as e:
+        raise FileNotFoundError(
+            f"Extended stroke units not available: {e}\n"
+            f"Please run additional_stroke_centers.ipynb to generate the extended dataset."
+        )
+
+    uber_mask, reg_mask, thromb_mask = data.stroke_unit_masks(df_stroke)
+
+    def _load_pkl(p: Path):
+        with open(p, "rb") as fh:
+            return pickle.load(fh)
+
+    load_time_bins = config.TIME_BINS
+
+    stroke_polys = {t: _load_pkl(config.DATA_DIR / f"poly{t}.pkl") for t in load_time_bins if (config.DATA_DIR / f"poly{t}.pkl").exists()}
+    ct_polys = {t: _load_pkl(config.DATA_DIR / f"poly{t}_all_CTs.pkl") for t in load_time_bins if (config.DATA_DIR / f"poly{t}_all_CTs.pkl").exists()}
+    extended_polys = {t: _load_pkl(config.DATA_DIR / f"poly{t}_extended_stroke.pkl") for t in load_time_bins if (config.DATA_DIR / f"poly{t}_extended_stroke.pkl").exists()}
+
+    if not extended_polys:
+        raise FileNotFoundError(
+            "Extended stroke isochrones not found. Please generate isochrones for extended stroke units first.\n"
+            "Expected files: poly{t}_extended_stroke.pkl in the DATA_DIR"
+        )
+
+    stroke_union = _union(stroke_polys, load_time_bins)
+    thromb_union = _union({t: [p for i, p in enumerate(stroke_polys[t]) if thromb_mask.iloc[i]] for t in stroke_polys.keys()}, load_time_bins)
+    ct_union = _union(ct_polys, load_time_bins)
+    extended_union = _union(extended_polys, load_time_bins)
+
+    germany = data.load_germany_outline()
+
+    import matplotlib.pyplot as plt
+    from matplotlib.colors import Normalize
+    from matplotlib.cm import ScalarMappable
+    import matplotlib.lines as mlines
+
+    fig, axes = plt.subplots(4, 1, figsize=(4.21, 7.1), dpi=600)
+    plt.subplots_adjust(hspace=0.04)
+
+    panels = [
+        ("Hospitals with CT", "a", ct_union, df_ct),
+        ("Stroke-Ready Hospitals", "b", extended_union, df_extended_stroke),
+        ("All Stroke Units", "c", stroke_union, df_stroke),
+        ("Thrombectomy-Certified", "d", thromb_union, df_stroke.loc[thromb_mask].copy()),
+    ]
+
+    for i, (title, panel_letter, union_data, df_points) in enumerate(panels):
+        ax = axes[i]
+        ax.set_xticks([]); ax.set_yticks([]); ax.set_facecolor('white')
+        for spine in ax.spines.values():
+            spine.set_visible(False)
+
+        germany.boundary.plot(ax=ax, color='black', linewidth=0.35, zorder=3)
+
+        for t in sorted(load_time_bins, reverse=True):
+            subset = union_data[union_data['Time'] == f"{t} min"]
+            if not subset.empty:
+                subset.plot(ax=ax, color=config.TIME_COLOURS[t], alpha=0.9, edgecolor='none', linewidth=0.0, zorder=2)
+
+        ax.scatter(
+            df_points['longitude'], df_points['latitude'],
+            color='black', s=0.3, alpha=0.8, marker='o', zorder=4
+        )
+
+        ax.set_xlim(germany.total_bounds[0] - 0.5, germany.total_bounds[2] + 0.5)
+        ax.set_ylim(germany.total_bounds[1] - 0.5, germany.total_bounds[3] + 0.5)
+
+        ax.set_title(title, fontsize=10, fontweight='bold', family='Times New Roman', pad=6)
+        ax.text(0.01, 1.08, panel_letter, transform=ax.transAxes, fontweight='bold', fontsize=10,
+                family='Times New Roman', va='top', ha='left')
+
+    # Continuous colorbar (tiny) next to facility legend
+    norm = Normalize(vmin=min(config.TIME_BINS), vmax=max(config.TIME_BINS))
+    sm = ScalarMappable(norm=norm, cmap=config.CMAP)
+    sm.set_array([])
+    cbar = fig.colorbar(sm, ax=axes, orientation='horizontal', fraction=0.014, pad=0.016, aspect=30)
+    cbar.set_label('Time (min)', family='Times New Roman', fontsize=10)
+    cbar.ax.tick_params(labelsize=10)
+    for lbl in cbar.ax.get_xticklabels():
+        lbl.set_family('Times New Roman')
+    cbar.set_ticks([5, 15, 30, 45, 60])
+
+    facility_handle = mlines.Line2D([], [], marker='o', linestyle='', markersize=1.6, color='black', label='Facility')
+    fig.legend(handles=[facility_handle], loc='lower right', bbox_to_anchor=(0.99, 0.06), frameon=False,
+               prop={'family': 'Times New Roman', 'size': 10})
+
+    fig.tight_layout(rect=(0, 0.08, 1, 1))
+
+    eps_path = out_dir / f"journal_figure_1_extended_vertical_allbins_continuous_standardized.eps"
+    tiff_path = out_dir / f"journal_figure_1_extended_vertical_allbins_continuous_standardized.tiff"
+    png_path = out_dir / f"journal_figure_1_extended_vertical_allbins_continuous_standardized.png"
+
+    fig.savefig(eps_path, format='eps', bbox_inches='tight', dpi=600)
+    fig.savefig(tiff_path, format='tiff', bbox_inches='tight', dpi=600)
+    fig.savefig(png_path, format='png', bbox_inches='tight', dpi=600)
+    plt.close(fig)
+
+    print(f"✅ Standardized Journal Figure 1 Extended (vertical, all bins + continuous) saved: {png_path}")
+    return png_path
+
+def create_journal_figure_2_standardized_allbins_continuous(out_dir: Path | str | None = None) -> Path:
+    """Create an additional standardized Journal Figure 2 (3x1) using all bins
+    with a continuous colorbar legend.
+    """
+    out_dir = Path(out_dir or config.GRAPH_DIR)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    df_stroke = data.load_stroke_units()
+    uber_mask, reg_mask, _ = data.stroke_unit_masks(df_stroke)
+
+    def _load_pkl(p: Path):
+        with open(p, "rb") as fh:
+            return pickle.load(fh)
+
+    load_time_bins = config.TIME_BINS
+    stroke_polys = {t: _load_pkl(config.DATA_DIR / f"poly{t}.pkl") for t in load_time_bins if (config.DATA_DIR / f"poly{t}.pkl").exists()}
+
+    stroke_union = _union(stroke_polys, load_time_bins)
+    uber_union = _union({t: [p for i, p in enumerate(stroke_polys[t]) if uber_mask.iloc[i]] for t in stroke_polys.keys()}, load_time_bins)
+    reg_union = _union({t: [p for i, p in enumerate(stroke_polys[t]) if reg_mask.iloc[i]] for t in stroke_polys.keys()}, load_time_bins)
+
+    germany = data.load_germany_outline()
+
+    import matplotlib.pyplot as plt
+    from matplotlib.colors import Normalize
+    from matplotlib.cm import ScalarMappable
+
+    fig, axes = plt.subplots(3, 1, figsize=(4.21, 11), dpi=600)
+
+    panels = [
+        ("All Stroke Units", "a", stroke_union, df_stroke),
+        ("Supra-Regional", "b", uber_union, df_stroke.loc[uber_mask].copy()),
+        ("Regional / Telemed", "c", reg_union, df_stroke.loc[reg_mask].copy()),
+    ]
+
+    for i, (title, panel_letter, union_data, df_points) in enumerate(panels):
+        ax = axes[i]
+        ax.set_xticks([]); ax.set_yticks([]); ax.set_facecolor('white')
+        for spine in ax.spines.values():
+            spine.set_visible(False)
+
+        germany.boundary.plot(ax=ax, color='black', linewidth=0.6, zorder=3)
+
+        for t in sorted(load_time_bins, reverse=True):
+            subset = union_data[union_data['Time'] == f"{t} min"]
+            if not subset.empty:
+                subset.plot(ax=ax, color=config.TIME_COLOURS[t], alpha=0.9, edgecolor='none', linewidth=0.0, zorder=2)
+
+        ax.scatter(df_points['longitude'], df_points['latitude'], color='black', s=0.15, alpha=0.8, marker='o', zorder=4)
+        ax.set_xlim(germany.total_bounds[0] - 0.5, germany.total_bounds[2] + 0.5)
+        ax.set_ylim(germany.total_bounds[1] - 0.5, germany.total_bounds[3] + 0.5)
+
+        ax.set_title(title, fontsize=10, fontweight='bold', family='Times New Roman', pad=10)
+        ax.text(0.01, 1.06, panel_letter, transform=ax.transAxes, fontweight='bold', fontsize=10,
+                family='Times New Roman', va='top', ha='left')
+    # --- continuous colorbar and facility legend (compact, under last subplot) ---
+    norm = Normalize(vmin=min(config.TIME_BINS), vmax=max(config.TIME_BINS))
+    sm = ScalarMappable(norm=norm, cmap=config.CMAP); sm.set_array([])
+
+    plt.tight_layout()
+
+    last_pos   = axes[2].get_position()
+    bar_width  = last_pos.width * 0.33                  # narrow bar
+    bar_left   = last_pos.x0 + (last_pos.width - bar_width) / 2 - 0.05  # slight left shift
+    bar_bottom = last_pos.y0 - 0.038                    # closer to the subplot
+
+    cb_ax = fig.add_axes([bar_left, bar_bottom, bar_width, 0.013])      # lower height
+    cbar  = fig.colorbar(sm, cax=cb_ax, orientation='horizontal')
+    cbar.set_label('Time (min)', family='Times New Roman', fontsize=10)
+    cbar.ax.tick_params(labelsize=10)
+    for lbl in cbar.ax.get_xticklabels():
+        lbl.set_family('Times New Roman')
+    cbar.set_ticks([5, 15, 30, 45, 60])
+
+    # facility legend just to the right of the bar
+    import matplotlib.lines as mlines
+    facility_handle = mlines.Line2D([], [], color='black', marker='o',
+                                    linestyle='None', markersize=4, label='Facility')
+    leg_ax = fig.add_axes([bar_left + bar_width + 0.006, bar_bottom - 0.001, 0.1, 0.028])
+    leg_ax.axis('off')
+    leg_ax.legend(handles=[facility_handle], loc='center left',
+                  frameon=False, fontsize=10, prop={'family': 'Times New Roman'})
+
+    eps_path = out_dir / f"journal_figure_2_stroke_hierarchy_standardized_allbins_continuous.eps"
+    tiff_path = out_dir / f"journal_figure_2_stroke_hierarchy_standardized_allbins_continuous.tiff"
+    png_path = out_dir / f"journal_figure_2_stroke_hierarchy_standardized_allbins_continuous.png"
+
+    fig.savefig(eps_path, format='eps', bbox_inches='tight', dpi=600)
+    fig.savefig(tiff_path, format='tiff', bbox_inches='tight', dpi=600)
+    fig.savefig(png_path, format='png', bbox_inches='tight', dpi=600)
+    plt.close(fig)
+
+    print(f"✅ Standardized Journal Figure 2 (all bins + continuous) saved: {png_path}")
+    return png_path
+

@@ -212,27 +212,26 @@ def plot_journal_isochrones_panel(
         df_points["longitude"],
         df_points["latitude"],
         color="black",
-        s=1,  # Very small markers for journal figures
+        s=0.2,  # Extra small markers for journal figures
         alpha=0.8,
         marker="o",
         zorder=4,
     )
 
-    # Panel title - Times New Roman, bold  
-    title_obj = ax.set_title(title, fontweight="bold", fontsize=10, family="Times New Roman")
+    # Panel title - Times New Roman, bold
+    title_obj = ax.set_title(title, fontweight="bold", fontsize=10, family="Times New Roman", pad=6)
     
     if panel_letter:
-        # Use letters with parentheses in Times New Roman font, positioned above title
-        title_y = 1.1  # Positioned above the title for better visibility
+        # Panel letter (no parentheses), left of title area at top-left
         ax.text(
             0.01,
-            title_y,
-            panel_letter,  # Use as-is (already includes parentheses)
+            1.06,
+            panel_letter,
             transform=ax.transAxes,
             fontweight="bold",
-            fontsize=10,  # Same size as title for perfect alignment
+            fontsize=10,
             family="Times New Roman",
-            va="top",  # Align from top like title
+            va="top",
             ha="left",
         )
 

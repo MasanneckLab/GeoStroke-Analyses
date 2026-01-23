@@ -203,7 +203,7 @@ jupyter lab notebooks/04_urban_rural_benefit_analysis.ipynb
 | File | Purpose | Size | Source |
 |------|---------|------|--------|
 | `raw_data/stroke_units_geocoded.csv` | Certified stroke units (349 facilities) | 98KB | Processed from quality reports |
-| `stroke_units_extended_geocoded.csv` | Frequent stroke-care hospitals (465 facilities) | 138KB | Quality reports + hospital directory |
+| `stroke_units_extended_geocoded.csv` | Frequent stroke-care hospitals (465 facilities) "Stroke-ready in manuscript" | 138KB | Quality reports + hospital directory |
 | `raw_data/Hospitals_with_CT.xlsx` | CT-equipped hospitals (1,566 facilities) | Included | German hospital directory |
 | `shp/germany-states.geojson` | Federal state boundaries | 99KB | Administrative boundaries |
 | `shp/georef-germany-kreis@public.geojson` | County boundaries (401 counties) | 16MB | Administrative boundaries |

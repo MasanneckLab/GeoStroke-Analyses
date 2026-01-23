@@ -167,3 +167,7 @@ def stroke_unit_masks(df_stroke: pd.DataFrame):  # type: ignore
     reg = df_stroke["level"].str.contains(r"Regionale |Telemed", case=True, na=False)
     thromb = df_stroke["is_thrombectomy_center"].fillna(False).astype(bool)
     return uber, reg, thromb 
+
+def telemed_mask(df_stroke: pd.DataFrame):
+    """Return boolean indexer for telemed stroke units."""
+    return df_stroke["level"].str.contains(r"Telemed", case=True, na=False)

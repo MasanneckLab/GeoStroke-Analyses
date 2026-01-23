@@ -1961,7 +1961,7 @@ def create_four_scenario_comparison_proper(
     }
     
     # Plot each scenario using the same logic as create_benefit_map
-    panel_letters = ['a)', 'b)', 'c)', 'd)']  # Lowercase letters with parentheses for panels
+    panel_letters = ['a', 'b', 'c', 'd']  # Lowercase letters for panels (no parentheses)
     for i, (scenario_name, benefit_gdf) in enumerate(list(scenario_gdfs.items())[:4]):
         ax = axes[i]
         
@@ -2019,19 +2019,19 @@ def create_four_scenario_comparison_proper(
         ax.set_ylim(germany.total_bounds[1] - 0.5, germany.total_bounds[3] + 0.5)
         
         # Clean title
-        ax.set_title(scenario_name, fontsize=10, fontweight='bold', pad=10)
+        ax.set_title(scenario_name, fontsize=10, fontweight='bold', fontfamily='Times New Roman', pad=10)
         
         # Add panel letter (lowercase, upper left)
         if i < len(panel_letters):
             # Position letters above the title for better visibility
             title_y = 1.1  # Positioned above the title
             ax.text(
-                0.01,
+                0.005,
                 title_y,
                 panel_letters[i],
                 transform=ax.transAxes,
                 fontweight="bold",
-                fontsize=12,
+                fontsize=10,
                 family="Times New Roman",
                 va="top",
                 ha="left",
@@ -2052,15 +2052,24 @@ def create_four_scenario_comparison_proper(
         )
     
     # Position legend in Eastern Germany indent area (same as create_benefit_map)
-    fig.legend(handles=legend_elements, loc='lower center', 
-              bbox_to_anchor=(0.5, 0.02), ncol=3, fontsize=10, 
-              frameon=True, fancybox=True, shadow=True, facecolor='white', edgecolor='black')
+    fig.legend(
+        handles=legend_elements,
+        loc='lower center',
+        bbox_to_anchor=(0.5, 0.02),
+        ncol=3,
+        prop={'family': 'Times New Roman', 'size': 10, 'weight': 'normal'},
+        frameon=True,
+        fancybox=True,
+        shadow=True,
+        facecolor='white',
+        edgecolor='black'
+    )
     
     plt.tight_layout()
     plt.subplots_adjust(bottom=0.15, top=0.9)
     
     # Save the comparison figure
-    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    plt.savefig(output_path, dpi=500, bbox_inches='tight')
     plt.close()
     
     print(f"✅ Publication-ready four-scenario comparison saved: {output_path}")
@@ -2199,7 +2208,7 @@ def three_speed_scenarios(
     }
     
     # Plot each scenario
-    panel_letters = ['a)', 'b)', 'c)']  # Lowercase letters with parentheses for panels
+    panel_letters = ['a', 'b', 'c']  # Lowercase letters for panels (no parentheses)
     for i, (scenario_name, benefit_gdf) in enumerate(list(scenario_gdfs.items())[:3]):
         ax = axes[i]
         
@@ -2279,18 +2288,18 @@ def three_speed_scenarios(
         ax.set_ylim(germany.total_bounds[1] - 0.5, germany.total_bounds[3] + 0.5)
         
         # Title and panel letter
-        ax.set_title(scenario_name, fontsize=10, fontweight='bold', pad=10)
+        ax.set_title(scenario_name, fontsize=10, fontweight='bold', fontfamily='Times New Roman', pad=10)
         
         # Add panel letter (lowercase, upper left)
         # Position letters above the title for better visibility
         title_y = 1.1  # Positioned above the title
         ax.text(
-            0.01,
+            0.005,
             title_y,
             panel_letters[i],
             transform=ax.transAxes,
             fontweight="bold",
-            fontsize=12,
+            fontsize=10,
             family="Times New Roman",
             va="top",
             ha="left",
@@ -2304,9 +2313,14 @@ def three_speed_scenarios(
                            edgecolor='black', linewidth=1.0)
         )
     
-    fig.legend(handles=legend_elements, loc='lower center', 
-              bbox_to_anchor=(0.5, 0.02), ncol=1, fontsize=10, 
-              frameon=False)
+    fig.legend(
+        handles=legend_elements,
+        loc='lower center',
+        bbox_to_anchor=(0.5, 0.02),
+        ncol=1,
+        prop={'family': 'Times New Roman', 'size': 10, 'weight': 'normal'},
+        frameon=False
+    )
     
     plt.tight_layout()
     plt.subplots_adjust(bottom=0.15)
@@ -2468,7 +2482,7 @@ def three_penalty_scenarios(
     }
     
     # Plot each scenario
-    panel_letters = ['a)', 'b)', 'c)']  # Lowercase letters with parentheses for panels
+    panel_letters = ['a', 'b', 'c']  # Lowercase letters for panels (no parentheses)
     for i, (scenario_name, benefit_gdf) in enumerate(list(scenario_gdfs.items())[:3]):
         ax = axes[i]
         
@@ -2550,18 +2564,18 @@ def three_penalty_scenarios(
         ax.set_ylim(germany.total_bounds[1] - 0.5, germany.total_bounds[3] + 0.5)
         
         # Title and panel letter
-        ax.set_title(scenario_name, fontsize=10, fontweight='bold', pad=10)
+        ax.set_title(scenario_name, fontsize=10, fontweight='bold', fontfamily='Times New Roman', pad=10)
         
         # Add panel letter (lowercase, upper left)
         # Position letters above the title for better visibility
         title_y = 1.1  # Positioned above the title
         ax.text(
-            0.01,
+            0.005,
             title_y,
             panel_letters[i],
             transform=ax.transAxes,
             fontweight="bold",
-            fontsize=12,
+            fontsize=10,
             family="Times New Roman",
             va="top",
             ha="left",
@@ -2575,9 +2589,14 @@ def three_penalty_scenarios(
                            edgecolor='black', linewidth=1.0)
         )
     
-    fig.legend(handles=legend_elements, loc='lower center', 
-              bbox_to_anchor=(0.5, 0.02), ncol=1, fontsize=10, 
-              frameon=False)
+    fig.legend(
+        handles=legend_elements,
+        loc='lower center',
+        bbox_to_anchor=(0.5, 0.02),
+        ncol=1,
+        prop={'family': 'Times New Roman', 'size': 10, 'weight': 'normal'},
+        frameon=False
+    )
     
     plt.tight_layout()
     plt.subplots_adjust(bottom=0.15)

@@ -1,79 +1,5 @@
 {
   "Baden-Württemberg": {
-    "Extended Stroke Hospitals": {
-      "5": [
-        {
-          "covered_pop": 745034,
-          "percentage": 6.83
-        }
-      ],
-      "10": [
-        {
-          "covered_pop": 2447749,
-          "percentage": 22.46
-        }
-      ],
-      "15": [
-        {
-          "covered_pop": 4797836,
-          "percentage": 44.01
-        }
-      ],
-      "20": [
-        {
-          "covered_pop": 7161283,
-          "percentage": 65.7
-        }
-      ],
-      "25": [
-        {
-          "covered_pop": 9017287,
-          "percentage": 82.72
-        }
-      ],
-      "30": [
-        {
-          "covered_pop": 10073997,
-          "percentage": 92.42
-        }
-      ],
-      "35": [
-        {
-          "covered_pop": 10619941,
-          "percentage": 97.43
-        }
-      ],
-      "40": [
-        {
-          "covered_pop": 10809034,
-          "percentage": 99.16
-        }
-      ],
-      "45": [
-        {
-          "covered_pop": 10875583,
-          "percentage": 99.77
-        }
-      ],
-      "50": [
-        {
-          "covered_pop": 10892137,
-          "percentage": 99.92
-        }
-      ],
-      "55": [
-        {
-          "covered_pop": 10894114,
-          "percentage": 99.94
-        }
-      ],
-      "60": [
-        {
-          "covered_pop": 10894459,
-          "percentage": 99.94
-        }
-      ]
-    },
     "Hospitals with CT": {
       "5": [
         {
@@ -221,83 +147,83 @@
           "percentage": 98.95
         }
       ]
-    }
-  },
-  "Bayern": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 1044109,
-          "percentage": 7.85
+          "covered_pop": 745034,
+          "percentage": 6.83
         }
       ],
       "10": [
         {
-          "covered_pop": 3382596,
-          "percentage": 25.42
+          "covered_pop": 2447749,
+          "percentage": 22.46
         }
       ],
       "15": [
         {
-          "covered_pop": 6239022,
-          "percentage": 46.88
+          "covered_pop": 4797836,
+          "percentage": 44.01
         }
       ],
       "20": [
         {
-          "covered_pop": 8957793,
-          "percentage": 67.31
+          "covered_pop": 7161283,
+          "percentage": 65.7
         }
       ],
       "25": [
         {
-          "covered_pop": 10825767,
-          "percentage": 81.34
+          "covered_pop": 9017287,
+          "percentage": 82.72
         }
       ],
       "30": [
         {
-          "covered_pop": 12122323,
-          "percentage": 91.09
+          "covered_pop": 10073997,
+          "percentage": 92.42
         }
       ],
       "35": [
         {
-          "covered_pop": 12809720,
-          "percentage": 96.25
+          "covered_pop": 10619941,
+          "percentage": 97.43
         }
       ],
       "40": [
         {
-          "covered_pop": 13105623,
-          "percentage": 98.48
+          "covered_pop": 10809034,
+          "percentage": 99.16
         }
       ],
       "45": [
         {
-          "covered_pop": 13247065,
-          "percentage": 99.54
+          "covered_pop": 10875583,
+          "percentage": 99.77
         }
       ],
       "50": [
         {
-          "covered_pop": 13288657,
-          "percentage": 99.85
+          "covered_pop": 10892137,
+          "percentage": 99.92
         }
       ],
       "55": [
         {
-          "covered_pop": 13291021,
-          "percentage": 99.87
+          "covered_pop": 10894114,
+          "percentage": 99.94
         }
       ],
       "60": [
         {
-          "covered_pop": 13293980,
-          "percentage": 99.89
+          "covered_pop": 10894459,
+          "percentage": 99.94
         }
       ]
-    },
+    }
+  },
+  "Bayern": {
     "Hospitals with CT": {
       "5": [
         {
@@ -445,83 +371,83 @@
           "percentage": 99.88
         }
       ]
-    }
-  },
-  "Berlin": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 637493,
-          "percentage": 17.64
+          "covered_pop": 1044109,
+          "percentage": 7.85
         }
       ],
       "10": [
         {
-          "covered_pop": 2120358,
-          "percentage": 58.68
+          "covered_pop": 3382596,
+          "percentage": 25.42
         }
       ],
       "15": [
         {
-          "covered_pop": 3269306,
-          "percentage": 90.48
+          "covered_pop": 6239022,
+          "percentage": 46.88
         }
       ],
       "20": [
         {
-          "covered_pop": 3586166,
-          "percentage": 99.25
+          "covered_pop": 8957793,
+          "percentage": 67.31
         }
       ],
       "25": [
         {
-          "covered_pop": 3607985,
-          "percentage": 99.85
+          "covered_pop": 10825767,
+          "percentage": 81.34
         }
       ],
       "30": [
         {
-          "covered_pop": 3612501,
-          "percentage": 99.97
+          "covered_pop": 12122323,
+          "percentage": 91.09
         }
       ],
       "35": [
         {
-          "covered_pop": 3613426,
-          "percentage": 100.0
+          "covered_pop": 12809720,
+          "percentage": 96.25
         }
       ],
       "40": [
         {
-          "covered_pop": 3613426,
-          "percentage": 100.0
+          "covered_pop": 13105623,
+          "percentage": 98.48
         }
       ],
       "45": [
         {
-          "covered_pop": 3613426,
-          "percentage": 100.0
+          "covered_pop": 13247065,
+          "percentage": 99.54
         }
       ],
       "50": [
         {
-          "covered_pop": 3613426,
-          "percentage": 100.0
+          "covered_pop": 13288657,
+          "percentage": 99.85
         }
       ],
       "55": [
         {
-          "covered_pop": 3613426,
-          "percentage": 100.0
+          "covered_pop": 13291021,
+          "percentage": 99.87
         }
       ],
       "60": [
         {
-          "covered_pop": 3613426,
-          "percentage": 100.0
+          "covered_pop": 13293980,
+          "percentage": 99.89
         }
       ]
-    },
+    }
+  },
+  "Berlin": {
     "Hospitals with CT": {
       "5": [
         {
@@ -669,83 +595,83 @@
           "percentage": 100.0
         }
       ]
-    }
-  },
-  "Brandenburg": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 141724,
-          "percentage": 5.78
+          "covered_pop": 637493,
+          "percentage": 17.64
         }
       ],
       "10": [
         {
-          "covered_pop": 396886,
-          "percentage": 16.19
+          "covered_pop": 2120358,
+          "percentage": 58.68
         }
       ],
       "15": [
         {
-          "covered_pop": 737165,
-          "percentage": 30.07
+          "covered_pop": 3269306,
+          "percentage": 90.48
         }
       ],
       "20": [
         {
-          "covered_pop": 1156233,
-          "percentage": 47.16
+          "covered_pop": 3586166,
+          "percentage": 99.25
         }
       ],
       "25": [
         {
-          "covered_pop": 1540462,
-          "percentage": 62.83
+          "covered_pop": 3607985,
+          "percentage": 99.85
         }
       ],
       "30": [
         {
-          "covered_pop": 1818622,
-          "percentage": 74.18
+          "covered_pop": 3612501,
+          "percentage": 99.97
         }
       ],
       "35": [
         {
-          "covered_pop": 1998635,
-          "percentage": 81.52
+          "covered_pop": 3613426,
+          "percentage": 100.0
         }
       ],
       "40": [
         {
-          "covered_pop": 2116842,
-          "percentage": 86.34
+          "covered_pop": 3613426,
+          "percentage": 100.0
         }
       ],
       "45": [
         {
-          "covered_pop": 2231667,
-          "percentage": 91.03
+          "covered_pop": 3613426,
+          "percentage": 100.0
         }
       ],
       "50": [
         {
-          "covered_pop": 2261081,
-          "percentage": 92.23
+          "covered_pop": 3613426,
+          "percentage": 100.0
         }
       ],
       "55": [
         {
-          "covered_pop": 2370218,
-          "percentage": 96.68
+          "covered_pop": 3613426,
+          "percentage": 100.0
         }
       ],
       "60": [
         {
-          "covered_pop": 2407280,
-          "percentage": 98.19
+          "covered_pop": 3613426,
+          "percentage": 100.0
         }
       ]
-    },
+    }
+  },
+  "Brandenburg": {
     "Hospitals with CT": {
       "5": [
         {
@@ -893,83 +819,83 @@
           "percentage": 92.88
         }
       ]
-    }
-  },
-  "Bremen": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 79718,
-          "percentage": 15.22
+          "covered_pop": 141724,
+          "percentage": 5.78
         }
       ],
       "10": [
         {
-          "covered_pop": 242766,
-          "percentage": 46.34
+          "covered_pop": 396886,
+          "percentage": 16.19
         }
       ],
       "15": [
         {
-          "covered_pop": 392303,
-          "percentage": 74.88
+          "covered_pop": 737165,
+          "percentage": 30.07
         }
       ],
       "20": [
         {
-          "covered_pop": 479302,
-          "percentage": 91.49
+          "covered_pop": 1156233,
+          "percentage": 47.16
         }
       ],
       "25": [
         {
-          "covered_pop": 504635,
-          "percentage": 96.32
+          "covered_pop": 1540462,
+          "percentage": 62.83
         }
       ],
       "30": [
         {
-          "covered_pop": 506866,
-          "percentage": 96.75
+          "covered_pop": 1818622,
+          "percentage": 74.18
         }
       ],
       "35": [
         {
-          "covered_pop": 523903,
-          "percentage": 100.0
+          "covered_pop": 1998635,
+          "percentage": 81.52
         }
       ],
       "40": [
         {
-          "covered_pop": 523903,
-          "percentage": 100.0
+          "covered_pop": 2116842,
+          "percentage": 86.34
         }
       ],
       "45": [
         {
-          "covered_pop": 523903,
-          "percentage": 100.0
+          "covered_pop": 2231667,
+          "percentage": 91.03
         }
       ],
       "50": [
         {
-          "covered_pop": 523903,
-          "percentage": 100.0
+          "covered_pop": 2261081,
+          "percentage": 92.23
         }
       ],
       "55": [
         {
-          "covered_pop": 523903,
-          "percentage": 100.0
+          "covered_pop": 2370218,
+          "percentage": 96.68
         }
       ],
       "60": [
         {
-          "covered_pop": 523903,
-          "percentage": 100.0
+          "covered_pop": 2407280,
+          "percentage": 98.19
         }
       ]
-    },
+    }
+  },
+  "Bremen": {
     "Hospitals with CT": {
       "5": [
         {
@@ -1117,83 +1043,83 @@
           "percentage": 100.0
         }
       ]
-    }
-  },
-  "Germany": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 7347460,
-          "percentage": 8.83
+          "covered_pop": 79718,
+          "percentage": 15.22
         }
       ],
       "10": [
         {
-          "covered_pop": 24276901,
-          "percentage": 29.18
+          "covered_pop": 242766,
+          "percentage": 46.34
         }
       ],
       "15": [
         {
-          "covered_pop": 42673811,
-          "percentage": 51.29
+          "covered_pop": 392303,
+          "percentage": 74.88
         }
       ],
       "20": [
         {
-          "covered_pop": 57877998,
-          "percentage": 69.57
+          "covered_pop": 479302,
+          "percentage": 91.49
         }
       ],
       "25": [
         {
-          "covered_pop": 68516807,
-          "percentage": 82.36
+          "covered_pop": 504635,
+          "percentage": 96.32
         }
       ],
       "30": [
         {
-          "covered_pop": 75051793,
-          "percentage": 90.21
+          "covered_pop": 506866,
+          "percentage": 96.75
         }
       ],
       "35": [
         {
-          "covered_pop": 78849232,
-          "percentage": 94.78
+          "covered_pop": 523903,
+          "percentage": 100.0
         }
       ],
       "40": [
         {
-          "covered_pop": 80867588,
-          "percentage": 97.2
+          "covered_pop": 523903,
+          "percentage": 100.0
         }
       ],
       "45": [
         {
-          "covered_pop": 82019212,
-          "percentage": 98.59
+          "covered_pop": 523903,
+          "percentage": 100.0
         }
       ],
       "50": [
         {
-          "covered_pop": 82619318,
-          "percentage": 99.31
+          "covered_pop": 523903,
+          "percentage": 100.0
         }
       ],
       "55": [
         {
-          "covered_pop": 82994990,
-          "percentage": 99.76
+          "covered_pop": 523903,
+          "percentage": 100.0
         }
       ],
       "60": [
         {
-          "covered_pop": 83183701,
-          "percentage": 99.99
+          "covered_pop": 523903,
+          "percentage": 100.0
         }
       ]
-    },
+    }
+  },
+  "Germany": {
     "Hospitals with CT": {
       "5": [
         {
@@ -1341,83 +1267,83 @@
           "percentage": 99.48
         }
       ]
-    }
-  },
-  "Hamburg": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 280910,
-          "percentage": 15.19
+          "covered_pop": 7347460,
+          "percentage": 8.83
         }
       ],
       "10": [
         {
-          "covered_pop": 1001353,
-          "percentage": 54.13
+          "covered_pop": 24276901,
+          "percentage": 29.18
         }
       ],
       "15": [
         {
-          "covered_pop": 1463335,
-          "percentage": 79.1
+          "covered_pop": 42673811,
+          "percentage": 51.29
         }
       ],
       "20": [
         {
-          "covered_pop": 1713787,
-          "percentage": 92.64
+          "covered_pop": 57877998,
+          "percentage": 69.57
         }
       ],
       "25": [
         {
-          "covered_pop": 1824769,
-          "percentage": 98.64
+          "covered_pop": 68516807,
+          "percentage": 82.36
         }
       ],
       "30": [
         {
-          "covered_pop": 1839591,
-          "percentage": 99.44
+          "covered_pop": 75051793,
+          "percentage": 90.21
         }
       ],
       "35": [
         {
-          "covered_pop": 1841313,
-          "percentage": 99.54
+          "covered_pop": 78849232,
+          "percentage": 94.78
         }
       ],
       "40": [
         {
-          "covered_pop": 1841356,
-          "percentage": 99.54
+          "covered_pop": 80867588,
+          "percentage": 97.2
         }
       ],
       "45": [
         {
-          "covered_pop": 1841397,
-          "percentage": 99.54
+          "covered_pop": 82019212,
+          "percentage": 98.59
         }
       ],
       "50": [
         {
-          "covered_pop": 1841399,
-          "percentage": 99.54
+          "covered_pop": 82619318,
+          "percentage": 99.31
         }
       ],
       "55": [
         {
-          "covered_pop": 1841261,
-          "percentage": 99.53
+          "covered_pop": 82994990,
+          "percentage": 99.76
         }
       ],
       "60": [
         {
-          "covered_pop": 1841354,
-          "percentage": 99.54
+          "covered_pop": 83183701,
+          "percentage": 99.99
         }
       ]
-    },
+    }
+  },
+  "Hamburg": {
     "Hospitals with CT": {
       "5": [
         {
@@ -1565,83 +1491,83 @@
           "percentage": 99.54
         }
       ]
-    }
-  },
-  "Hessen": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 581349,
-          "percentage": 9.3
+          "covered_pop": 280910,
+          "percentage": 15.19
         }
       ],
       "10": [
         {
-          "covered_pop": 2021417,
-          "percentage": 32.32
+          "covered_pop": 1001353,
+          "percentage": 54.13
         }
       ],
       "15": [
         {
-          "covered_pop": 3593327,
-          "percentage": 57.45
+          "covered_pop": 1463335,
+          "percentage": 79.1
         }
       ],
       "20": [
         {
-          "covered_pop": 4603230,
-          "percentage": 73.6
+          "covered_pop": 1713787,
+          "percentage": 92.64
         }
       ],
       "25": [
         {
-          "covered_pop": 5315737,
-          "percentage": 84.99
+          "covered_pop": 1824769,
+          "percentage": 98.64
         }
       ],
       "30": [
         {
-          "covered_pop": 5747792,
-          "percentage": 91.9
+          "covered_pop": 1839591,
+          "percentage": 99.44
         }
       ],
       "35": [
         {
-          "covered_pop": 6013571,
-          "percentage": 96.15
+          "covered_pop": 1841313,
+          "percentage": 99.54
         }
       ],
       "40": [
         {
-          "covered_pop": 6138335,
-          "percentage": 98.14
+          "covered_pop": 1841356,
+          "percentage": 99.54
         }
       ],
       "45": [
         {
-          "covered_pop": 6191870,
-          "percentage": 99.0
+          "covered_pop": 1841397,
+          "percentage": 99.54
         }
       ],
       "50": [
         {
-          "covered_pop": 6239892,
-          "percentage": 99.77
+          "covered_pop": 1841399,
+          "percentage": 99.54
         }
       ],
       "55": [
         {
-          "covered_pop": 6250347,
-          "percentage": 99.94
+          "covered_pop": 1841261,
+          "percentage": 99.53
         }
       ],
       "60": [
         {
-          "covered_pop": 6253805,
-          "percentage": 99.99
+          "covered_pop": 1841354,
+          "percentage": 99.54
         }
       ]
-    },
+    }
+  },
+  "Hessen": {
     "Hospitals with CT": {
       "5": [
         {
@@ -1789,83 +1715,83 @@
           "percentage": 99.91
         }
       ]
-    }
-  },
-  "Mecklenburg-Vorpommern": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 115365,
-          "percentage": 7.83
+          "covered_pop": 581349,
+          "percentage": 9.3
         }
       ],
       "10": [
         {
-          "covered_pop": 290905,
-          "percentage": 19.74
+          "covered_pop": 2021417,
+          "percentage": 32.32
         }
       ],
       "15": [
         {
-          "covered_pop": 440679,
-          "percentage": 29.91
+          "covered_pop": 3593327,
+          "percentage": 57.45
         }
       ],
       "20": [
         {
-          "covered_pop": 580334,
-          "percentage": 39.39
+          "covered_pop": 4603230,
+          "percentage": 73.6
         }
       ],
       "25": [
         {
-          "covered_pop": 756866,
-          "percentage": 51.37
+          "covered_pop": 5315737,
+          "percentage": 84.99
         }
       ],
       "30": [
         {
-          "covered_pop": 889394,
-          "percentage": 60.37
+          "covered_pop": 5747792,
+          "percentage": 91.9
         }
       ],
       "35": [
         {
-          "covered_pop": 1028105,
-          "percentage": 69.78
+          "covered_pop": 6013571,
+          "percentage": 96.15
         }
       ],
       "40": [
         {
-          "covered_pop": 1149647,
-          "percentage": 78.03
+          "covered_pop": 6138335,
+          "percentage": 98.14
         }
       ],
       "45": [
         {
-          "covered_pop": 1245758,
-          "percentage": 84.55
+          "covered_pop": 6191870,
+          "percentage": 99.0
         }
       ],
       "50": [
         {
-          "covered_pop": 1311215,
-          "percentage": 89.0
+          "covered_pop": 6239892,
+          "percentage": 99.77
         }
       ],
       "55": [
         {
-          "covered_pop": 1376007,
-          "percentage": 93.39
+          "covered_pop": 6250347,
+          "percentage": 99.94
         }
       ],
       "60": [
         {
-          "covered_pop": 1423547,
-          "percentage": 96.62
+          "covered_pop": 6253805,
+          "percentage": 99.99
         }
       ]
-    },
+    }
+  },
+  "Mecklenburg-Vorpommern": {
     "Hospitals with CT": {
       "5": [
         {
@@ -2013,83 +1939,83 @@
           "percentage": 96.14
         }
       ]
-    }
-  },
-  "Niedersachsen": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 569540,
-          "percentage": 7.06
+          "covered_pop": 115365,
+          "percentage": 7.83
         }
       ],
       "10": [
         {
-          "covered_pop": 1726515,
-          "percentage": 21.41
+          "covered_pop": 290905,
+          "percentage": 19.74
         }
       ],
       "15": [
         {
-          "covered_pop": 3058069,
-          "percentage": 37.92
+          "covered_pop": 440679,
+          "percentage": 29.91
         }
       ],
       "20": [
         {
-          "covered_pop": 4505790,
-          "percentage": 55.87
+          "covered_pop": 580334,
+          "percentage": 39.39
         }
       ],
       "25": [
         {
-          "covered_pop": 5794260,
-          "percentage": 71.84
+          "covered_pop": 756866,
+          "percentage": 51.37
         }
       ],
       "30": [
         {
-          "covered_pop": 6765254,
-          "percentage": 83.88
+          "covered_pop": 889394,
+          "percentage": 60.37
         }
       ],
       "35": [
         {
-          "covered_pop": 7321085,
-          "percentage": 90.77
+          "covered_pop": 1028105,
+          "percentage": 69.78
         }
       ],
       "40": [
         {
-          "covered_pop": 7675269,
-          "percentage": 95.17
+          "covered_pop": 1149647,
+          "percentage": 78.03
         }
       ],
       "45": [
         {
-          "covered_pop": 7886546,
-          "percentage": 97.79
+          "covered_pop": 1245758,
+          "percentage": 84.55
         }
       ],
       "50": [
         {
-          "covered_pop": 7998258,
-          "percentage": 99.17
+          "covered_pop": 1311215,
+          "percentage": 89.0
         }
       ],
       "55": [
         {
-          "covered_pop": 8025171,
-          "percentage": 99.5
+          "covered_pop": 1376007,
+          "percentage": 93.39
         }
       ],
       "60": [
         {
-          "covered_pop": 8034863,
-          "percentage": 99.62
+          "covered_pop": 1423547,
+          "percentage": 96.62
         }
       ]
-    },
+    }
+  },
+  "Niedersachsen": {
     "Hospitals with CT": {
       "5": [
         {
@@ -2237,83 +2163,83 @@
           "percentage": 99.45
         }
       ]
-    }
-  },
-  "Nordrhein-Westfalen": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 1820387,
-          "percentage": 9.9
+          "covered_pop": 569540,
+          "percentage": 7.06
         }
       ],
       "10": [
         {
-          "covered_pop": 6464798,
-          "percentage": 35.17
+          "covered_pop": 1726515,
+          "percentage": 21.41
         }
       ],
       "15": [
         {
-          "covered_pop": 11394645,
-          "percentage": 61.99
+          "covered_pop": 3058069,
+          "percentage": 37.92
         }
       ],
       "20": [
         {
-          "covered_pop": 14870859,
-          "percentage": 80.9
+          "covered_pop": 4505790,
+          "percentage": 55.87
         }
       ],
       "25": [
         {
-          "covered_pop": 16851721,
-          "percentage": 91.68
+          "covered_pop": 5794260,
+          "percentage": 71.84
         }
       ],
       "30": [
         {
-          "covered_pop": 17617364,
-          "percentage": 95.84
+          "covered_pop": 6765254,
+          "percentage": 83.88
         }
       ],
       "35": [
         {
-          "covered_pop": 17958886,
-          "percentage": 97.7
+          "covered_pop": 7321085,
+          "percentage": 90.77
         }
       ],
       "40": [
         {
-          "covered_pop": 18113086,
-          "percentage": 98.54
+          "covered_pop": 7675269,
+          "percentage": 95.17
         }
       ],
       "45": [
         {
-          "covered_pop": 18234611,
-          "percentage": 99.2
+          "covered_pop": 7886546,
+          "percentage": 97.79
         }
       ],
       "50": [
         {
-          "covered_pop": 18295760,
-          "percentage": 99.53
+          "covered_pop": 7998258,
+          "percentage": 99.17
         }
       ],
       "55": [
         {
-          "covered_pop": 18337035,
-          "percentage": 99.76
+          "covered_pop": 8025171,
+          "percentage": 99.5
         }
       ],
       "60": [
         {
-          "covered_pop": 18358489,
-          "percentage": 99.88
+          "covered_pop": 8034863,
+          "percentage": 99.62
         }
       ]
-    },
+    }
+  },
+  "Nordrhein-Westfalen": {
     "Hospitals with CT": {
       "5": [
         {
@@ -2461,83 +2387,83 @@
           "percentage": 99.86
         }
       ]
-    }
-  },
-  "Rheinland-Pfalz": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 338818,
-          "percentage": 8.13
+          "covered_pop": 1820387,
+          "percentage": 9.9
         }
       ],
       "10": [
         {
-          "covered_pop": 1036142,
-          "percentage": 24.88
+          "covered_pop": 6464798,
+          "percentage": 35.17
         }
       ],
       "15": [
         {
-          "covered_pop": 1892300,
-          "percentage": 45.43
+          "covered_pop": 11394645,
+          "percentage": 61.99
         }
       ],
       "20": [
         {
-          "covered_pop": 2752173,
-          "percentage": 66.07
+          "covered_pop": 14870859,
+          "percentage": 80.9
         }
       ],
       "25": [
         {
-          "covered_pop": 3280216,
-          "percentage": 78.75
+          "covered_pop": 16851721,
+          "percentage": 91.68
         }
       ],
       "30": [
         {
-          "covered_pop": 3661129,
-          "percentage": 87.9
+          "covered_pop": 17617364,
+          "percentage": 95.84
         }
       ],
       "35": [
         {
-          "covered_pop": 3880141,
-          "percentage": 93.15
+          "covered_pop": 17958886,
+          "percentage": 97.7
         }
       ],
       "40": [
         {
-          "covered_pop": 4008201,
-          "percentage": 96.23
+          "covered_pop": 18113086,
+          "percentage": 98.54
         }
       ],
       "45": [
         {
-          "covered_pop": 4092961,
-          "percentage": 98.26
+          "covered_pop": 18234611,
+          "percentage": 99.2
         }
       ],
       "50": [
         {
-          "covered_pop": 4139506,
-          "percentage": 99.38
+          "covered_pop": 18295760,
+          "percentage": 99.53
         }
       ],
       "55": [
         {
-          "covered_pop": 4157810,
-          "percentage": 99.82
+          "covered_pop": 18337035,
+          "percentage": 99.76
         }
       ],
       "60": [
         {
-          "covered_pop": 4162278,
-          "percentage": 99.93
+          "covered_pop": 18358489,
+          "percentage": 99.88
         }
       ]
-    },
+    }
+  },
+  "Rheinland-Pfalz": {
     "Hospitals with CT": {
       "5": [
         {
@@ -2685,83 +2611,83 @@
           "percentage": 99.92
         }
       ]
-    }
-  },
-  "Saarland": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 96010,
-          "percentage": 9.85
+          "covered_pop": 338818,
+          "percentage": 8.13
         }
       ],
       "10": [
         {
-          "covered_pop": 345634,
-          "percentage": 35.46
+          "covered_pop": 1036142,
+          "percentage": 24.88
         }
       ],
       "15": [
         {
-          "covered_pop": 663054,
-          "percentage": 68.03
+          "covered_pop": 1892300,
+          "percentage": 45.43
         }
       ],
       "20": [
         {
-          "covered_pop": 817775,
-          "percentage": 83.9
+          "covered_pop": 2752173,
+          "percentage": 66.07
         }
       ],
       "25": [
         {
-          "covered_pop": 892588,
-          "percentage": 91.58
+          "covered_pop": 3280216,
+          "percentage": 78.75
         }
       ],
       "30": [
         {
-          "covered_pop": 937085,
-          "percentage": 96.15
+          "covered_pop": 3661129,
+          "percentage": 87.9
         }
       ],
       "35": [
         {
-          "covered_pop": 964959,
-          "percentage": 99.01
+          "covered_pop": 3880141,
+          "percentage": 93.15
         }
       ],
       "40": [
         {
-          "covered_pop": 972761,
-          "percentage": 99.81
+          "covered_pop": 4008201,
+          "percentage": 96.23
         }
       ],
       "45": [
         {
-          "covered_pop": 972948,
-          "percentage": 99.83
+          "covered_pop": 4092961,
+          "percentage": 98.26
         }
       ],
       "50": [
         {
-          "covered_pop": 972948,
-          "percentage": 99.83
+          "covered_pop": 4139506,
+          "percentage": 99.38
         }
       ],
       "55": [
         {
-          "covered_pop": 972969,
-          "percentage": 99.83
+          "covered_pop": 4157810,
+          "percentage": 99.82
         }
       ],
       "60": [
         {
-          "covered_pop": 973026,
-          "percentage": 99.83
+          "covered_pop": 4162278,
+          "percentage": 99.93
         }
       ]
-    },
+    }
+  },
+  "Saarland": {
     "Hospitals with CT": {
       "5": [
         {
@@ -2909,83 +2835,83 @@
           "percentage": 99.83
         }
       ]
-    }
-  },
-  "Sachsen": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 294506,
-          "percentage": 7.15
+          "covered_pop": 96010,
+          "percentage": 9.85
         }
       ],
       "10": [
         {
-          "covered_pop": 1021366,
-          "percentage": 24.8
+          "covered_pop": 345634,
+          "percentage": 35.46
         }
       ],
       "15": [
         {
-          "covered_pop": 1819784,
-          "percentage": 44.19
+          "covered_pop": 663054,
+          "percentage": 68.03
         }
       ],
       "20": [
         {
-          "covered_pop": 2576840,
-          "percentage": 62.57
+          "covered_pop": 817775,
+          "percentage": 83.9
         }
       ],
       "25": [
         {
-          "covered_pop": 3096419,
-          "percentage": 75.18
+          "covered_pop": 892588,
+          "percentage": 91.58
         }
       ],
       "30": [
         {
-          "covered_pop": 3427441,
-          "percentage": 83.22
+          "covered_pop": 937085,
+          "percentage": 96.15
         }
       ],
       "35": [
         {
-          "covered_pop": 3690031,
-          "percentage": 89.6
+          "covered_pop": 964959,
+          "percentage": 99.01
         }
       ],
       "40": [
         {
-          "covered_pop": 3856803,
-          "percentage": 93.65
+          "covered_pop": 972761,
+          "percentage": 99.81
         }
       ],
       "45": [
         {
-          "covered_pop": 3961437,
-          "percentage": 96.19
+          "covered_pop": 972948,
+          "percentage": 99.83
         }
       ],
       "50": [
         {
-          "covered_pop": 4050330,
-          "percentage": 98.34
+          "covered_pop": 972948,
+          "percentage": 99.83
         }
       ],
       "55": [
         {
-          "covered_pop": 4095184,
-          "percentage": 99.43
+          "covered_pop": 972969,
+          "percentage": 99.83
         }
       ],
       "60": [
         {
-          "covered_pop": 4112355,
-          "percentage": 99.85
+          "covered_pop": 973026,
+          "percentage": 99.83
         }
       ]
-    },
+    }
+  },
+  "Sachsen": {
     "Hospitals with CT": {
       "5": [
         {
@@ -3133,83 +3059,83 @@
           "percentage": 99.52
         }
       ]
-    }
-  },
-  "Sachsen-Anhalt": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 194111,
-          "percentage": 9.23
+          "covered_pop": 294506,
+          "percentage": 7.15
         }
       ],
       "10": [
         {
-          "covered_pop": 592874,
-          "percentage": 28.19
+          "covered_pop": 1021366,
+          "percentage": 24.8
         }
       ],
       "15": [
         {
-          "covered_pop": 867645,
-          "percentage": 41.25
+          "covered_pop": 1819784,
+          "percentage": 44.19
         }
       ],
       "20": [
         {
-          "covered_pop": 1107708,
-          "percentage": 52.67
+          "covered_pop": 2576840,
+          "percentage": 62.57
         }
       ],
       "25": [
         {
-          "covered_pop": 1353373,
-          "percentage": 64.35
+          "covered_pop": 3096419,
+          "percentage": 75.18
         }
       ],
       "30": [
         {
-          "covered_pop": 1601866,
-          "percentage": 76.16
+          "covered_pop": 3427441,
+          "percentage": 83.22
         }
       ],
       "35": [
         {
-          "covered_pop": 1796595,
-          "percentage": 85.42
+          "covered_pop": 3690031,
+          "percentage": 89.6
         }
       ],
       "40": [
         {
-          "covered_pop": 1905710,
-          "percentage": 90.61
+          "covered_pop": 3856803,
+          "percentage": 93.65
         }
       ],
       "45": [
         {
-          "covered_pop": 1957085,
-          "percentage": 93.05
+          "covered_pop": 3961437,
+          "percentage": 96.19
         }
       ],
       "50": [
         {
-          "covered_pop": 1997711,
-          "percentage": 94.98
+          "covered_pop": 4050330,
+          "percentage": 98.34
         }
       ],
       "55": [
         {
-          "covered_pop": 2061690,
-          "percentage": 98.03
+          "covered_pop": 4095184,
+          "percentage": 99.43
         }
       ],
       "60": [
         {
-          "covered_pop": 2086884,
-          "percentage": 99.22
+          "covered_pop": 4112355,
+          "percentage": 99.85
         }
       ]
-    },
+    }
+  },
+  "Sachsen-Anhalt": {
     "Hospitals with CT": {
       "5": [
         {
@@ -3357,83 +3283,83 @@
           "percentage": 93.57
         }
       ]
-    }
-  },
-  "Schleswig-Holstein": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 240705,
-          "percentage": 8.69
+          "covered_pop": 194111,
+          "percentage": 9.23
         }
       ],
       "10": [
         {
-          "covered_pop": 633150,
-          "percentage": 22.85
+          "covered_pop": 592874,
+          "percentage": 28.19
         }
       ],
       "15": [
         {
-          "covered_pop": 1060314,
-          "percentage": 38.26
+          "covered_pop": 867645,
+          "percentage": 41.25
         }
       ],
       "20": [
         {
-          "covered_pop": 1589598,
-          "percentage": 57.36
+          "covered_pop": 1107708,
+          "percentage": 52.67
         }
       ],
       "25": [
         {
-          "covered_pop": 2100979,
-          "percentage": 75.82
+          "covered_pop": 1353373,
+          "percentage": 64.35
         }
       ],
       "30": [
         {
-          "covered_pop": 2403947,
-          "percentage": 86.75
+          "covered_pop": 1601866,
+          "percentage": 76.16
         }
       ],
       "35": [
         {
-          "covered_pop": 2551496,
-          "percentage": 92.07
+          "covered_pop": 1796595,
+          "percentage": 85.42
         }
       ],
       "40": [
         {
-          "covered_pop": 2650304,
-          "percentage": 95.64
+          "covered_pop": 1905710,
+          "percentage": 90.61
         }
       ],
       "45": [
         {
-          "covered_pop": 2702717,
-          "percentage": 97.53
+          "covered_pop": 1957085,
+          "percentage": 93.05
         }
       ],
       "50": [
         {
-          "covered_pop": 2723620,
-          "percentage": 98.29
+          "covered_pop": 1997711,
+          "percentage": 94.98
         }
       ],
       "55": [
         {
-          "covered_pop": 2727131,
-          "percentage": 98.41
+          "covered_pop": 2061690,
+          "percentage": 98.03
         }
       ],
       "60": [
         {
-          "covered_pop": 2732026,
-          "percentage": 98.59
+          "covered_pop": 2086884,
+          "percentage": 99.22
         }
       ]
-    },
+    }
+  },
+  "Schleswig-Holstein": {
     "Hospitals with CT": {
       "5": [
         {
@@ -3581,83 +3507,83 @@
           "percentage": 98.59
         }
       ]
-    }
-  },
-  "Thüringen": {
-    "Extended Stroke Hospitals": {
+    },
+    "Stroke-Ready Hospitals": {
       "5": [
         {
-          "covered_pop": 135963,
-          "percentage": 6.7
+          "covered_pop": 240705,
+          "percentage": 8.69
         }
       ],
       "10": [
         {
-          "covered_pop": 471325,
-          "percentage": 23.22
+          "covered_pop": 633150,
+          "percentage": 22.85
         }
       ],
       "15": [
         {
-          "covered_pop": 847157,
-          "percentage": 41.73
+          "covered_pop": 1060314,
+          "percentage": 38.26
         }
       ],
       "20": [
         {
-          "covered_pop": 1188479,
-          "percentage": 58.54
+          "covered_pop": 1589598,
+          "percentage": 57.36
         }
       ],
       "25": [
         {
-          "covered_pop": 1469945,
-          "percentage": 72.4
+          "covered_pop": 2100979,
+          "percentage": 75.82
         }
       ],
       "30": [
         {
-          "covered_pop": 1705910,
-          "percentage": 84.03
+          "covered_pop": 2403947,
+          "percentage": 86.75
         }
       ],
       "35": [
         {
-          "covered_pop": 1878980,
-          "percentage": 92.55
+          "covered_pop": 2551496,
+          "percentage": 92.07
         }
       ],
       "40": [
         {
-          "covered_pop": 1991633,
-          "percentage": 98.1
+          "covered_pop": 2650304,
+          "percentage": 95.64
         }
       ],
       "45": [
         {
-          "covered_pop": 2025778,
-          "percentage": 99.78
+          "covered_pop": 2702717,
+          "percentage": 97.53
         }
       ],
       "50": [
         {
-          "covered_pop": 2030012,
-          "percentage": 99.99
+          "covered_pop": 2723620,
+          "percentage": 98.29
         }
       ],
       "55": [
         {
-          "covered_pop": 2030174,
-          "percentage": 100.0
+          "covered_pop": 2727131,
+          "percentage": 98.41
         }
       ],
       "60": [
         {
-          "covered_pop": 2030174,
-          "percentage": 100.0
+          "covered_pop": 2732026,
+          "percentage": 98.59
         }
       ]
-    },
+    }
+  },
+  "Thüringen": {
     "Hospitals with CT": {
       "5": [
         {
@@ -3802,6 +3728,80 @@
       "60": [
         {
           "covered_pop": 2030160,
+          "percentage": 100.0
+        }
+      ]
+    },
+    "Stroke-Ready Hospitals": {
+      "5": [
+        {
+          "covered_pop": 135963,
+          "percentage": 6.7
+        }
+      ],
+      "10": [
+        {
+          "covered_pop": 471325,
+          "percentage": 23.22
+        }
+      ],
+      "15": [
+        {
+          "covered_pop": 847157,
+          "percentage": 41.73
+        }
+      ],
+      "20": [
+        {
+          "covered_pop": 1188479,
+          "percentage": 58.54
+        }
+      ],
+      "25": [
+        {
+          "covered_pop": 1469945,
+          "percentage": 72.4
+        }
+      ],
+      "30": [
+        {
+          "covered_pop": 1705910,
+          "percentage": 84.03
+        }
+      ],
+      "35": [
+        {
+          "covered_pop": 1878980,
+          "percentage": 92.55
+        }
+      ],
+      "40": [
+        {
+          "covered_pop": 1991633,
+          "percentage": 98.1
+        }
+      ],
+      "45": [
+        {
+          "covered_pop": 2025778,
+          "percentage": 99.78
+        }
+      ],
+      "50": [
+        {
+          "covered_pop": 2030012,
+          "percentage": 99.99
+        }
+      ],
+      "55": [
+        {
+          "covered_pop": 2030174,
+          "percentage": 100.0
+        }
+      ],
+      "60": [
+        {
+          "covered_pop": 2030174,
           "percentage": 100.0
         }
       ]

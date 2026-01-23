@@ -1,0 +1,1234 @@
+{
+  "Rheinland-Pfalz": {
+    "Kreisfreie Stadt Worms": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Worms_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Mainz": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Mainz_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Zweibrücken": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Zweibrücken_Normal_Speed.png"
+    },
+    "Landkreis Bernkastel-Wittlich": {
+      "benefit_image": "Benefit_Landkreis_Bernkastel-Wittlich_Normal_Speed.png"
+    },
+    "Landkreis Mayen-Koblenz": {
+      "benefit_image": "Benefit_Landkreis_Mayen-Koblenz_Normal_Speed.png"
+    },
+    "Landkreis Birkenfeld": {
+      "benefit_image": "Benefit_Landkreis_Birkenfeld_Normal_Speed.png"
+    },
+    "Landkreis Südliche Weinstraße": {
+      "benefit_image": "Benefit_Landkreis_Südliche_Weinstraße_Normal_Speed.png"
+    },
+    "Landkreis Südwestpfalz": {
+      "benefit_image": "Benefit_Landkreis_Südwestpfalz_Normal_Speed.png"
+    },
+    "Landkreis Eifelkreis Bitburg-Prüm": {
+      "benefit_image": "Benefit_Landkreis_Eifelkreis_Bitburg-Prüm_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Frankenthal (Pfalz)": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Frankenthal_(Pfalz)_Normal_Speed.png"
+    },
+    "Landkreis Mainz-Bingen": {
+      "benefit_image": "Benefit_Landkreis_Mainz-Bingen_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Pirmasens": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Pirmasens_Normal_Speed.png"
+    },
+    "Landkreis Westerwaldkreis": {
+      "benefit_image": "Benefit_Landkreis_Westerwaldkreis_Normal_Speed.png"
+    },
+    "Landkreis Trier-Saarburg": {
+      "benefit_image": "Benefit_Landkreis_Trier-Saarburg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Landau in der Pfalz": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Landau_in_der_Pfalz_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Neustadt an der Weinstraße": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Neustadt_an_der_Weinstraße_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Ludwigshafen am Rhein": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Ludwigshafen_am_Rhein_Normal_Speed.png"
+    },
+    "Landkreis Vulkaneifel": {
+      "benefit_image": "Benefit_Landkreis_Vulkaneifel_Normal_Speed.png"
+    },
+    "Landkreis Germersheim": {
+      "benefit_image": "Benefit_Landkreis_Germersheim_Normal_Speed.png"
+    },
+    "Landkreis Alzey-Worms": {
+      "benefit_image": "Benefit_Landkreis_Alzey-Worms_Normal_Speed.png"
+    },
+    "Landkreis Donnersbergkreis": {
+      "benefit_image": "Benefit_Landkreis_Donnersbergkreis_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Kaiserslautern": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Kaiserslautern_Normal_Speed.png"
+    },
+    "Landkreis Altenkirchen (Westerwald)": {
+      "benefit_image": "Benefit_Landkreis_Altenkirchen_(Westerwald)_Normal_Speed.png"
+    },
+    "Landkreis Bad Kreuznach": {
+      "benefit_image": "Benefit_Landkreis_Bad_Kreuznach_Normal_Speed.png"
+    },
+    "Landkreis Neuwied": {
+      "benefit_image": "Benefit_Landkreis_Neuwied_Normal_Speed.png"
+    },
+    "Landkreis Kaiserslautern": {
+      "benefit_image": "Benefit_Landkreis_Kaiserslautern_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Koblenz": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Koblenz_Normal_Speed.png"
+    },
+    "Landkreis Kusel": {
+      "benefit_image": "Benefit_Landkreis_Kusel_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Speyer": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Speyer_Normal_Speed.png"
+    },
+    "Landkreis Ahrweiler": {
+      "benefit_image": "Benefit_Landkreis_Ahrweiler_Normal_Speed.png"
+    },
+    "Landkreis Rhein-Hunsrück-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Rhein-Hunsrück-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Rhein-Pfalz-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Rhein-Pfalz-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Cochem-Zell": {
+      "benefit_image": "Benefit_Landkreis_Cochem-Zell_Normal_Speed.png"
+    },
+    "Landkreis Rhein-Lahn-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Rhein-Lahn-Kreis_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Trier": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Trier_Normal_Speed.png"
+    },
+    "Landkreis Bad Dürkheim": {
+      "benefit_image": "Benefit_Landkreis_Bad_Dürkheim_Normal_Speed.png"
+    }
+  },
+  "Sachsen": {
+    "Kreisfreie Stadt Dresden": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Dresden_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Leipzig": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Leipzig_Normal_Speed.png"
+    },
+    "Landkreis Bautzen": {
+      "benefit_image": "Benefit_Landkreis_Bautzen_Normal_Speed.png"
+    },
+    "Landkreis Meißen": {
+      "benefit_image": "Benefit_Landkreis_Meißen_Normal_Speed.png"
+    },
+    "Landkreis Erzgebirgskreis": {
+      "benefit_image": "Benefit_Landkreis_Erzgebirgskreis_Normal_Speed.png"
+    },
+    "Landkreis Sächsische Schweiz-Osterzgebirge": {
+      "benefit_image": "Benefit_Landkreis_Sächsische_Schweiz-Osterzgebirge_Normal_Speed.png"
+    },
+    "Landkreis Vogtlandkreis": {
+      "benefit_image": "Benefit_Landkreis_Vogtlandkreis_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Chemnitz": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Chemnitz_Normal_Speed.png"
+    },
+    "Landkreis Nordsachsen": {
+      "benefit_image": "Benefit_Landkreis_Nordsachsen_Normal_Speed.png"
+    },
+    "Landkreis Görlitz": {
+      "benefit_image": "Benefit_Landkreis_Görlitz_Normal_Speed.png"
+    },
+    "Landkreis Zwickau": {
+      "benefit_image": "Benefit_Landkreis_Zwickau_Normal_Speed.png"
+    },
+    "Landkreis Leipzig": {
+      "benefit_image": "Benefit_Landkreis_Leipzig_Normal_Speed.png"
+    },
+    "Landkreis Mittelsachsen": {
+      "benefit_image": "Benefit_Landkreis_Mittelsachsen_Normal_Speed.png"
+    }
+  },
+  "Thüringen": {
+    "Landkreis Saalfeld-Rudolstadt": {
+      "benefit_image": "Benefit_Landkreis_Saalfeld-Rudolstadt_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Erfurt": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Erfurt_Normal_Speed.png"
+    },
+    "Landkreis Kyffhäuserkreis": {
+      "benefit_image": "Benefit_Landkreis_Kyffhäuserkreis_Normal_Speed.png"
+    },
+    "Landkreis Saale-Orla-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Saale-Orla-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Altenburger Land": {
+      "benefit_image": "Benefit_Landkreis_Altenburger_Land_Normal_Speed.png"
+    },
+    "Landkreis Weimarer Land": {
+      "benefit_image": "Benefit_Landkreis_Weimarer_Land_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Weimar": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Weimar_Normal_Speed.png"
+    },
+    "Landkreis Nordhausen": {
+      "benefit_image": "Benefit_Landkreis_Nordhausen_Normal_Speed.png"
+    },
+    "Landkreis Schmalkalden-Meiningen": {
+      "benefit_image": "Benefit_Landkreis_Schmalkalden-Meiningen_Normal_Speed.png"
+    },
+    "Landkreis Unstrut-Hainich-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Unstrut-Hainich-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Saale-Holzland-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Saale-Holzland-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Wartburgkreis": {
+      "benefit_image": "Benefit_Landkreis_Wartburgkreis_Normal_Speed.png"
+    },
+    "Landkreis Eichsfeld": {
+      "benefit_image": "Benefit_Landkreis_Eichsfeld_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Gera": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Gera_Normal_Speed.png"
+    },
+    "Landkreis Sonneberg": {
+      "benefit_image": "Benefit_Landkreis_Sonneberg_Normal_Speed.png"
+    },
+    "Landkreis Sömmerda": {
+      "benefit_image": "Benefit_Landkreis_Sömmerda_Normal_Speed.png"
+    },
+    "Landkreis Hildburghausen": {
+      "benefit_image": "Benefit_Landkreis_Hildburghausen_Normal_Speed.png"
+    },
+    "Landkreis Ilm-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Ilm-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Gotha": {
+      "benefit_image": "Benefit_Landkreis_Gotha_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Suhl": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Suhl_Normal_Speed.png"
+    },
+    "Landkreis Greiz": {
+      "benefit_image": "Benefit_Landkreis_Greiz_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Jena": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Jena_Normal_Speed.png"
+    }
+  },
+  "Hessen": {
+    "Kreisfreie Stadt Offenbach am Main": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Offenbach_am_Main_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Darmstadt": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Darmstadt_Normal_Speed.png"
+    },
+    "Landkreis Lahn-Dill-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Lahn-Dill-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Wetteraukreis": {
+      "benefit_image": "Benefit_Landkreis_Wetteraukreis_Normal_Speed.png"
+    },
+    "Landkreis Limburg-Weilburg": {
+      "benefit_image": "Benefit_Landkreis_Limburg-Weilburg_Normal_Speed.png"
+    },
+    "Landkreis Main-Kinzig-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Main-Kinzig-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Waldeck-Frankenberg": {
+      "benefit_image": "Benefit_Landkreis_Waldeck-Frankenberg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Frankfurt am Main": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Frankfurt_am_Main_Normal_Speed.png"
+    },
+    "Landkreis Odenwaldkreis": {
+      "benefit_image": "Benefit_Landkreis_Odenwaldkreis_Normal_Speed.png"
+    },
+    "Landkreis Vogelsbergkreis": {
+      "benefit_image": "Benefit_Landkreis_Vogelsbergkreis_Normal_Speed.png"
+    },
+    "Landkreis Main-Taunus-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Main-Taunus-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Rheingau-Taunus-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Rheingau-Taunus-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Bergstraße": {
+      "benefit_image": "Benefit_Landkreis_Bergstraße_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Kassel": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Kassel_Normal_Speed.png"
+    },
+    "Landkreis Hersfeld-Rotenburg": {
+      "benefit_image": "Benefit_Landkreis_Hersfeld-Rotenburg_Normal_Speed.png"
+    },
+    "Landkreis Marburg-Biedenkopf": {
+      "benefit_image": "Benefit_Landkreis_Marburg-Biedenkopf_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Wiesbaden": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Wiesbaden_Normal_Speed.png"
+    },
+    "Landkreis Offenbach": {
+      "benefit_image": "Benefit_Landkreis_Offenbach_Normal_Speed.png"
+    },
+    "Landkreis Kassel": {
+      "benefit_image": "Benefit_Landkreis_Kassel_Normal_Speed.png"
+    },
+    "Landkreis Groß-Gerau": {
+      "benefit_image": "Benefit_Landkreis_Groß-Gerau_Normal_Speed.png"
+    },
+    "Landkreis Werra-Meißner-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Werra-Meißner-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Darmstadt-Dieburg": {
+      "benefit_image": "Benefit_Landkreis_Darmstadt-Dieburg_Normal_Speed.png"
+    },
+    "Landkreis Fulda": {
+      "benefit_image": "Benefit_Landkreis_Fulda_Normal_Speed.png"
+    },
+    "Landkreis Schwalm-Eder-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Schwalm-Eder-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Gießen": {
+      "benefit_image": "Benefit_Landkreis_Gießen_Normal_Speed.png"
+    },
+    "Landkreis Hochtaunuskreis": {
+      "benefit_image": "Benefit_Landkreis_Hochtaunuskreis_Normal_Speed.png"
+    }
+  },
+  "Saarland": {
+    "Landkreis Saarpfalz-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Saarpfalz-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Neunkirchen": {
+      "benefit_image": "Benefit_Landkreis_Neunkirchen_Normal_Speed.png"
+    },
+    "Landkreis Regionalverband Saarbrücken": {
+      "benefit_image": "Benefit_Landkreis_Regionalverband_Saarbrücken_Normal_Speed.png"
+    },
+    "Landkreis Merzig-Wadern": {
+      "benefit_image": "Benefit_Landkreis_Merzig-Wadern_Normal_Speed.png"
+    },
+    "Landkreis St. Wendel": {
+      "benefit_image": "Benefit_Landkreis_St._Wendel_Normal_Speed.png"
+    },
+    "Landkreis Saarlouis": {
+      "benefit_image": "Benefit_Landkreis_Saarlouis_Normal_Speed.png"
+    }
+  },
+  "Niedersachsen": {
+    "Landkreis Vechta": {
+      "benefit_image": "Benefit_Landkreis_Vechta_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Wolfsburg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Wolfsburg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Braunschweig": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Braunschweig_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Oldenburg (Oldb)": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Oldenburg_(Oldb)_Normal_Speed.png"
+    },
+    "Landkreis Wolfenbüttel": {
+      "benefit_image": "Benefit_Landkreis_Wolfenbüttel_Normal_Speed.png"
+    },
+    "Landkreis Grafschaft Bentheim": {
+      "benefit_image": "Benefit_Landkreis_Grafschaft_Bentheim_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Osnabrück": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Osnabrück_Normal_Speed.png"
+    },
+    "Landkreis Hildesheim": {
+      "benefit_image": "Benefit_Landkreis_Hildesheim_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Delmenhorst": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Delmenhorst_Normal_Speed.png"
+    },
+    "Landkreis Cloppenburg": {
+      "benefit_image": "Benefit_Landkreis_Cloppenburg_Normal_Speed.png"
+    },
+    "Landkreis Uelzen": {
+      "benefit_image": "Benefit_Landkreis_Uelzen_Normal_Speed.png"
+    },
+    "Landkreis Celle": {
+      "benefit_image": "Benefit_Landkreis_Celle_Normal_Speed.png"
+    },
+    "Landkreis Hameln-Pyrmont": {
+      "benefit_image": "Benefit_Landkreis_Hameln-Pyrmont_Normal_Speed.png"
+    },
+    "Landkreis Verden": {
+      "benefit_image": "Benefit_Landkreis_Verden_Normal_Speed.png"
+    },
+    "Landkreis Osnabrück": {
+      "benefit_image": "Benefit_Landkreis_Osnabrück_Normal_Speed.png"
+    },
+    "Landkreis Region Hannover": {
+      "benefit_image": "Benefit_Landkreis_Region_Hannover_Normal_Speed.png"
+    },
+    "Landkreis Diepholz": {
+      "benefit_image": "Benefit_Landkreis_Diepholz_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Emden": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Emden_Normal_Speed.png"
+    },
+    "Landkreis Nienburg (Weser)": {
+      "benefit_image": "Benefit_Landkreis_Nienburg_(Weser)_Normal_Speed.png"
+    },
+    "Landkreis Lüchow-Dannenberg": {
+      "benefit_image": "Benefit_Landkreis_Lüchow-Dannenberg_Normal_Speed.png"
+    },
+    "Landkreis Harburg": {
+      "benefit_image": "Benefit_Landkreis_Harburg_Normal_Speed.png"
+    },
+    "Landkreis Göttingen": {
+      "benefit_image": "Benefit_Landkreis_Göttingen_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Salzgitter": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Salzgitter_Normal_Speed.png"
+    },
+    "Landkreis Heidekreis": {
+      "benefit_image": "Benefit_Landkreis_Heidekreis_Normal_Speed.png"
+    },
+    "Landkreis Friesland": {
+      "benefit_image": "Benefit_Landkreis_Friesland_Normal_Speed.png"
+    },
+    "Landkreis Stade": {
+      "benefit_image": "Benefit_Landkreis_Stade_Normal_Speed.png"
+    },
+    "Landkreis Osterholz": {
+      "benefit_image": "Benefit_Landkreis_Osterholz_Normal_Speed.png"
+    },
+    "Landkreis Aurich": {
+      "benefit_image": "Benefit_Landkreis_Aurich_Normal_Speed.png"
+    },
+    "Landkreis Helmstedt": {
+      "benefit_image": "Benefit_Landkreis_Helmstedt_Normal_Speed.png"
+    },
+    "Landkreis Schaumburg": {
+      "benefit_image": "Benefit_Landkreis_Schaumburg_Normal_Speed.png"
+    },
+    "Landkreis Emsland": {
+      "benefit_image": "Benefit_Landkreis_Emsland_Normal_Speed.png"
+    },
+    "Landkreis Peine": {
+      "benefit_image": "Benefit_Landkreis_Peine_Normal_Speed.png"
+    },
+    "Landkreis Lüneburg": {
+      "benefit_image": "Benefit_Landkreis_Lüneburg_Normal_Speed.png"
+    },
+    "Landkreis Rotenburg (Wümme)": {
+      "benefit_image": "Benefit_Landkreis_Rotenburg_(Wümme)_Normal_Speed.png"
+    },
+    "Landkreis Leer": {
+      "benefit_image": "Benefit_Landkreis_Leer_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Wilhelmshaven": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Wilhelmshaven_Normal_Speed.png"
+    },
+    "Landkreis Holzminden": {
+      "benefit_image": "Benefit_Landkreis_Holzminden_Normal_Speed.png"
+    },
+    "Landkreis Gifhorn": {
+      "benefit_image": "Benefit_Landkreis_Gifhorn_Normal_Speed.png"
+    },
+    "Landkreis Wittmund": {
+      "benefit_image": "Benefit_Landkreis_Wittmund_Normal_Speed.png"
+    },
+    "Landkreis Cuxhaven": {
+      "benefit_image": "Benefit_Landkreis_Cuxhaven_Normal_Speed.png"
+    },
+    "Landkreis Goslar": {
+      "benefit_image": "Benefit_Landkreis_Goslar_Normal_Speed.png"
+    },
+    "Landkreis Wesermarsch": {
+      "benefit_image": "Benefit_Landkreis_Wesermarsch_Normal_Speed.png"
+    },
+    "Landkreis Northeim": {
+      "benefit_image": "Benefit_Landkreis_Northeim_Normal_Speed.png"
+    },
+    "Landkreis Ammerland": {
+      "benefit_image": "Benefit_Landkreis_Ammerland_Normal_Speed.png"
+    },
+    "Landkreis Oldenburg": {
+      "benefit_image": "Benefit_Landkreis_Oldenburg_Normal_Speed.png"
+    }
+  },
+  "Baden-Württemberg": {
+    "Landkreis Hohenlohekreis": {
+      "benefit_image": "Benefit_Landkreis_Hohenlohekreis_Normal_Speed.png"
+    },
+    "Landkreis Schwäbisch Hall": {
+      "benefit_image": "Benefit_Landkreis_Schwäbisch_Hall_Normal_Speed.png"
+    },
+    "Landkreis Göppingen": {
+      "benefit_image": "Benefit_Landkreis_Göppingen_Normal_Speed.png"
+    },
+    "Landkreis Heilbronn": {
+      "benefit_image": "Benefit_Landkreis_Heilbronn_Normal_Speed.png"
+    },
+    "Stadtkreis Freiburg im Breisgau": {
+      "benefit_image": "Benefit_Stadtkreis_Freiburg_im_Breisgau_Normal_Speed.png"
+    },
+    "Landkreis Karlsruhe": {
+      "benefit_image": "Benefit_Landkreis_Karlsruhe_Normal_Speed.png"
+    },
+    "Landkreis Rastatt": {
+      "benefit_image": "Benefit_Landkreis_Rastatt_Normal_Speed.png"
+    },
+    "Landkreis Breisgau-Hochschwarzwald": {
+      "benefit_image": "Benefit_Landkreis_Breisgau-Hochschwarzwald_Normal_Speed.png"
+    },
+    "Landkreis Ortenaukreis": {
+      "benefit_image": "Benefit_Landkreis_Ortenaukreis_Normal_Speed.png"
+    },
+    "Landkreis Reutlingen": {
+      "benefit_image": "Benefit_Landkreis_Reutlingen_Normal_Speed.png"
+    },
+    "Landkreis Schwarzwald-Baar-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Schwarzwald-Baar-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Biberach": {
+      "benefit_image": "Benefit_Landkreis_Biberach_Normal_Speed.png"
+    },
+    "Landkreis Konstanz": {
+      "benefit_image": "Benefit_Landkreis_Konstanz_Normal_Speed.png"
+    },
+    "Landkreis Bodenseekreis": {
+      "benefit_image": "Benefit_Landkreis_Bodenseekreis_Normal_Speed.png"
+    },
+    "Landkreis Rems-Murr-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Rems-Murr-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Sigmaringen": {
+      "benefit_image": "Benefit_Landkreis_Sigmaringen_Normal_Speed.png"
+    },
+    "Landkreis Heidenheim": {
+      "benefit_image": "Benefit_Landkreis_Heidenheim_Normal_Speed.png"
+    },
+    "Landkreis Tuttlingen": {
+      "benefit_image": "Benefit_Landkreis_Tuttlingen_Normal_Speed.png"
+    },
+    "Stadtkreis Mannheim": {
+      "benefit_image": "Benefit_Stadtkreis_Mannheim_Normal_Speed.png"
+    },
+    "Landkreis Tübingen": {
+      "benefit_image": "Benefit_Landkreis_Tübingen_Normal_Speed.png"
+    },
+    "Landkreis Rottweil": {
+      "benefit_image": "Benefit_Landkreis_Rottweil_Normal_Speed.png"
+    },
+    "Landkreis Freudenstadt": {
+      "benefit_image": "Benefit_Landkreis_Freudenstadt_Normal_Speed.png"
+    },
+    "Landkreis Ludwigsburg": {
+      "benefit_image": "Benefit_Landkreis_Ludwigsburg_Normal_Speed.png"
+    },
+    "Landkreis Böblingen": {
+      "benefit_image": "Benefit_Landkreis_Böblingen_Normal_Speed.png"
+    },
+    "Stadtkreis Heidelberg": {
+      "benefit_image": "Benefit_Stadtkreis_Heidelberg_Normal_Speed.png"
+    },
+    "Landkreis Esslingen": {
+      "benefit_image": "Benefit_Landkreis_Esslingen_Normal_Speed.png"
+    },
+    "Landkreis Calw": {
+      "benefit_image": "Benefit_Landkreis_Calw_Normal_Speed.png"
+    },
+    "Landkreis Neckar-Odenwald-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Neckar-Odenwald-Kreis_Normal_Speed.png"
+    },
+    "Stadtkreis Heilbronn": {
+      "benefit_image": "Benefit_Stadtkreis_Heilbronn_Normal_Speed.png"
+    },
+    "Stadtkreis Ulm": {
+      "benefit_image": "Benefit_Stadtkreis_Ulm_Normal_Speed.png"
+    },
+    "Landkreis Main-Tauber-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Main-Tauber-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Ravensburg": {
+      "benefit_image": "Benefit_Landkreis_Ravensburg_Normal_Speed.png"
+    },
+    "Landkreis Ostalbkreis": {
+      "benefit_image": "Benefit_Landkreis_Ostalbkreis_Normal_Speed.png"
+    },
+    "Landkreis Waldshut": {
+      "benefit_image": "Benefit_Landkreis_Waldshut_Normal_Speed.png"
+    },
+    "Stadtkreis Karlsruhe": {
+      "benefit_image": "Benefit_Stadtkreis_Karlsruhe_Normal_Speed.png"
+    },
+    "Landkreis Zollernalbkreis": {
+      "benefit_image": "Benefit_Landkreis_Zollernalbkreis_Normal_Speed.png"
+    },
+    "Landkreis Emmendingen": {
+      "benefit_image": "Benefit_Landkreis_Emmendingen_Normal_Speed.png"
+    },
+    "Stadtkreis Pforzheim": {
+      "benefit_image": "Benefit_Stadtkreis_Pforzheim_Normal_Speed.png"
+    },
+    "Stadtkreis Stuttgart": {
+      "benefit_image": "Benefit_Stadtkreis_Stuttgart_Normal_Speed.png"
+    },
+    "Landkreis Alb-Donau-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Alb-Donau-Kreis_Normal_Speed.png"
+    },
+    "Landkreis Enzkreis": {
+      "benefit_image": "Benefit_Landkreis_Enzkreis_Normal_Speed.png"
+    },
+    "Landkreis Lörrach": {
+      "benefit_image": "Benefit_Landkreis_Lörrach_Normal_Speed.png"
+    },
+    "Stadtkreis Baden-Baden": {
+      "benefit_image": "Benefit_Stadtkreis_Baden-Baden_Normal_Speed.png"
+    },
+    "Landkreis Rhein-Neckar-Kreis": {
+      "benefit_image": "Benefit_Landkreis_Rhein-Neckar-Kreis_Normal_Speed.png"
+    }
+  },
+  "Brandenburg": {
+    "Landkreis Teltow-Fläming": {
+      "benefit_image": "Benefit_Landkreis_Teltow-Fläming_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Potsdam": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Potsdam_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Cottbus": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Cottbus_Normal_Speed.png"
+    },
+    "Landkreis Dahme-Spreewald": {
+      "benefit_image": "Benefit_Landkreis_Dahme-Spreewald_Normal_Speed.png"
+    },
+    "Landkreis Märkisch-Oderland": {
+      "benefit_image": "Benefit_Landkreis_Märkisch-Oderland_Normal_Speed.png"
+    },
+    "Landkreis Havelland": {
+      "benefit_image": "Benefit_Landkreis_Havelland_Normal_Speed.png"
+    },
+    "Landkreis Ostprignitz-Ruppin": {
+      "benefit_image": "Benefit_Landkreis_Ostprignitz-Ruppin_Normal_Speed.png"
+    },
+    "Landkreis Oder-Spree": {
+      "benefit_image": "Benefit_Landkreis_Oder-Spree_Normal_Speed.png"
+    },
+    "Landkreis Uckermark": {
+      "benefit_image": "Benefit_Landkreis_Uckermark_Normal_Speed.png"
+    },
+    "Landkreis Oberhavel": {
+      "benefit_image": "Benefit_Landkreis_Oberhavel_Normal_Speed.png"
+    },
+    "Landkreis Barnim": {
+      "benefit_image": "Benefit_Landkreis_Barnim_Normal_Speed.png"
+    },
+    "Landkreis Elbe-Elster": {
+      "benefit_image": "Benefit_Landkreis_Elbe-Elster_Normal_Speed.png"
+    },
+    "Landkreis Prignitz": {
+      "benefit_image": "Benefit_Landkreis_Prignitz_Normal_Speed.png"
+    },
+    "Landkreis Spree-Neiße": {
+      "benefit_image": "Benefit_Landkreis_Spree-Neiße_Normal_Speed.png"
+    },
+    "Landkreis Oberspreewald-Lausitz": {
+      "benefit_image": "Benefit_Landkreis_Oberspreewald-Lausitz_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Brandenburg an der Havel": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Brandenburg_an_der_Havel_Normal_Speed.png"
+    },
+    "Landkreis Potsdam-Mittelmark": {
+      "benefit_image": "Benefit_Landkreis_Potsdam-Mittelmark_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Frankfurt (Oder)": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Frankfurt_(Oder)_Normal_Speed.png"
+    }
+  },
+  "Hamburg": {
+    "Kreisfreie Stadt Hamburg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Hamburg_Normal_Speed.png"
+    }
+  },
+  "Mecklenburg-Vorpommern": {
+    "Kreisfreie Stadt Schwerin": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Schwerin_Normal_Speed.png"
+    },
+    "Landkreis Ludwigslust-Parchim": {
+      "benefit_image": "Benefit_Landkreis_Ludwigslust-Parchim_Normal_Speed.png"
+    },
+    "Landkreis Vorpommern-Rügen": {
+      "benefit_image": "Benefit_Landkreis_Vorpommern-Rügen_Normal_Speed.png"
+    },
+    "Landkreis Nordwestmecklenburg": {
+      "benefit_image": "Benefit_Landkreis_Nordwestmecklenburg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Rostock": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Rostock_Normal_Speed.png"
+    },
+    "Landkreis Vorpommern-Greifswald": {
+      "benefit_image": "Benefit_Landkreis_Vorpommern-Greifswald_Normal_Speed.png"
+    },
+    "Landkreis Rostock": {
+      "benefit_image": "Benefit_Landkreis_Rostock_Normal_Speed.png"
+    },
+    "Landkreis Mecklenburgische Seenplatte": {
+      "benefit_image": "Benefit_Landkreis_Mecklenburgische_Seenplatte_Normal_Speed.png"
+    }
+  },
+  "Sachsen-Anhalt": {
+    "Landkreis Burgenlandkreis": {
+      "benefit_image": "Benefit_Landkreis_Burgenlandkreis_Normal_Speed.png"
+    },
+    "Landkreis Wittenberg": {
+      "benefit_image": "Benefit_Landkreis_Wittenberg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Dessau-Roßlau": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Dessau-Roßlau_Normal_Speed.png"
+    },
+    "Landkreis Mansfeld-Südharz": {
+      "benefit_image": "Benefit_Landkreis_Mansfeld-Südharz_Normal_Speed.png"
+    },
+    "Landkreis Börde": {
+      "benefit_image": "Benefit_Landkreis_Börde_Normal_Speed.png"
+    },
+    "Landkreis Jerichower Land": {
+      "benefit_image": "Benefit_Landkreis_Jerichower_Land_Normal_Speed.png"
+    },
+    "Landkreis Salzlandkreis": {
+      "benefit_image": "Benefit_Landkreis_Salzlandkreis_Normal_Speed.png"
+    },
+    "Landkreis Altmarkkreis Salzwedel": {
+      "benefit_image": "Benefit_Landkreis_Altmarkkreis_Salzwedel_Normal_Speed.png"
+    },
+    "Landkreis Saalekreis": {
+      "benefit_image": "Benefit_Landkreis_Saalekreis_Normal_Speed.png"
+    },
+    "Landkreis Harz": {
+      "benefit_image": "Benefit_Landkreis_Harz_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Magdeburg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Magdeburg_Normal_Speed.png"
+    },
+    "Landkreis Anhalt-Bitterfeld": {
+      "benefit_image": "Benefit_Landkreis_Anhalt-Bitterfeld_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Halle (Saale)": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Halle_(Saale)_Normal_Speed.png"
+    },
+    "Landkreis Stendal": {
+      "benefit_image": "Benefit_Landkreis_Stendal_Normal_Speed.png"
+    }
+  },
+  "Berlin": {
+    "Kreisfreie Stadt Berlin": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Berlin_Normal_Speed.png"
+    }
+  },
+  "Nordrhein-Westfalen": {
+    "Kreisfreie Stadt Gelsenkirchen": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Gelsenkirchen_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Krefeld": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Krefeld_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Mönchengladbach": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Mönchengladbach_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Dortmund": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Dortmund_Normal_Speed.png"
+    },
+    "Kreis Borken": {
+      "benefit_image": "Benefit_Kreis_Borken_Normal_Speed.png"
+    },
+    "Kreis Warendorf": {
+      "benefit_image": "Benefit_Kreis_Warendorf_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Bonn": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Bonn_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Essen": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Essen_Normal_Speed.png"
+    },
+    "Kreis Rhein-Kreis Neuss": {
+      "benefit_image": "Benefit_Kreis_Rhein-Kreis_Neuss_Normal_Speed.png"
+    },
+    "Kreis Oberbergischer Kreis": {
+      "benefit_image": "Benefit_Kreis_Oberbergischer_Kreis_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Bottrop": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Bottrop_Normal_Speed.png"
+    },
+    "Kreis Mettmann": {
+      "benefit_image": "Benefit_Kreis_Mettmann_Normal_Speed.png"
+    },
+    "Kreis Minden-Lübbecke": {
+      "benefit_image": "Benefit_Kreis_Minden-Lübbecke_Normal_Speed.png"
+    },
+    "Kreis Märkischer Kreis": {
+      "benefit_image": "Benefit_Kreis_Märkischer_Kreis_Normal_Speed.png"
+    },
+    "Kreis Paderborn": {
+      "benefit_image": "Benefit_Kreis_Paderborn_Normal_Speed.png"
+    },
+    "Kreis Herford": {
+      "benefit_image": "Benefit_Kreis_Herford_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Bielefeld": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Bielefeld_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Bochum": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Bochum_Normal_Speed.png"
+    },
+    "Kreis Rhein-Erft-Kreis": {
+      "benefit_image": "Benefit_Kreis_Rhein-Erft-Kreis_Normal_Speed.png"
+    },
+    "Kreis Düren": {
+      "benefit_image": "Benefit_Kreis_Düren_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Oberhausen": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Oberhausen_Normal_Speed.png"
+    },
+    "Kreis Steinfurt": {
+      "benefit_image": "Benefit_Kreis_Steinfurt_Normal_Speed.png"
+    },
+    "Kreis Soest": {
+      "benefit_image": "Benefit_Kreis_Soest_Normal_Speed.png"
+    },
+    "Kreis Höxter": {
+      "benefit_image": "Benefit_Kreis_Höxter_Normal_Speed.png"
+    },
+    "Kreis Städteregion Aachen": {
+      "benefit_image": "Benefit_Kreis_Städteregion_Aachen_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Düsseldorf": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Düsseldorf_Normal_Speed.png"
+    },
+    "Kreis Olpe": {
+      "benefit_image": "Benefit_Kreis_Olpe_Normal_Speed.png"
+    },
+    "Kreis Rhein-Sieg-Kreis": {
+      "benefit_image": "Benefit_Kreis_Rhein-Sieg-Kreis_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Solingen": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Solingen_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Münster": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Münster_Normal_Speed.png"
+    },
+    "Kreis Siegen-Wittgenstein": {
+      "benefit_image": "Benefit_Kreis_Siegen-Wittgenstein_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Hagen": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Hagen_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Wuppertal": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Wuppertal_Normal_Speed.png"
+    },
+    "Kreis Rheinisch-Bergischer Kreis": {
+      "benefit_image": "Benefit_Kreis_Rheinisch-Bergischer_Kreis_Normal_Speed.png"
+    },
+    "Kreis Euskirchen": {
+      "benefit_image": "Benefit_Kreis_Euskirchen_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Remscheid": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Remscheid_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Leverkusen": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Leverkusen_Normal_Speed.png"
+    },
+    "Kreis Wesel": {
+      "benefit_image": "Benefit_Kreis_Wesel_Normal_Speed.png"
+    },
+    "Kreis Ennepe-Ruhr-Kreis": {
+      "benefit_image": "Benefit_Kreis_Ennepe-Ruhr-Kreis_Normal_Speed.png"
+    },
+    "Kreis Coesfeld": {
+      "benefit_image": "Benefit_Kreis_Coesfeld_Normal_Speed.png"
+    },
+    "Kreis Unna": {
+      "benefit_image": "Benefit_Kreis_Unna_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Mülheim an der Ruhr": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Mülheim_an_der_Ruhr_Normal_Speed.png"
+    },
+    "Kreis Heinsberg": {
+      "benefit_image": "Benefit_Kreis_Heinsberg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Herne": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Herne_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Hamm": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Hamm_Normal_Speed.png"
+    },
+    "Kreis Kleve": {
+      "benefit_image": "Benefit_Kreis_Kleve_Normal_Speed.png"
+    },
+    "Kreis Recklinghausen": {
+      "benefit_image": "Benefit_Kreis_Recklinghausen_Normal_Speed.png"
+    },
+    "Kreis Hochsauerlandkreis": {
+      "benefit_image": "Benefit_Kreis_Hochsauerlandkreis_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Köln": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Köln_Normal_Speed.png"
+    },
+    "Kreis Viersen": {
+      "benefit_image": "Benefit_Kreis_Viersen_Normal_Speed.png"
+    },
+    "Kreis Lippe": {
+      "benefit_image": "Benefit_Kreis_Lippe_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Duisburg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Duisburg_Normal_Speed.png"
+    },
+    "Kreis Gütersloh": {
+      "benefit_image": "Benefit_Kreis_Gütersloh_Normal_Speed.png"
+    }
+  },
+  "Bayern": {
+    "Landkreis Miltenberg": {
+      "benefit_image": "Benefit_Landkreis_Miltenberg_Normal_Speed.png"
+    },
+    "Landkreis Schwandorf": {
+      "benefit_image": "Benefit_Landkreis_Schwandorf_Normal_Speed.png"
+    },
+    "Landkreis Fürstenfeldbruck": {
+      "benefit_image": "Benefit_Landkreis_Fürstenfeldbruck_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Erlangen": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Erlangen_Normal_Speed.png"
+    },
+    "Landkreis Coburg": {
+      "benefit_image": "Benefit_Landkreis_Coburg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Landshut": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Landshut_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Würzburg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Würzburg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Augsburg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Augsburg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Bayreuth": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Bayreuth_Normal_Speed.png"
+    },
+    "Landkreis Landshut": {
+      "benefit_image": "Benefit_Landkreis_Landshut_Normal_Speed.png"
+    },
+    "Landkreis Fürth": {
+      "benefit_image": "Benefit_Landkreis_Fürth_Normal_Speed.png"
+    },
+    "Landkreis Forchheim": {
+      "benefit_image": "Benefit_Landkreis_Forchheim_Normal_Speed.png"
+    },
+    "Landkreis Augsburg": {
+      "benefit_image": "Benefit_Landkreis_Augsburg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Weiden i.d.OPf.": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Weiden_i.d.OPf._Normal_Speed.png"
+    },
+    "Landkreis Neu-Ulm": {
+      "benefit_image": "Benefit_Landkreis_Neu-Ulm_Normal_Speed.png"
+    },
+    "Landkreis Bayreuth": {
+      "benefit_image": "Benefit_Landkreis_Bayreuth_Normal_Speed.png"
+    },
+    "Landkreis Wunsiedel i.Fichtelgebirge": {
+      "benefit_image": "Benefit_Landkreis_Wunsiedel_i.Fichtelgebirge_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Straubing": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Straubing_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Schwabach": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Schwabach_Normal_Speed.png"
+    },
+    "Landkreis Eichstätt": {
+      "benefit_image": "Benefit_Landkreis_Eichstätt_Normal_Speed.png"
+    },
+    "Landkreis Donau-Ries": {
+      "benefit_image": "Benefit_Landkreis_Donau-Ries_Normal_Speed.png"
+    },
+    "Landkreis Freising": {
+      "benefit_image": "Benefit_Landkreis_Freising_Normal_Speed.png"
+    },
+    "Landkreis Oberallgäu": {
+      "benefit_image": "Benefit_Landkreis_Oberallgäu_Normal_Speed.png"
+    },
+    "Landkreis Landsberg am Lech": {
+      "benefit_image": "Benefit_Landkreis_Landsberg_am_Lech_Normal_Speed.png"
+    },
+    "Landkreis München": {
+      "benefit_image": "Benefit_Landkreis_München_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Schweinfurt": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Schweinfurt_Normal_Speed.png"
+    },
+    "Landkreis Neuburg-Schrobenhausen": {
+      "benefit_image": "Benefit_Landkreis_Neuburg-Schrobenhausen_Normal_Speed.png"
+    },
+    "Landkreis Miesbach": {
+      "benefit_image": "Benefit_Landkreis_Miesbach_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt München": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_München_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Passau": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Passau_Normal_Speed.png"
+    },
+    "Landkreis Lindau (Bodensee)": {
+      "benefit_image": "Benefit_Landkreis_Lindau_(Bodensee)_Normal_Speed.png"
+    },
+    "Landkreis Rhön-Grabfeld": {
+      "benefit_image": "Benefit_Landkreis_Rhön-Grabfeld_Normal_Speed.png"
+    },
+    "Landkreis Hof": {
+      "benefit_image": "Benefit_Landkreis_Hof_Normal_Speed.png"
+    },
+    "Landkreis Neumarkt i.d.OPf.": {
+      "benefit_image": "Benefit_Landkreis_Neumarkt_i.d.OPf._Normal_Speed.png"
+    },
+    "Landkreis Tirschenreuth": {
+      "benefit_image": "Benefit_Landkreis_Tirschenreuth_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Kempten (Allgäu)": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Kempten_(Allgäu)_Normal_Speed.png"
+    },
+    "Landkreis Ostallgäu": {
+      "benefit_image": "Benefit_Landkreis_Ostallgäu_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Ingolstadt": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Ingolstadt_Normal_Speed.png"
+    },
+    "Landkreis Altötting": {
+      "benefit_image": "Benefit_Landkreis_Altötting_Normal_Speed.png"
+    },
+    "Landkreis Kronach": {
+      "benefit_image": "Benefit_Landkreis_Kronach_Normal_Speed.png"
+    },
+    "Landkreis Neustadt a.d.Aisch-Bad Windsheim": {
+      "benefit_image": "Benefit_Landkreis_Neustadt_a.d.Aisch-Bad_Windsheim_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Coburg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Coburg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Rosenheim": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Rosenheim_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Bamberg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Bamberg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Fürth": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Fürth_Normal_Speed.png"
+    },
+    "Landkreis Amberg-Sulzbach": {
+      "benefit_image": "Benefit_Landkreis_Amberg-Sulzbach_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Amberg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Amberg_Normal_Speed.png"
+    },
+    "Landkreis Dachau": {
+      "benefit_image": "Benefit_Landkreis_Dachau_Normal_Speed.png"
+    },
+    "Landkreis Unterallgäu": {
+      "benefit_image": "Benefit_Landkreis_Unterallgäu_Normal_Speed.png"
+    },
+    "Landkreis Aschaffenburg": {
+      "benefit_image": "Benefit_Landkreis_Aschaffenburg_Normal_Speed.png"
+    },
+    "Landkreis Dillingen a.d.Donau": {
+      "benefit_image": "Benefit_Landkreis_Dillingen_a.d.Donau_Normal_Speed.png"
+    },
+    "Landkreis Passau": {
+      "benefit_image": "Benefit_Landkreis_Passau_Normal_Speed.png"
+    },
+    "Landkreis Günzburg": {
+      "benefit_image": "Benefit_Landkreis_Günzburg_Normal_Speed.png"
+    },
+    "Landkreis Kitzingen": {
+      "benefit_image": "Benefit_Landkreis_Kitzingen_Normal_Speed.png"
+    },
+    "Landkreis Ansbach": {
+      "benefit_image": "Benefit_Landkreis_Ansbach_Normal_Speed.png"
+    },
+    "Landkreis Weilheim-Schongau": {
+      "benefit_image": "Benefit_Landkreis_Weilheim-Schongau_Normal_Speed.png"
+    },
+    "Landkreis Cham": {
+      "benefit_image": "Benefit_Landkreis_Cham_Normal_Speed.png"
+    },
+    "Landkreis Kulmbach": {
+      "benefit_image": "Benefit_Landkreis_Kulmbach_Normal_Speed.png"
+    },
+    "Landkreis Starnberg": {
+      "benefit_image": "Benefit_Landkreis_Starnberg_Normal_Speed.png"
+    },
+    "Landkreis Regen": {
+      "benefit_image": "Benefit_Landkreis_Regen_Normal_Speed.png"
+    },
+    "Landkreis Haßberge": {
+      "benefit_image": "Benefit_Landkreis_Haßberge_Normal_Speed.png"
+    },
+    "Landkreis Deggendorf": {
+      "benefit_image": "Benefit_Landkreis_Deggendorf_Normal_Speed.png"
+    },
+    "Landkreis Bamberg": {
+      "benefit_image": "Benefit_Landkreis_Bamberg_Normal_Speed.png"
+    },
+    "Landkreis Schweinfurt": {
+      "benefit_image": "Benefit_Landkreis_Schweinfurt_Normal_Speed.png"
+    },
+    "Landkreis Würzburg": {
+      "benefit_image": "Benefit_Landkreis_Würzburg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Memmingen": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Memmingen_Normal_Speed.png"
+    },
+    "Landkreis Lichtenfels": {
+      "benefit_image": "Benefit_Landkreis_Lichtenfels_Normal_Speed.png"
+    },
+    "Landkreis Erlangen-Höchstadt": {
+      "benefit_image": "Benefit_Landkreis_Erlangen-Höchstadt_Normal_Speed.png"
+    },
+    "Landkreis Nürnberger Land": {
+      "benefit_image": "Benefit_Landkreis_Nürnberger_Land_Normal_Speed.png"
+    },
+    "Landkreis Dingolfing-Landau": {
+      "benefit_image": "Benefit_Landkreis_Dingolfing-Landau_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Ansbach": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Ansbach_Normal_Speed.png"
+    },
+    "Landkreis Pfaffenhofen a.d.Ilm": {
+      "benefit_image": "Benefit_Landkreis_Pfaffenhofen_a.d.Ilm_Normal_Speed.png"
+    },
+    "Landkreis Garmisch-Partenkirchen": {
+      "benefit_image": "Benefit_Landkreis_Garmisch-Partenkirchen_Normal_Speed.png"
+    },
+    "Landkreis Traunstein": {
+      "benefit_image": "Benefit_Landkreis_Traunstein_Normal_Speed.png"
+    },
+    "Landkreis Kelheim": {
+      "benefit_image": "Benefit_Landkreis_Kelheim_Normal_Speed.png"
+    },
+    "Landkreis Erding": {
+      "benefit_image": "Benefit_Landkreis_Erding_Normal_Speed.png"
+    },
+    "Landkreis Aichach-Friedberg": {
+      "benefit_image": "Benefit_Landkreis_Aichach-Friedberg_Normal_Speed.png"
+    },
+    "Landkreis Bad Kissingen": {
+      "benefit_image": "Benefit_Landkreis_Bad_Kissingen_Normal_Speed.png"
+    },
+    "Landkreis Regensburg": {
+      "benefit_image": "Benefit_Landkreis_Regensburg_Normal_Speed.png"
+    },
+    "Landkreis Mühldorf a.Inn": {
+      "benefit_image": "Benefit_Landkreis_Mühldorf_a.Inn_Normal_Speed.png"
+    },
+    "Landkreis Neustadt a.d.Waldnaab": {
+      "benefit_image": "Benefit_Landkreis_Neustadt_a.d.Waldnaab_Normal_Speed.png"
+    },
+    "Landkreis Rottal-Inn": {
+      "benefit_image": "Benefit_Landkreis_Rottal-Inn_Normal_Speed.png"
+    },
+    "Landkreis Main-Spessart": {
+      "benefit_image": "Benefit_Landkreis_Main-Spessart_Normal_Speed.png"
+    },
+    "Landkreis Rosenheim": {
+      "benefit_image": "Benefit_Landkreis_Rosenheim_Normal_Speed.png"
+    },
+    "Landkreis Straubing-Bogen": {
+      "benefit_image": "Benefit_Landkreis_Straubing-Bogen_Normal_Speed.png"
+    },
+    "Landkreis Ebersberg": {
+      "benefit_image": "Benefit_Landkreis_Ebersberg_Normal_Speed.png"
+    },
+    "Landkreis Roth": {
+      "benefit_image": "Benefit_Landkreis_Roth_Normal_Speed.png"
+    },
+    "Landkreis Weißenburg-Gunzenhausen": {
+      "benefit_image": "Benefit_Landkreis_Weißenburg-Gunzenhausen_Normal_Speed.png"
+    },
+    "Landkreis Berchtesgadener Land": {
+      "benefit_image": "Benefit_Landkreis_Berchtesgadener_Land_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Hof": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Hof_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Nürnberg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Nürnberg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Aschaffenburg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Aschaffenburg_Normal_Speed.png"
+    },
+    "Landkreis Freyung-Grafenau": {
+      "benefit_image": "Benefit_Landkreis_Freyung-Grafenau_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Regensburg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Regensburg_Normal_Speed.png"
+    },
+    "Landkreis Bad Tölz-Wolfratshausen": {
+      "benefit_image": "Benefit_Landkreis_Bad_Tölz-Wolfratshausen_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Kaufbeuren": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Kaufbeuren_Normal_Speed.png"
+    }
+  },
+  "Schleswig-Holstein": {
+    "Kreis Pinneberg": {
+      "benefit_image": "Benefit_Kreis_Pinneberg_Normal_Speed.png"
+    },
+    "Kreis Ostholstein": {
+      "benefit_image": "Benefit_Kreis_Ostholstein_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Kiel": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Kiel_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Flensburg": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Flensburg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Lübeck": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Lübeck_Normal_Speed.png"
+    },
+    "Kreis Segeberg": {
+      "benefit_image": "Benefit_Kreis_Segeberg_Normal_Speed.png"
+    },
+    "Kreis Stormarn": {
+      "benefit_image": "Benefit_Kreis_Stormarn_Normal_Speed.png"
+    },
+    "Kreis Steinburg": {
+      "benefit_image": "Benefit_Kreis_Steinburg_Normal_Speed.png"
+    },
+    "Kreis Dithmarschen": {
+      "benefit_image": "Benefit_Kreis_Dithmarschen_Normal_Speed.png"
+    },
+    "Kreis Schleswig-Flensburg": {
+      "benefit_image": "Benefit_Kreis_Schleswig-Flensburg_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Neumünster": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Neumünster_Normal_Speed.png"
+    },
+    "Kreis Nordfriesland": {
+      "benefit_image": "Benefit_Kreis_Nordfriesland_Normal_Speed.png"
+    },
+    "Kreis Herzogtum Lauenburg": {
+      "benefit_image": "Benefit_Kreis_Herzogtum_Lauenburg_Normal_Speed.png"
+    },
+    "Kreis Rendsburg-Eckernförde": {
+      "benefit_image": "Benefit_Kreis_Rendsburg-Eckernförde_Normal_Speed.png"
+    },
+    "Kreis Plön": {
+      "benefit_image": "Benefit_Kreis_Plön_Normal_Speed.png"
+    }
+  },
+  "Bremen": {
+    "Kreisfreie Stadt Bremerhaven": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Bremerhaven_Normal_Speed.png"
+    },
+    "Kreisfreie Stadt Bremen": {
+      "benefit_image": "Benefit_Kreisfreie_Stadt_Bremen_Normal_Speed.png"
+    }
+  }
+}
