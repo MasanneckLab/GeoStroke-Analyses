@@ -2,15 +2,15 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](#requirements)
-[![Status](https://img.shields.io/badge/status-in%20review-yellow.svg)](#publication)
+[![Status](https://img.shields.io/badge/status-accepted-green.svg)](#publication)
 [![Platform](https://img.shields.io/badge/platform-macOS%20|%20Linux%20|%20Windows-lightgrey.svg)](#system-requirements)
 [![OpenRouteService](https://img.shields.io/badge/OpenRouteService-required-orange.svg)](#openrouteservice-configuration)
 
 ## 📄 Publication
 
-**Masanneck et al. (2025)**. "Optimizing Prehospital Stroke Care: Mapping Stroke Unit Access and Leveraging CT Availability Across Germany – a Cross-sectional Analysis"
+**Masanneck et al. (2025)**. "Direct stroke unit access versus a hub-and-spoke model with telemedicine-assisted CT in Germany: a cross-sectional geospatial analysis"
 
-**Status**: Under review at *Lancet Regional Health Europe*
+**Status**: Accepted at *Lancet Regional Health Europe* (DOI and link will follow soon)
 
 **Interactive Results**: [GeoStroke Visualizer](https://masannecklab.github.io/GeoStroke-Visualizer/)
 
@@ -18,11 +18,12 @@
 
 ```bibtex
 @article{masanneck2025geostroke,
-  title={Optimizing Prehospital Stroke Care: Mapping Stroke Unit Access and Leveraging CT Availability Across Germany – a Cross-sectional Analysis},
+  title={Direct stroke unit access versus a hub-and-spoke model with telemedicine-assisted CT in Germany: a cross-sectional geospatial analysis},
   author={Masanneck, Lars and [Authors]},
   journal={Lancet Regional Health Europe},
   year={2025},
-  status={Under Review}
+  status={Accepted},
+  note={DOI and link will follow soon}
 }
 ```
 
