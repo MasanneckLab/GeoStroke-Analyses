@@ -230,3 +230,6 @@ tmp_analysis/
 .DS_Store
 *.dmg
 
+
+# too large for GitHub without LFS
+Graphs/*.eps
