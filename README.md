@@ -10,20 +10,35 @@
 
 **Masanneck et al. (2025)**. "Direct stroke unit access versus a hub-and-spoke model with telemedicine-assisted CT in Germany: a cross-sectional geospatial analysis"
 
-**Status**: Accepted at *Lancet Regional Health Europe* (DOI and link will follow soon)
+**Status**: Accepted at *Lancet Regional Health Europe*. Masanneck et al. (2025), "Direct stroke unit access versus a hub-and-spoke model with telemedicine-assisted CT in Germany: a cross-sectional geospatial analysis", *Lancet Regional Health Europe* (accepted). 10.1016/j.lanepe.2026.101604. - https://doi.org/10.1016/j.lanepe.2026.101604. 
 
 **Interactive Results**: [GeoStroke Visualizer](https://masannecklab.github.io/GeoStroke-Visualizer/)
 
 ### Citation
 
 ```bibtex
-@article{masanneck2025geostroke,
-  title={Direct stroke unit access versus a hub-and-spoke model with telemedicine-assisted CT in Germany: a cross-sectional geospatial analysis},
-  author={Masanneck, Lars and [Authors]},
-  journal={Lancet Regional Health Europe},
-  year={2025},
-  status={Accepted},
-  note={DOI and link will follow soon}
+@article{MASANNECK2026101604,
+title = {Direct stroke unit access versus a hub-and-spoke model with telemedicine-assisted CT in Germany: a cross-sectional geospatial analysis},
+journal = {The Lancet Regional Health - Europe},
+volume = {63},
+pages = {101604},
+year = {2026},
+issn = {2666-7762},
+doi = {https://doi.org/10.1016/j.lanepe.2026.101604},
+url = {https://www.sciencedirect.com/science/article/pii/S2666776226000165},
+author = {Lars Masanneck and Marius Vach and Julian Caspers and Christian Rubbert and David von der Lieth and Sven G. Meuth and Marc Pawlitzki and Michael Gliem},
+keywords = {Stroke, Models of care, Outcome, Telemedicine},
+abstract = {Summary
+Background
+Timely reperfusion offers the greatest benefit in acute ischaemic stroke within the first hour after onset. However, geographic disparities in stroke care access persist across Germany. Despite the potential of telemedicine and mobile stroke units, nationwide data that quantify existing care gaps or systematically investigate the benefit of early imaging with subsequent thrombolysis in locally accessible, CT-equipped hospitals with telemedicine are lacking. This study modelled nationwide access and compared direct transfer to specialised hospitals with a hub-and-spoke strategy (nearest CT plus telemedicine) for early thrombolysis.
+Methods
+We performed a cross-sectional geospatial analysis combining national facility registries and 2023 hospital quality reports (data collected February 1st–July 23rd, 2025). We mapped German CT-equipped hospitals (n = 1475), stroke-ready hospitals (≥100 annual cases of “complex neurological treatment of acute stroke”, n = 463) and certified stroke units (n = 349). For these facilities we modelled driving-time access up to 60 min in 5-min intervals using a local installation of openrouteservice, overlaying these on population and settlement grids. Additional scenarios simulated variations in ambulance speed (default: standard openrouteservice vehicle speed) or additional in-hospital delays when using a hub-and-spoke scenario. We then compared hub-and-spoke versus direct transfer to specialised hospitals on a national, state- and county-level.
+Findings
+Within 30 min, nearly all residents (82,484,915/83,420,000; 98.9%) could reach a CT-equipped hospital, 90.0% (75,051,793) a stroke-ready hospital, but only 85.0% (70,875,055) a certified stroke unit. Compared with direct transfer to a stroke unit, a hub-and-spoke pathway would let 36.4% of inhabitants start imaging ≥10 min sooner (assuming normal speed, other scenarios varying from 4.5% to 40.0%) and for 14.2% it could save ≥20 min (varying from 1.1% to 18.2% across scenarios). Estimated benefits of a hub-and-spoke model depended on assumed driving speed and declined with simulated CT delays. Rural regions had particularly pronounced access gaps to stroke care, as evidenced by lower levels of urbanisation in regions with a higher hub-and-spoke benefit potential. State-level analysis illustrated heterogeneity, with 48.6% of inhabitants potentially benefitting from a hub-and-spoke model in Saxony-Anhalt, but <5% in city-states (assuming normal driving speed and 10-min delay).
+Interpretation
+Marked intra-national inequities in rapid accessibility to stroke care persist. Leveraging CT-equipped hospitals with telemedicine could enable timelier thrombolysis within a hub-and-spoke model. Open questions regarding implementation and economics should be investigated.
+Funding
+University Hospital Düsseldorf, the B. Braun Foundation, and the Ministry of Economic Affairs, Innovation, Digitalization and Energy of the State of North Rhine-Westphalia (funding number 005–2008-0055).}
 }
 ```
 
